@@ -2,17 +2,22 @@ from sklearn import svm
 import sys, numpy
 
 def readXY(xf, yf):
-	X = numpy.loadtxt(xf, delimiter='\t')
-	Y = numpy.array([float(l.strip()) for l in open(xf)])
+	X = []
+	for line in open(xf):
+		values = [float(v) for v in line.strip().split('\t')]
+		X.append(values)
+	Y = numpy.array([float(l.strip()) for l in open(yf)])
 	return X, Y
 
 def writeLabels(labels, file):
+	c = -1
 	for l in labels:
-		file.write(str(l) + '\n')
+		c += 1
+		file.write('Iconic\t' + str(c) + '\t' + str(l) + '\t' + str(c) + '\n')
 	file.close()
 
 C = float(sys.argv[1])
-kernel = int(sys.argv[2])
+kernel = sys.argv[2]
 degree = int(sys.argv[3])
 gamma = float(sys.argv[4])
 coef0 = float(sys.argv[5])
