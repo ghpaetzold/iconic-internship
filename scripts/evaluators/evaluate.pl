@@ -65,11 +65,9 @@ for(my $i=2; $i<=$#ARGV; $i++){
 
     # Scoring results
     if( $MAE>-$INF ){
-	printf "%30s\t:: Scoring: (primary) MeanAvgErr = %5.2f\t (secondary) RootMeanSqrErr = %5.2f\t Interval = [%.1f-%.1f]\n",
-        $method, $MAE, $RMSE, $MINinterv, $MAXinterv;
+	printf "MeanAvgErr: %5.2f, RootMeanSqrErr: %5.2f\n", $MAE, $RMSE;
     }
-    else{ printf "%30s\t:: Scoring: (primary) MeanAvgErr = %5s\t (secondary) RootMeanSqrErr = %5s\n",
-          $method, "--", "--"; }
+    else{ printf "MeanAvgErr: %5s, RootMeanSqrErr: %5s\n",  $method, "--", "--"; }
 }
 
 sub readInput{
