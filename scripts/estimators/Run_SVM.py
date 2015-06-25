@@ -3,9 +3,9 @@ import os
 #Parameters:
 Cs = ['0.1', '1.0', '10.0']
 kernels = ['rbf', 'poly', 'sigmoid', 'linear']
-kernels = ['sigmoid', 'linear']
+#kernels = ['sigmoid', 'linear']
 degrees = ['2']
-gammas = ['0.0', '0.1', '0.01']
+gammas = ['0.0', '1.0', '10.0']
 coef0s = ['0.0', '1.0']
 
 #Files:

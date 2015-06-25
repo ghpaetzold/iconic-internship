@@ -1,6142 +1,6142 @@
-Iconic	0	17.0	0
-Iconic	1	34.0	1
-Iconic	2	69.0	2
-Iconic	3	19.0	3
-Iconic	4	37.0	4
-Iconic	5	42.0	5
-Iconic	6	29.0	6
-Iconic	7	58.0	7
-Iconic	8	20.0	8
-Iconic	9	34.0	9
-Iconic	10	20.0	10
-Iconic	11	24.0	11
-Iconic	12	27.0	12
-Iconic	13	25.0	13
-Iconic	14	10.0	14
-Iconic	15	14.0	15
-Iconic	16	22.0	16
-Iconic	17	24.0	17
-Iconic	18	29.0	18
-Iconic	19	44.0	19
-Iconic	20	19.0	20
-Iconic	21	27.0	21
-Iconic	22	45.0	22
-Iconic	23	26.0	23
-Iconic	24	44.0	24
-Iconic	25	17.0	25
-Iconic	26	63.0	26
-Iconic	27	27.0	27
-Iconic	28	42.0	28
-Iconic	29	47.0	29
-Iconic	30	17.0	30
-Iconic	31	27.0	31
-Iconic	32	21.0	32
-Iconic	33	58.0	33
-Iconic	34	42.0	34
-Iconic	35	19.0	35
-Iconic	36	19.0	36
-Iconic	37	9.0	37
-Iconic	38	30.0	38
-Iconic	39	27.0	39
-Iconic	40	10.0	40
-Iconic	41	10.0	41
-Iconic	42	36.0	42
-Iconic	43	12.0	43
-Iconic	44	22.0	44
-Iconic	45	15.0	45
-Iconic	46	42.0	46
-Iconic	47	56.0	47
-Iconic	48	40.0	48
-Iconic	49	24.0	49
-Iconic	50	35.0	50
-Iconic	51	44.0	51
-Iconic	52	20.0	52
-Iconic	53	28.0	53
-Iconic	54	18.0	54
-Iconic	55	30.0	55
-Iconic	56	36.0	56
-Iconic	57	18.0	57
-Iconic	58	18.0	58
-Iconic	59	14.0	59
-Iconic	60	48.0	60
-Iconic	61	30.0	61
-Iconic	62	18.0	62
-Iconic	63	26.0	63
-Iconic	64	11.0	64
-Iconic	65	19.0	65
-Iconic	66	50.0	66
-Iconic	67	36.0	67
-Iconic	68	30.0	68
-Iconic	69	13.0	69
-Iconic	70	16.0	70
-Iconic	71	20.0	71
-Iconic	72	8.0	72
-Iconic	73	23.0	73
-Iconic	74	70.0	74
-Iconic	75	19.0	75
-Iconic	76	12.0	76
-Iconic	77	47.0	77
-Iconic	78	54.0	78
-Iconic	79	17.0	79
-Iconic	80	31.0	80
-Iconic	81	24.0	81
-Iconic	82	31.0	82
-Iconic	83	10.0	83
-Iconic	84	24.0	84
-Iconic	85	31.0	85
-Iconic	86	23.0	86
-Iconic	87	17.0	87
-Iconic	88	27.0	88
-Iconic	89	21.0	89
-Iconic	90	37.0	90
-Iconic	91	52.0	91
-Iconic	92	30.0	92
-Iconic	93	61.0	93
-Iconic	94	35.0	94
-Iconic	95	29.0	95
-Iconic	96	25.0	96
-Iconic	97	25.0	97
-Iconic	98	46.0	98
-Iconic	99	35.0	99
-Iconic	100	20.0	100
-Iconic	101	61.0	101
-Iconic	102	42.0	102
-Iconic	103	58.0	103
-Iconic	104	27.0	104
-Iconic	105	32.0	105
-Iconic	106	28.0	106
-Iconic	107	56.0	107
-Iconic	108	47.0	108
-Iconic	109	12.0	109
-Iconic	110	59.0	110
-Iconic	111	31.0	111
-Iconic	112	26.0	112
-Iconic	113	18.0	113
-Iconic	114	45.0	114
-Iconic	115	12.0	115
-Iconic	116	38.0	116
-Iconic	117	50.0	117
-Iconic	118	12.0	118
-Iconic	119	24.0	119
-Iconic	120	24.0	120
-Iconic	121	14.0	121
-Iconic	122	45.0	122
-Iconic	123	28.0	123
-Iconic	124	27.0	124
-Iconic	125	8.0	125
-Iconic	126	66.0	126
-Iconic	127	15.0	127
-Iconic	128	19.0	128
-Iconic	129	26.0	129
-Iconic	130	57.0	130
-Iconic	131	27.0	131
-Iconic	132	57.0	132
-Iconic	133	54.0	133
-Iconic	134	20.0	134
-Iconic	135	16.0	135
-Iconic	136	15.0	136
-Iconic	137	11.0	137
-Iconic	138	28.0	138
-Iconic	139	44.0	139
-Iconic	140	28.0	140
-Iconic	141	35.0	141
-Iconic	142	50.0	142
-Iconic	143	20.0	143
-Iconic	144	15.0	144
-Iconic	145	47.0	145
-Iconic	146	19.0	146
-Iconic	147	20.0	147
-Iconic	148	18.0	148
-Iconic	149	20.0	149
-Iconic	150	48.0	150
-Iconic	151	63.0	151
-Iconic	152	28.0	152
-Iconic	153	15.0	153
-Iconic	154	21.0	154
-Iconic	155	30.0	155
-Iconic	156	51.0	156
-Iconic	157	29.0	157
-Iconic	158	15.0	158
-Iconic	159	18.0	159
-Iconic	160	34.0	160
-Iconic	161	13.0	161
-Iconic	162	12.0	162
-Iconic	163	53.0	163
-Iconic	164	28.0	164
-Iconic	165	11.0	165
-Iconic	166	25.0	166
-Iconic	167	63.0	167
-Iconic	168	72.0	168
-Iconic	169	23.0	169
-Iconic	170	40.0	170
-Iconic	171	30.0	171
-Iconic	172	15.0	172
-Iconic	173	25.0	173
-Iconic	174	4.0	174
-Iconic	175	24.0	175
-Iconic	176	17.0	176
-Iconic	177	5.0	177
-Iconic	178	10.0	178
-Iconic	179	6.0	179
-Iconic	180	3.0	180
-Iconic	181	6.0	181
-Iconic	182	3.0	182
-Iconic	183	3.0	183
-Iconic	184	12.0	184
-Iconic	185	9.0	185
-Iconic	186	8.0	186
-Iconic	187	8.0	187
-Iconic	188	17.0	188
-Iconic	189	13.0	189
-Iconic	190	12.0	190
-Iconic	191	12.0	191
-Iconic	192	4.0	192
-Iconic	193	4.0	193
-Iconic	194	8.0	194
-Iconic	195	9.0	195
-Iconic	196	12.0	196
-Iconic	197	11.0	197
-Iconic	198	12.0	198
-Iconic	199	11.0	199
-Iconic	200	19.0	200
-Iconic	201	10.0	201
-Iconic	202	8.0	202
-Iconic	203	17.0	203
-Iconic	204	5.0	204
-Iconic	205	5.0	205
-Iconic	206	6.0	206
-Iconic	207	2.0	207
-Iconic	208	12.0	208
-Iconic	209	15.0	209
-Iconic	210	10.0	210
-Iconic	211	11.0	211
-Iconic	212	8.0	212
-Iconic	213	5.0	213
-Iconic	214	13.0	214
-Iconic	215	9.0	215
-Iconic	216	7.0	216
-Iconic	217	11.0	217
-Iconic	218	11.0	218
-Iconic	219	3.0	219
-Iconic	220	8.0	220
-Iconic	221	2.0	221
-Iconic	222	14.0	222
-Iconic	223	5.0	223
-Iconic	224	9.0	224
-Iconic	225	4.0	225
-Iconic	226	3.0	226
-Iconic	227	5.0	227
-Iconic	228	5.0	228
-Iconic	229	19.0	229
-Iconic	230	5.0	230
-Iconic	231	12.0	231
-Iconic	232	5.0	232
-Iconic	233	3.0	233
-Iconic	234	9.0	234
-Iconic	235	8.0	235
-Iconic	236	10.0	236
-Iconic	237	9.0	237
-Iconic	238	8.0	238
-Iconic	239	7.0	239
-Iconic	240	3.0	240
-Iconic	241	10.0	241
-Iconic	242	2.0	242
-Iconic	243	2.0	243
-Iconic	244	2.0	244
-Iconic	245	9.0	245
-Iconic	246	6.0	246
-Iconic	247	21.0	247
-Iconic	248	11.0	248
-Iconic	249	6.0	249
-Iconic	250	10.0	250
-Iconic	251	14.0	251
-Iconic	252	4.0	252
-Iconic	253	7.0	253
-Iconic	254	7.0	254
-Iconic	255	11.0	255
-Iconic	256	11.0	256
-Iconic	257	7.0	257
-Iconic	258	8.0	258
-Iconic	259	6.0	259
-Iconic	260	8.0	260
-Iconic	261	12.0	261
-Iconic	262	3.0	262
-Iconic	263	15.0	263
-Iconic	264	4.0	264
-Iconic	265	4.0	265
-Iconic	266	5.0	266
-Iconic	267	7.0	267
-Iconic	268	8.0	268
-Iconic	269	15.0	269
-Iconic	270	6.0	270
-Iconic	271	9.0	271
-Iconic	272	55.0	272
-Iconic	273	38.0	273
-Iconic	274	70.0	274
-Iconic	275	41.0	275
-Iconic	276	11.0	276
-Iconic	277	21.0	277
-Iconic	278	69.0	278
-Iconic	279	13.0	279
-Iconic	280	55.0	280
-Iconic	281	45.0	281
-Iconic	282	16.0	282
-Iconic	283	13.0	283
-Iconic	284	8.0	284
-Iconic	285	16.0	285
-Iconic	286	29.0	286
-Iconic	287	42.0	287
-Iconic	288	28.0	288
-Iconic	289	14.0	289
-Iconic	290	43.0	290
-Iconic	291	34.0	291
-Iconic	292	15.0	292
-Iconic	293	14.0	293
-Iconic	294	22.0	294
-Iconic	295	8.0	295
-Iconic	296	64.0	296
-Iconic	297	78.0	297
-Iconic	298	62.0	298
-Iconic	299	51.0	299
-Iconic	300	25.0	300
-Iconic	301	64.0	301
-Iconic	302	44.0	302
-Iconic	303	14.0	303
-Iconic	304	67.0	304
-Iconic	305	26.0	305
-Iconic	306	19.0	306
-Iconic	307	43.0	307
-Iconic	308	34.0	308
-Iconic	309	64.0	309
-Iconic	310	40.0	310
-Iconic	311	38.0	311
-Iconic	312	53.0	312
-Iconic	313	16.0	313
-Iconic	314	58.0	314
-Iconic	315	9.0	315
-Iconic	316	41.0	316
-Iconic	317	14.0	317
-Iconic	318	39.0	318
-Iconic	319	19.0	319
-Iconic	320	44.0	320
-Iconic	321	18.0	321
-Iconic	322	58.0	322
-Iconic	323	62.0	323
-Iconic	324	37.0	324
-Iconic	325	20.0	325
-Iconic	326	31.0	326
-Iconic	327	23.0	327
-Iconic	328	33.0	328
-Iconic	329	28.0	329
-Iconic	330	16.0	330
-Iconic	331	34.0	331
-Iconic	332	62.0	332
-Iconic	333	19.0	333
-Iconic	334	68.0	334
-Iconic	335	23.0	335
-Iconic	336	20.0	336
-Iconic	337	21.0	337
-Iconic	338	22.0	338
-Iconic	339	23.0	339
-Iconic	340	22.0	340
-Iconic	341	23.0	341
-Iconic	342	38.0	342
-Iconic	343	50.0	343
-Iconic	344	48.0	344
-Iconic	345	29.0	345
-Iconic	346	12.0	346
-Iconic	347	45.0	347
-Iconic	348	21.0	348
-Iconic	349	34.0	349
-Iconic	350	46.0	350
-Iconic	351	20.0	351
-Iconic	352	48.0	352
-Iconic	353	16.0	353
-Iconic	354	24.0	354
-Iconic	355	26.0	355
-Iconic	356	46.0	356
-Iconic	357	29.0	357
-Iconic	358	15.0	358
-Iconic	359	17.0	359
-Iconic	360	24.0	360
-Iconic	361	22.0	361
-Iconic	362	26.0	362
-Iconic	363	18.0	363
-Iconic	364	16.0	364
-Iconic	365	33.0	365
-Iconic	366	30.0	366
-Iconic	367	26.0	367
-Iconic	368	57.0	368
-Iconic	369	41.0	369
-Iconic	370	34.0	370
-Iconic	371	21.0	371
-Iconic	372	51.0	372
-Iconic	373	50.0	373
-Iconic	374	13.0	374
-Iconic	375	42.0	375
-Iconic	376	53.0	376
-Iconic	377	69.0	377
-Iconic	378	30.0	378
-Iconic	379	40.0	379
-Iconic	380	43.0	380
-Iconic	381	58.0	381
-Iconic	382	12.0	382
-Iconic	383	28.0	383
-Iconic	384	33.0	384
-Iconic	385	12.0	385
-Iconic	386	24.0	386
-Iconic	387	39.0	387
-Iconic	388	56.0	388
-Iconic	389	34.0	389
-Iconic	390	24.0	390
-Iconic	391	33.0	391
-Iconic	392	52.0	392
-Iconic	393	71.0	393
-Iconic	394	17.0	394
-Iconic	395	28.0	395
-Iconic	396	53.0	396
-Iconic	397	35.0	397
-Iconic	398	42.0	398
-Iconic	399	20.0	399
-Iconic	400	39.0	400
-Iconic	401	12.0	401
-Iconic	402	44.0	402
-Iconic	403	16.0	403
-Iconic	404	54.0	404
-Iconic	405	18.0	405
-Iconic	406	21.0	406
-Iconic	407	6.0	407
-Iconic	408	12.0	408
-Iconic	409	11.0	409
-Iconic	410	5.0	410
-Iconic	411	6.0	411
-Iconic	412	6.0	412
-Iconic	413	3.0	413
-Iconic	414	3.0	414
-Iconic	415	14.0	415
-Iconic	416	11.0	416
-Iconic	417	11.0	417
-Iconic	418	3.0	418
-Iconic	419	7.0	419
-Iconic	420	4.0	420
-Iconic	421	10.0	421
-Iconic	422	9.0	422
-Iconic	423	3.0	423
-Iconic	424	11.0	424
-Iconic	425	6.0	425
-Iconic	426	5.0	426
-Iconic	427	2.0	427
-Iconic	428	5.0	428
-Iconic	429	5.0	429
-Iconic	430	10.0	430
-Iconic	431	5.0	431
-Iconic	432	15.0	432
-Iconic	433	9.0	433
-Iconic	434	2.0	434
-Iconic	435	6.0	435
-Iconic	436	13.0	436
-Iconic	437	12.0	437
-Iconic	438	15.0	438
-Iconic	439	9.0	439
-Iconic	440	6.0	440
-Iconic	441	4.0	441
-Iconic	442	8.0	442
-Iconic	443	14.0	443
-Iconic	444	13.0	444
-Iconic	445	3.0	445
-Iconic	446	4.0	446
-Iconic	447	4.0	447
-Iconic	448	7.0	448
-Iconic	449	3.0	449
-Iconic	450	8.0	450
-Iconic	451	5.0	451
-Iconic	452	8.0	452
-Iconic	453	6.0	453
-Iconic	454	6.0	454
-Iconic	455	10.0	455
-Iconic	456	9.0	456
-Iconic	457	9.0	457
-Iconic	458	4.0	458
-Iconic	459	14.0	459
-Iconic	460	8.0	460
-Iconic	461	15.0	461
-Iconic	462	11.0	462
-Iconic	463	11.0	463
-Iconic	464	13.0	464
-Iconic	465	6.0	465
-Iconic	466	13.0	466
-Iconic	467	8.0	467
-Iconic	468	7.0	468
-Iconic	469	15.0	469
-Iconic	470	6.0	470
-Iconic	471	4.0	471
-Iconic	472	4.0	472
-Iconic	473	13.0	473
-Iconic	474	3.0	474
-Iconic	475	12.0	475
-Iconic	476	13.0	476
-Iconic	477	7.0	477
-Iconic	478	13.0	478
-Iconic	479	6.0	479
-Iconic	480	15.0	480
-Iconic	481	7.0	481
-Iconic	482	6.0	482
-Iconic	483	7.0	483
-Iconic	484	3.0	484
-Iconic	485	8.0	485
-Iconic	486	10.0	486
-Iconic	487	5.0	487
-Iconic	488	2.0	488
-Iconic	489	9.0	489
-Iconic	490	6.0	490
-Iconic	491	11.0	491
-Iconic	492	11.0	492
-Iconic	493	7.0	493
-Iconic	494	13.0	494
-Iconic	495	3.0	495
-Iconic	496	6.0	496
-Iconic	497	74.0	497
-Iconic	498	43.0	498
-Iconic	499	38.0	499
-Iconic	500	51.0	500
-Iconic	501	30.0	501
-Iconic	502	23.0	502
-Iconic	503	28.0	503
-Iconic	504	33.0	504
-Iconic	505	32.0	505
-Iconic	506	32.0	506
-Iconic	507	11.0	507
-Iconic	508	43.0	508
-Iconic	509	33.0	509
-Iconic	510	14.0	510
-Iconic	511	22.0	511
-Iconic	512	23.0	512
-Iconic	513	48.0	513
-Iconic	514	39.0	514
-Iconic	515	69.0	515
-Iconic	516	34.0	516
-Iconic	517	60.0	517
-Iconic	518	49.0	518
-Iconic	519	53.0	519
-Iconic	520	66.0	520
-Iconic	521	57.0	521
-Iconic	522	67.0	522
-Iconic	523	14.0	523
-Iconic	524	47.0	524
-Iconic	525	18.0	525
-Iconic	526	37.0	526
-Iconic	527	16.0	527
-Iconic	528	20.0	528
-Iconic	529	56.0	529
-Iconic	530	32.0	530
-Iconic	531	36.0	531
-Iconic	532	24.0	532
-Iconic	533	31.0	533
-Iconic	534	23.0	534
-Iconic	535	17.0	535
-Iconic	536	23.0	536
-Iconic	537	43.0	537
-Iconic	538	38.0	538
-Iconic	539	45.0	539
-Iconic	540	52.0	540
-Iconic	541	17.0	541
-Iconic	542	24.0	542
-Iconic	543	26.0	543
-Iconic	544	31.0	544
-Iconic	545	55.0	545
-Iconic	546	11.0	546
-Iconic	547	16.0	547
-Iconic	548	29.0	548
-Iconic	549	35.0	549
-Iconic	550	42.0	550
-Iconic	551	34.0	551
-Iconic	552	13.0	552
-Iconic	553	44.0	553
-Iconic	554	54.0	554
-Iconic	555	40.0	555
-Iconic	556	24.0	556
-Iconic	557	37.0	557
-Iconic	558	32.0	558
-Iconic	559	23.0	559
-Iconic	560	40.0	560
-Iconic	561	72.0	561
-Iconic	562	18.0	562
-Iconic	563	51.0	563
-Iconic	564	31.0	564
-Iconic	565	16.0	565
-Iconic	566	37.0	566
-Iconic	567	18.0	567
-Iconic	568	66.0	568
-Iconic	569	19.0	569
-Iconic	570	48.0	570
-Iconic	571	18.0	571
-Iconic	572	10.0	572
-Iconic	573	20.0	573
-Iconic	574	35.0	574
-Iconic	575	61.0	575
-Iconic	576	78.0	576
-Iconic	577	67.0	577
-Iconic	578	46.0	578
-Iconic	579	20.0	579
-Iconic	580	39.0	580
-Iconic	581	50.0	581
-Iconic	582	71.0	582
-Iconic	583	19.0	583
-Iconic	584	33.0	584
-Iconic	585	20.0	585
-Iconic	586	73.0	586
-Iconic	587	13.0	587
-Iconic	588	26.0	588
-Iconic	589	53.0	589
-Iconic	590	65.0	590
-Iconic	591	32.0	591
-Iconic	592	71.0	592
-Iconic	593	24.0	593
-Iconic	594	43.0	594
-Iconic	595	35.0	595
-Iconic	596	40.0	596
-Iconic	597	46.0	597
-Iconic	598	39.0	598
-Iconic	599	43.0	599
-Iconic	600	16.0	600
-Iconic	601	35.0	601
-Iconic	602	26.0	602
-Iconic	603	37.0	603
-Iconic	604	59.0	604
-Iconic	605	57.0	605
-Iconic	606	34.0	606
-Iconic	607	33.0	607
-Iconic	608	25.0	608
-Iconic	609	64.0	609
-Iconic	610	55.0	610
-Iconic	611	12.0	611
-Iconic	612	12.0	612
-Iconic	613	19.0	613
-Iconic	614	15.0	614
-Iconic	615	53.0	615
-Iconic	616	62.0	616
-Iconic	617	19.0	617
-Iconic	618	43.0	618
-Iconic	619	24.0	619
-Iconic	620	28.0	620
-Iconic	621	32.0	621
-Iconic	622	15.0	622
-Iconic	623	33.0	623
-Iconic	624	32.0	624
-Iconic	625	43.0	625
-Iconic	626	17.0	626
-Iconic	627	49.0	627
-Iconic	628	40.0	628
-Iconic	629	33.0	629
-Iconic	630	28.0	630
-Iconic	631	50.0	631
-Iconic	632	67.0	632
-Iconic	633	23.0	633
-Iconic	634	20.0	634
-Iconic	635	39.0	635
-Iconic	636	29.0	636
-Iconic	637	50.0	637
-Iconic	638	57.0	638
-Iconic	639	34.0	639
-Iconic	640	19.0	640
-Iconic	641	18.0	641
-Iconic	642	21.0	642
-Iconic	643	34.0	643
-Iconic	644	61.0	644
-Iconic	645	60.0	645
-Iconic	646	15.0	646
-Iconic	647	20.0	647
-Iconic	648	48.0	648
-Iconic	649	73.0	649
-Iconic	650	15.0	650
-Iconic	651	17.0	651
-Iconic	652	10.0	652
-Iconic	653	37.0	653
-Iconic	654	60.0	654
-Iconic	655	69.0	655
-Iconic	656	58.0	656
-Iconic	657	10.0	657
-Iconic	658	61.0	658
-Iconic	659	49.0	659
-Iconic	660	29.0	660
-Iconic	661	29.0	661
-Iconic	662	27.0	662
-Iconic	663	52.0	663
-Iconic	664	38.0	664
-Iconic	665	56.0	665
-Iconic	666	61.0	666
-Iconic	667	24.0	667
-Iconic	668	15.0	668
-Iconic	669	30.0	669
-Iconic	670	38.0	670
-Iconic	671	12.0	671
-Iconic	672	36.0	672
-Iconic	673	28.0	673
-Iconic	674	35.0	674
-Iconic	675	27.0	675
-Iconic	676	42.0	676
-Iconic	677	40.0	677
-Iconic	678	8.0	678
-Iconic	679	7.0	679
-Iconic	680	7.0	680
-Iconic	681	9.0	681
-Iconic	682	8.0	682
-Iconic	683	7.0	683
-Iconic	684	8.0	684
-Iconic	685	4.0	685
-Iconic	686	8.0	686
-Iconic	687	26.0	687
-Iconic	688	16.0	688
-Iconic	689	14.0	689
-Iconic	690	12.0	690
-Iconic	691	9.0	691
-Iconic	692	12.0	692
-Iconic	693	3.0	693
-Iconic	694	10.0	694
-Iconic	695	7.0	695
-Iconic	696	13.0	696
-Iconic	697	12.0	697
-Iconic	698	19.0	698
-Iconic	699	16.0	699
-Iconic	700	12.0	700
-Iconic	701	21.0	701
-Iconic	702	13.0	702
-Iconic	703	13.0	703
-Iconic	704	8.0	704
-Iconic	705	9.0	705
-Iconic	706	15.0	706
-Iconic	707	8.0	707
-Iconic	708	11.0	708
-Iconic	709	12.0	709
-Iconic	710	8.0	710
-Iconic	711	11.0	711
-Iconic	712	2.0	712
-Iconic	713	9.0	713
-Iconic	714	12.0	714
-Iconic	715	10.0	715
-Iconic	716	13.0	716
-Iconic	717	18.0	717
-Iconic	718	12.0	718
-Iconic	719	17.0	719
-Iconic	720	5.0	720
-Iconic	721	10.0	721
-Iconic	722	11.0	722
-Iconic	723	5.0	723
-Iconic	724	9.0	724
-Iconic	725	10.0	725
-Iconic	726	10.0	726
-Iconic	727	8.0	727
-Iconic	728	6.0	728
-Iconic	729	5.0	729
-Iconic	730	9.0	730
-Iconic	731	18.0	731
-Iconic	732	9.0	732
-Iconic	733	10.0	733
-Iconic	734	36.0	734
-Iconic	735	8.0	735
-Iconic	736	8.0	736
-Iconic	737	15.0	737
-Iconic	738	15.0	738
-Iconic	739	2.0	739
-Iconic	740	7.0	740
-Iconic	741	7.0	741
-Iconic	742	4.0	742
-Iconic	743	14.0	743
-Iconic	744	11.0	744
-Iconic	745	9.0	745
-Iconic	746	10.0	746
-Iconic	747	10.0	747
-Iconic	748	12.0	748
-Iconic	749	2.0	749
-Iconic	750	9.0	750
-Iconic	751	20.0	751
-Iconic	752	6.0	752
-Iconic	753	5.0	753
-Iconic	754	16.0	754
-Iconic	755	18.0	755
-Iconic	756	12.0	756
-Iconic	757	16.0	757
-Iconic	758	14.0	758
-Iconic	759	5.0	759
-Iconic	760	5.0	760
-Iconic	761	9.0	761
-Iconic	762	13.0	762
-Iconic	763	13.0	763
-Iconic	764	8.0	764
-Iconic	765	12.0	765
-Iconic	766	8.0	766
-Iconic	767	8.0	767
-Iconic	768	12.0	768
-Iconic	769	5.0	769
-Iconic	770	10.0	770
-Iconic	771	12.0	771
-Iconic	772	5.0	772
-Iconic	773	12.0	773
-Iconic	774	6.0	774
-Iconic	775	11.0	775
-Iconic	776	11.0	776
-Iconic	777	9.0	777
-Iconic	778	5.0	778
-Iconic	779	7.0	779
-Iconic	780	9.0	780
-Iconic	781	5.0	781
-Iconic	782	11.0	782
-Iconic	783	44.0	783
-Iconic	784	55.0	784
-Iconic	785	43.0	785
-Iconic	786	36.0	786
-Iconic	787	13.0	787
-Iconic	788	21.0	788
-Iconic	789	49.0	789
-Iconic	790	17.0	790
-Iconic	791	20.0	791
-Iconic	792	55.0	792
-Iconic	793	39.0	793
-Iconic	794	5.0	794
-Iconic	795	11.0	795
-Iconic	796	5.0	796
-Iconic	797	11.0	797
-Iconic	798	12.0	798
-Iconic	799	14.0	799
-Iconic	800	7.0	800
-Iconic	801	13.0	801
-Iconic	802	13.0	802
-Iconic	803	25.0	803
-Iconic	804	29.0	804
-Iconic	805	59.0	805
-Iconic	806	39.0	806
-Iconic	807	40.0	807
-Iconic	808	42.0	808
-Iconic	809	52.0	809
-Iconic	810	43.0	810
-Iconic	811	48.0	811
-Iconic	812	21.0	812
-Iconic	813	3.0	813
-Iconic	814	6.0	814
-Iconic	815	12.0	815
-Iconic	816	2.0	816
-Iconic	817	4.0	817
-Iconic	818	14.0	818
-Iconic	819	6.0	819
-Iconic	820	22.0	820
-Iconic	821	5.0	821
-Iconic	822	7.0	822
-Iconic	823	6.0	823
-Iconic	824	10.0	824
-Iconic	825	4.0	825
-Iconic	826	10.0	826
-Iconic	827	2.0	827
-Iconic	828	6.0	828
-Iconic	829	6.0	829
-Iconic	830	12.0	830
-Iconic	831	2.0	831
-Iconic	832	11.0	832
-Iconic	833	7.0	833
-Iconic	834	26.0	834
-Iconic	835	18.0	835
-Iconic	836	39.0	836
-Iconic	837	41.0	837
-Iconic	838	39.0	838
-Iconic	839	45.0	839
-Iconic	840	50.0	840
-Iconic	841	65.0	841
-Iconic	842	25.0	842
-Iconic	843	23.0	843
-Iconic	844	30.0	844
-Iconic	845	55.0	845
-Iconic	846	25.0	846
-Iconic	847	13.0	847
-Iconic	848	19.0	848
-Iconic	849	48.0	849
-Iconic	850	35.0	850
-Iconic	851	43.0	851
-Iconic	852	30.0	852
-Iconic	853	67.0	853
-Iconic	854	34.0	854
-Iconic	855	42.0	855
-Iconic	856	22.0	856
-Iconic	857	56.0	857
-Iconic	858	12.0	858
-Iconic	859	62.0	859
-Iconic	860	39.0	860
-Iconic	861	18.0	861
-Iconic	862	20.0	862
-Iconic	863	26.0	863
-Iconic	864	13.0	864
-Iconic	865	18.0	865
-Iconic	866	26.0	866
-Iconic	867	59.0	867
-Iconic	868	23.0	868
-Iconic	869	76.0	869
-Iconic	870	39.0	870
-Iconic	871	26.0	871
-Iconic	872	51.0	872
-Iconic	873	24.0	873
-Iconic	874	29.0	874
-Iconic	875	30.0	875
-Iconic	876	46.0	876
-Iconic	877	36.0	877
-Iconic	878	68.0	878
-Iconic	879	38.0	879
-Iconic	880	62.0	880
-Iconic	881	30.0	881
-Iconic	882	17.0	882
-Iconic	883	52.0	883
-Iconic	884	44.0	884
-Iconic	885	58.0	885
-Iconic	886	31.0	886
-Iconic	887	37.0	887
-Iconic	888	12.0	888
-Iconic	889	27.0	889
-Iconic	890	50.0	890
-Iconic	891	35.0	891
-Iconic	892	55.0	892
-Iconic	893	43.0	893
-Iconic	894	75.0	894
-Iconic	895	25.0	895
-Iconic	896	20.0	896
-Iconic	897	22.0	897
-Iconic	898	19.0	898
-Iconic	899	20.0	899
-Iconic	900	7.0	900
-Iconic	901	4.0	901
-Iconic	902	7.0	902
-Iconic	903	5.0	903
-Iconic	904	2.0	904
-Iconic	905	8.0	905
-Iconic	906	8.0	906
-Iconic	907	4.0	907
-Iconic	908	3.0	908
-Iconic	909	7.0	909
-Iconic	910	8.0	910
-Iconic	911	5.0	911
-Iconic	912	7.0	912
-Iconic	913	7.0	913
-Iconic	914	5.0	914
-Iconic	915	5.0	915
-Iconic	916	9.0	916
-Iconic	917	9.0	917
-Iconic	918	2.0	918
-Iconic	919	6.0	919
-Iconic	920	11.0	920
-Iconic	921	7.0	921
-Iconic	922	12.0	922
-Iconic	923	8.0	923
-Iconic	924	12.0	924
-Iconic	925	6.0	925
-Iconic	926	7.0	926
-Iconic	927	6.0	927
-Iconic	928	3.0	928
-Iconic	929	2.0	929
-Iconic	930	8.0	930
-Iconic	931	4.0	931
-Iconic	932	12.0	932
-Iconic	933	6.0	933
-Iconic	934	9.0	934
-Iconic	935	6.0	935
-Iconic	936	15.0	936
-Iconic	937	11.0	937
-Iconic	938	8.0	938
-Iconic	939	5.0	939
-Iconic	940	4.0	940
-Iconic	941	11.0	941
-Iconic	942	10.0	942
-Iconic	943	8.0	943
-Iconic	944	9.0	944
-Iconic	945	11.0	945
-Iconic	946	4.0	946
-Iconic	947	3.0	947
-Iconic	948	7.0	948
-Iconic	949	5.0	949
-Iconic	950	7.0	950
-Iconic	951	3.0	951
-Iconic	952	9.0	952
-Iconic	953	11.0	953
-Iconic	954	5.0	954
-Iconic	955	9.0	955
-Iconic	956	8.0	956
-Iconic	957	6.0	957
-Iconic	958	13.0	958
-Iconic	959	5.0	959
-Iconic	960	4.0	960
-Iconic	961	3.0	961
-Iconic	962	8.0	962
-Iconic	963	3.0	963
-Iconic	964	31.0	964
-Iconic	965	42.0	965
-Iconic	966	22.0	966
-Iconic	967	48.0	967
-Iconic	968	48.0	968
-Iconic	969	28.0	969
-Iconic	970	51.0	970
-Iconic	971	64.0	971
-Iconic	972	57.0	972
-Iconic	973	13.0	973
-Iconic	974	69.0	974
-Iconic	975	18.0	975
-Iconic	976	53.0	976
-Iconic	977	29.0	977
-Iconic	978	20.0	978
-Iconic	979	43.0	979
-Iconic	980	31.0	980
-Iconic	981	43.0	981
-Iconic	982	49.0	982
-Iconic	983	49.0	983
-Iconic	984	55.0	984
-Iconic	985	32.0	985
-Iconic	986	10.0	986
-Iconic	987	61.0	987
-Iconic	988	13.0	988
-Iconic	989	58.0	989
-Iconic	990	30.0	990
-Iconic	991	47.0	991
-Iconic	992	17.0	992
-Iconic	993	36.0	993
-Iconic	994	51.0	994
-Iconic	995	22.0	995
-Iconic	996	24.0	996
-Iconic	997	79.0	997
-Iconic	998	25.0	998
-Iconic	999	10.0	999
-Iconic	1000	9.0	1000
-Iconic	1001	12.0	1001
-Iconic	1002	44.0	1002
-Iconic	1003	52.0	1003
-Iconic	1004	53.0	1004
-Iconic	1005	26.0	1005
-Iconic	1006	46.0	1006
-Iconic	1007	42.0	1007
-Iconic	1008	40.0	1008
-Iconic	1009	11.0	1009
-Iconic	1010	37.0	1010
-Iconic	1011	48.0	1011
-Iconic	1012	26.0	1012
-Iconic	1013	73.0	1013
-Iconic	1014	70.0	1014
-Iconic	1015	24.0	1015
-Iconic	1016	19.0	1016
-Iconic	1017	27.0	1017
-Iconic	1018	78.0	1018
-Iconic	1019	75.0	1019
-Iconic	1020	8.0	1020
-Iconic	1021	58.0	1021
-Iconic	1022	23.0	1022
-Iconic	1023	35.0	1023
-Iconic	1024	20.0	1024
-Iconic	1025	44.0	1025
-Iconic	1026	70.0	1026
-Iconic	1027	67.0	1027
-Iconic	1028	11.0	1028
-Iconic	1029	12.0	1029
-Iconic	1030	30.0	1030
-Iconic	1031	40.0	1031
-Iconic	1032	45.0	1032
-Iconic	1033	43.0	1033
-Iconic	1034	29.0	1034
-Iconic	1035	18.0	1035
-Iconic	1036	27.0	1036
-Iconic	1037	22.0	1037
-Iconic	1038	12.0	1038
-Iconic	1039	57.0	1039
-Iconic	1040	13.0	1040
-Iconic	1041	10.0	1041
-Iconic	1042	69.0	1042
-Iconic	1043	77.0	1043
-Iconic	1044	54.0	1044
-Iconic	1045	16.0	1045
-Iconic	1046	60.0	1046
-Iconic	1047	58.0	1047
-Iconic	1048	12.0	1048
-Iconic	1049	26.0	1049
-Iconic	1050	52.0	1050
-Iconic	1051	12.0	1051
-Iconic	1052	55.0	1052
-Iconic	1053	70.0	1053
-Iconic	1054	66.0	1054
-Iconic	1055	63.0	1055
-Iconic	1056	61.0	1056
-Iconic	1057	48.0	1057
-Iconic	1058	29.0	1058
-Iconic	1059	39.0	1059
-Iconic	1060	15.0	1060
-Iconic	1061	41.0	1061
-Iconic	1062	72.0	1062
-Iconic	1063	35.0	1063
-Iconic	1064	39.0	1064
-Iconic	1065	31.0	1065
-Iconic	1066	52.0	1066
-Iconic	1067	79.0	1067
-Iconic	1068	38.0	1068
-Iconic	1069	20.0	1069
-Iconic	1070	51.0	1070
-Iconic	1071	63.0	1071
-Iconic	1072	29.0	1072
-Iconic	1073	53.0	1073
-Iconic	1074	66.0	1074
-Iconic	1075	59.0	1075
-Iconic	1076	14.0	1076
-Iconic	1077	24.0	1077
-Iconic	1078	35.0	1078
-Iconic	1079	30.0	1079
-Iconic	1080	60.0	1080
-Iconic	1081	32.0	1081
-Iconic	1082	28.0	1082
-Iconic	1083	15.0	1083
-Iconic	1084	16.0	1084
-Iconic	1085	66.0	1085
-Iconic	1086	38.0	1086
-Iconic	1087	58.0	1087
-Iconic	1088	66.0	1088
-Iconic	1089	45.0	1089
-Iconic	1090	25.0	1090
-Iconic	1091	77.0	1091
-Iconic	1092	37.0	1092
-Iconic	1093	54.0	1093
-Iconic	1094	47.0	1094
-Iconic	1095	50.0	1095
-Iconic	1096	23.0	1096
-Iconic	1097	31.0	1097
-Iconic	1098	72.0	1098
-Iconic	1099	21.0	1099
-Iconic	1100	17.0	1100
-Iconic	1101	44.0	1101
-Iconic	1102	14.0	1102
-Iconic	1103	52.0	1103
-Iconic	1104	65.0	1104
-Iconic	1105	31.0	1105
-Iconic	1106	63.0	1106
-Iconic	1107	12.0	1107
-Iconic	1108	49.0	1108
-Iconic	1109	76.0	1109
-Iconic	1110	27.0	1110
-Iconic	1111	46.0	1111
-Iconic	1112	45.0	1112
-Iconic	1113	43.0	1113
-Iconic	1114	19.0	1114
-Iconic	1115	63.0	1115
-Iconic	1116	53.0	1116
-Iconic	1117	14.0	1117
-Iconic	1118	35.0	1118
-Iconic	1119	46.0	1119
-Iconic	1120	49.0	1120
-Iconic	1121	33.0	1121
-Iconic	1122	51.0	1122
-Iconic	1123	22.0	1123
-Iconic	1124	53.0	1124
-Iconic	1125	16.0	1125
-Iconic	1126	13.0	1126
-Iconic	1127	33.0	1127
-Iconic	1128	26.0	1128
-Iconic	1129	45.0	1129
-Iconic	1130	72.0	1130
-Iconic	1131	28.0	1131
-Iconic	1132	22.0	1132
-Iconic	1133	52.0	1133
-Iconic	1134	44.0	1134
-Iconic	1135	26.0	1135
-Iconic	1136	51.0	1136
-Iconic	1137	38.0	1137
-Iconic	1138	18.0	1138
-Iconic	1139	20.0	1139
-Iconic	1140	16.0	1140
-Iconic	1141	43.0	1141
-Iconic	1142	62.0	1142
-Iconic	1143	47.0	1143
-Iconic	1144	18.0	1144
-Iconic	1145	74.0	1145
-Iconic	1146	15.0	1146
-Iconic	1147	27.0	1147
-Iconic	1148	60.0	1148
-Iconic	1149	46.0	1149
-Iconic	1150	25.0	1150
-Iconic	1151	51.0	1151
-Iconic	1152	42.0	1152
-Iconic	1153	27.0	1153
-Iconic	1154	66.0	1154
-Iconic	1155	45.0	1155
-Iconic	1156	55.0	1156
-Iconic	1157	23.0	1157
-Iconic	1158	65.0	1158
-Iconic	1159	55.0	1159
-Iconic	1160	18.0	1160
-Iconic	1161	31.0	1161
-Iconic	1162	35.0	1162
-Iconic	1163	27.0	1163
-Iconic	1164	37.0	1164
-Iconic	1165	65.0	1165
-Iconic	1166	41.0	1166
-Iconic	1167	39.0	1167
-Iconic	1168	58.0	1168
-Iconic	1169	51.0	1169
-Iconic	1170	10.0	1170
-Iconic	1171	54.0	1171
-Iconic	1172	50.0	1172
-Iconic	1173	20.0	1173
-Iconic	1174	32.0	1174
-Iconic	1175	18.0	1175
-Iconic	1176	23.0	1176
-Iconic	1177	13.0	1177
-Iconic	1178	18.0	1178
-Iconic	1179	44.0	1179
-Iconic	1180	69.0	1180
-Iconic	1181	59.0	1181
-Iconic	1182	36.0	1182
-Iconic	1183	13.0	1183
-Iconic	1184	21.0	1184
-Iconic	1185	49.0	1185
-Iconic	1186	31.0	1186
-Iconic	1187	27.0	1187
-Iconic	1188	44.0	1188
-Iconic	1189	78.0	1189
-Iconic	1190	14.0	1190
-Iconic	1191	57.0	1191
-Iconic	1192	31.0	1192
-Iconic	1193	32.0	1193
-Iconic	1194	57.0	1194
-Iconic	1195	17.0	1195
-Iconic	1196	68.0	1196
-Iconic	1197	51.0	1197
-Iconic	1198	17.0	1198
-Iconic	1199	16.0	1199
-Iconic	1200	17.0	1200
-Iconic	1201	16.0	1201
-Iconic	1202	62.0	1202
-Iconic	1203	32.0	1203
-Iconic	1204	33.0	1204
-Iconic	1205	41.0	1205
-Iconic	1206	18.0	1206
-Iconic	1207	25.0	1207
-Iconic	1208	39.0	1208
-Iconic	1209	26.0	1209
-Iconic	1210	14.0	1210
-Iconic	1211	78.0	1211
-Iconic	1212	15.0	1212
-Iconic	1213	78.0	1213
-Iconic	1214	24.0	1214
-Iconic	1215	8.0	1215
-Iconic	1216	44.0	1216
-Iconic	1217	48.0	1217
-Iconic	1218	16.0	1218
-Iconic	1219	15.0	1219
-Iconic	1220	39.0	1220
-Iconic	1221	18.0	1221
-Iconic	1222	20.0	1222
-Iconic	1223	20.0	1223
-Iconic	1224	72.0	1224
-Iconic	1225	15.0	1225
-Iconic	1226	45.0	1226
-Iconic	1227	16.0	1227
-Iconic	1228	42.0	1228
-Iconic	1229	15.0	1229
-Iconic	1230	25.0	1230
-Iconic	1231	45.0	1231
-Iconic	1232	63.0	1232
-Iconic	1233	33.0	1233
-Iconic	1234	48.0	1234
-Iconic	1235	34.0	1235
-Iconic	1236	20.0	1236
-Iconic	1237	12.0	1237
-Iconic	1238	68.0	1238
-Iconic	1239	31.0	1239
-Iconic	1240	20.0	1240
-Iconic	1241	20.0	1241
-Iconic	1242	33.0	1242
-Iconic	1243	52.0	1243
-Iconic	1244	18.0	1244
-Iconic	1245	45.0	1245
-Iconic	1246	37.0	1246
-Iconic	1247	38.0	1247
-Iconic	1248	36.0	1248
-Iconic	1249	38.0	1249
-Iconic	1250	39.0	1250
-Iconic	1251	45.0	1251
-Iconic	1252	44.0	1252
-Iconic	1253	13.0	1253
-Iconic	1254	54.0	1254
-Iconic	1255	65.0	1255
-Iconic	1256	60.0	1256
-Iconic	1257	19.0	1257
-Iconic	1258	72.0	1258
-Iconic	1259	40.0	1259
-Iconic	1260	13.0	1260
-Iconic	1261	28.0	1261
-Iconic	1262	15.0	1262
-Iconic	1263	37.0	1263
-Iconic	1264	41.0	1264
-Iconic	1265	14.0	1265
-Iconic	1266	22.0	1266
-Iconic	1267	28.0	1267
-Iconic	1268	80.0	1268
-Iconic	1269	77.0	1269
-Iconic	1270	17.0	1270
-Iconic	1271	32.0	1271
-Iconic	1272	18.0	1272
-Iconic	1273	37.0	1273
-Iconic	1274	14.0	1274
-Iconic	1275	17.0	1275
-Iconic	1276	77.0	1276
-Iconic	1277	50.0	1277
-Iconic	1278	32.0	1278
-Iconic	1279	23.0	1279
-Iconic	1280	51.0	1280
-Iconic	1281	11.0	1281
-Iconic	1282	46.0	1282
-Iconic	1283	19.0	1283
-Iconic	1284	51.0	1284
-Iconic	1285	41.0	1285
-Iconic	1286	53.0	1286
-Iconic	1287	59.0	1287
-Iconic	1288	75.0	1288
-Iconic	1289	17.0	1289
-Iconic	1290	17.0	1290
-Iconic	1291	79.0	1291
-Iconic	1292	32.0	1292
-Iconic	1293	23.0	1293
-Iconic	1294	34.0	1294
-Iconic	1295	21.0	1295
-Iconic	1296	31.0	1296
-Iconic	1297	26.0	1297
-Iconic	1298	59.0	1298
-Iconic	1299	48.0	1299
-Iconic	1300	32.0	1300
-Iconic	1301	11.0	1301
-Iconic	1302	24.0	1302
-Iconic	1303	71.0	1303
-Iconic	1304	41.0	1304
-Iconic	1305	17.0	1305
-Iconic	1306	48.0	1306
-Iconic	1307	62.0	1307
-Iconic	1308	8.0	1308
-Iconic	1309	48.0	1309
-Iconic	1310	76.0	1310
-Iconic	1311	19.0	1311
-Iconic	1312	38.0	1312
-Iconic	1313	9.0	1313
-Iconic	1314	46.0	1314
-Iconic	1315	65.0	1315
-Iconic	1316	28.0	1316
-Iconic	1317	26.0	1317
-Iconic	1318	13.0	1318
-Iconic	1319	22.0	1319
-Iconic	1320	31.0	1320
-Iconic	1321	28.0	1321
-Iconic	1322	21.0	1322
-Iconic	1323	78.0	1323
-Iconic	1324	10.0	1324
-Iconic	1325	38.0	1325
-Iconic	1326	31.0	1326
-Iconic	1327	66.0	1327
-Iconic	1328	36.0	1328
-Iconic	1329	46.0	1329
-Iconic	1330	13.0	1330
-Iconic	1331	11.0	1331
-Iconic	1332	40.0	1332
-Iconic	1333	15.0	1333
-Iconic	1334	13.0	1334
-Iconic	1335	14.0	1335
-Iconic	1336	79.0	1336
-Iconic	1337	12.0	1337
-Iconic	1338	51.0	1338
-Iconic	1339	80.0	1339
-Iconic	1340	36.0	1340
-Iconic	1341	46.0	1341
-Iconic	1342	53.0	1342
-Iconic	1343	18.0	1343
-Iconic	1344	48.0	1344
-Iconic	1345	48.0	1345
-Iconic	1346	48.0	1346
-Iconic	1347	7.0	1347
-Iconic	1348	5.0	1348
-Iconic	1349	10.0	1349
-Iconic	1350	10.0	1350
-Iconic	1351	6.0	1351
-Iconic	1352	2.0	1352
-Iconic	1353	10.0	1353
-Iconic	1354	5.0	1354
-Iconic	1355	13.0	1355
-Iconic	1356	6.0	1356
-Iconic	1357	8.0	1357
-Iconic	1358	18.0	1358
-Iconic	1359	6.0	1359
-Iconic	1360	11.0	1360
-Iconic	1361	12.0	1361
-Iconic	1362	17.0	1362
-Iconic	1363	11.0	1363
-Iconic	1364	9.0	1364
-Iconic	1365	8.0	1365
-Iconic	1366	11.0	1366
-Iconic	1367	11.0	1367
-Iconic	1368	9.0	1368
-Iconic	1369	5.0	1369
-Iconic	1370	6.0	1370
-Iconic	1371	8.0	1371
-Iconic	1372	10.0	1372
-Iconic	1373	5.0	1373
-Iconic	1374	6.0	1374
-Iconic	1375	6.0	1375
-Iconic	1376	10.0	1376
-Iconic	1377	12.0	1377
-Iconic	1378	20.0	1378
-Iconic	1379	8.0	1379
-Iconic	1380	7.0	1380
-Iconic	1381	13.0	1381
-Iconic	1382	15.0	1382
-Iconic	1383	4.0	1383
-Iconic	1384	9.0	1384
-Iconic	1385	9.0	1385
-Iconic	1386	10.0	1386
-Iconic	1387	7.0	1387
-Iconic	1388	13.0	1388
-Iconic	1389	10.0	1389
-Iconic	1390	10.0	1390
-Iconic	1391	10.0	1391
-Iconic	1392	4.0	1392
-Iconic	1393	7.0	1393
-Iconic	1394	5.0	1394
-Iconic	1395	4.0	1395
-Iconic	1396	5.0	1396
-Iconic	1397	5.0	1397
-Iconic	1398	7.0	1398
-Iconic	1399	6.0	1399
-Iconic	1400	7.0	1400
-Iconic	1401	7.0	1401
-Iconic	1402	12.0	1402
-Iconic	1403	5.0	1403
-Iconic	1404	3.0	1404
-Iconic	1405	6.0	1405
-Iconic	1406	5.0	1406
-Iconic	1407	9.0	1407
-Iconic	1408	4.0	1408
-Iconic	1409	6.0	1409
-Iconic	1410	6.0	1410
-Iconic	1411	13.0	1411
-Iconic	1412	13.0	1412
-Iconic	1413	10.0	1413
-Iconic	1414	7.0	1414
-Iconic	1415	7.0	1415
-Iconic	1416	12.0	1416
-Iconic	1417	4.0	1417
-Iconic	1418	5.0	1418
-Iconic	1419	6.0	1419
-Iconic	1420	5.0	1420
-Iconic	1421	13.0	1421
-Iconic	1422	17.0	1422
-Iconic	1423	11.0	1423
-Iconic	1424	9.0	1424
-Iconic	1425	7.0	1425
-Iconic	1426	8.0	1426
-Iconic	1427	10.0	1427
-Iconic	1428	14.0	1428
-Iconic	1429	6.0	1429
-Iconic	1430	5.0	1430
-Iconic	1431	10.0	1431
-Iconic	1432	10.0	1432
-Iconic	1433	11.0	1433
-Iconic	1434	15.0	1434
-Iconic	1435	7.0	1435
-Iconic	1436	11.0	1436
-Iconic	1437	11.0	1437
-Iconic	1438	4.0	1438
-Iconic	1439	13.0	1439
-Iconic	1440	12.0	1440
-Iconic	1441	9.0	1441
-Iconic	1442	10.0	1442
-Iconic	1443	7.0	1443
-Iconic	1444	10.0	1444
-Iconic	1445	14.0	1445
-Iconic	1446	5.0	1446
-Iconic	1447	14.0	1447
-Iconic	1448	8.0	1448
-Iconic	1449	12.0	1449
-Iconic	1450	9.0	1450
-Iconic	1451	10.0	1451
-Iconic	1452	8.0	1452
-Iconic	1453	12.0	1453
-Iconic	1454	10.0	1454
-Iconic	1455	9.0	1455
-Iconic	1456	8.0	1456
-Iconic	1457	12.0	1457
-Iconic	1458	7.0	1458
-Iconic	1459	12.0	1459
-Iconic	1460	13.0	1460
-Iconic	1461	5.0	1461
-Iconic	1462	4.0	1462
-Iconic	1463	12.0	1463
-Iconic	1464	13.0	1464
-Iconic	1465	8.0	1465
-Iconic	1466	7.0	1466
-Iconic	1467	7.0	1467
-Iconic	1468	12.0	1468
-Iconic	1469	12.0	1469
-Iconic	1470	11.0	1470
-Iconic	1471	13.0	1471
-Iconic	1472	7.0	1472
-Iconic	1473	6.0	1473
-Iconic	1474	11.0	1474
-Iconic	1475	4.0	1475
-Iconic	1476	6.0	1476
-Iconic	1477	6.0	1477
-Iconic	1478	13.0	1478
-Iconic	1479	12.0	1479
-Iconic	1480	11.0	1480
-Iconic	1481	12.0	1481
-Iconic	1482	11.0	1482
-Iconic	1483	10.0	1483
-Iconic	1484	10.0	1484
-Iconic	1485	3.0	1485
-Iconic	1486	17.0	1486
-Iconic	1487	16.0	1487
-Iconic	1488	7.0	1488
-Iconic	1489	9.0	1489
-Iconic	1490	9.0	1490
-Iconic	1491	7.0	1491
-Iconic	1492	8.0	1492
-Iconic	1493	9.0	1493
-Iconic	1494	6.0	1494
-Iconic	1495	12.0	1495
-Iconic	1496	13.0	1496
-Iconic	1497	7.0	1497
-Iconic	1498	8.0	1498
-Iconic	1499	16.0	1499
-Iconic	1500	12.0	1500
-Iconic	1501	9.0	1501
-Iconic	1502	9.0	1502
-Iconic	1503	5.0	1503
-Iconic	1504	5.0	1504
-Iconic	1505	5.0	1505
-Iconic	1506	13.0	1506
-Iconic	1507	7.0	1507
-Iconic	1508	13.0	1508
-Iconic	1509	9.0	1509
-Iconic	1510	11.0	1510
-Iconic	1511	5.0	1511
-Iconic	1512	7.0	1512
-Iconic	1513	8.0	1513
-Iconic	1514	14.0	1514
-Iconic	1515	7.0	1515
-Iconic	1516	7.0	1516
-Iconic	1517	7.0	1517
-Iconic	1518	14.0	1518
-Iconic	1519	7.0	1519
-Iconic	1520	5.0	1520
-Iconic	1521	4.0	1521
-Iconic	1522	7.0	1522
-Iconic	1523	6.0	1523
-Iconic	1524	2.0	1524
-Iconic	1525	10.0	1525
-Iconic	1526	14.0	1526
-Iconic	1527	9.0	1527
-Iconic	1528	9.0	1528
-Iconic	1529	12.0	1529
-Iconic	1530	9.0	1530
-Iconic	1531	12.0	1531
-Iconic	1532	4.0	1532
-Iconic	1533	4.0	1533
-Iconic	1534	3.0	1534
-Iconic	1535	12.0	1535
-Iconic	1536	5.0	1536
-Iconic	1537	5.0	1537
-Iconic	1538	15.0	1538
-Iconic	1539	5.0	1539
-Iconic	1540	13.0	1540
-Iconic	1541	6.0	1541
-Iconic	1542	13.0	1542
-Iconic	1543	11.0	1543
-Iconic	1544	7.0	1544
-Iconic	1545	11.0	1545
-Iconic	1546	6.0	1546
-Iconic	1547	6.0	1547
-Iconic	1548	63.0	1548
-Iconic	1549	27.0	1549
-Iconic	1550	52.0	1550
-Iconic	1551	67.0	1551
-Iconic	1552	44.0	1552
-Iconic	1553	31.0	1553
-Iconic	1554	10.0	1554
-Iconic	1555	32.0	1555
-Iconic	1556	39.0	1556
-Iconic	1557	18.0	1557
-Iconic	1558	16.0	1558
-Iconic	1559	64.0	1559
-Iconic	1560	22.0	1560
-Iconic	1561	28.0	1561
-Iconic	1562	17.0	1562
-Iconic	1563	24.0	1563
-Iconic	1564	64.0	1564
-Iconic	1565	60.0	1565
-Iconic	1566	29.0	1566
-Iconic	1567	30.0	1567
-Iconic	1568	78.0	1568
-Iconic	1569	11.0	1569
-Iconic	1570	72.0	1570
-Iconic	1571	12.0	1571
-Iconic	1572	69.0	1572
-Iconic	1573	13.0	1573
-Iconic	1574	11.0	1574
-Iconic	1575	20.0	1575
-Iconic	1576	62.0	1576
-Iconic	1577	14.0	1577
-Iconic	1578	36.0	1578
-Iconic	1579	32.0	1579
-Iconic	1580	63.0	1580
-Iconic	1581	61.0	1581
-Iconic	1582	52.0	1582
-Iconic	1583	61.0	1583
-Iconic	1584	16.0	1584
-Iconic	1585	7.0	1585
-Iconic	1586	55.0	1586
-Iconic	1587	36.0	1587
-Iconic	1588	38.0	1588
-Iconic	1589	13.0	1589
-Iconic	1590	9.0	1590
-Iconic	1591	15.0	1591
-Iconic	1592	40.0	1592
-Iconic	1593	77.0	1593
-Iconic	1594	20.0	1594
-Iconic	1595	23.0	1595
-Iconic	1596	69.0	1596
-Iconic	1597	50.0	1597
-Iconic	1598	14.0	1598
-Iconic	1599	22.0	1599
-Iconic	1600	12.0	1600
-Iconic	1601	19.0	1601
-Iconic	1602	29.0	1602
-Iconic	1603	56.0	1603
-Iconic	1604	47.0	1604
-Iconic	1605	23.0	1605
-Iconic	1606	25.0	1606
-Iconic	1607	15.0	1607
-Iconic	1608	11.0	1608
-Iconic	1609	67.0	1609
-Iconic	1610	15.0	1610
-Iconic	1611	35.0	1611
-Iconic	1612	78.0	1612
-Iconic	1613	67.0	1613
-Iconic	1614	11.0	1614
-Iconic	1615	14.0	1615
-Iconic	1616	20.0	1616
-Iconic	1617	42.0	1617
-Iconic	1618	18.0	1618
-Iconic	1619	26.0	1619
-Iconic	1620	41.0	1620
-Iconic	1621	14.0	1621
-Iconic	1622	22.0	1622
-Iconic	1623	26.0	1623
-Iconic	1624	43.0	1624
-Iconic	1625	72.0	1625
-Iconic	1626	37.0	1626
-Iconic	1627	43.0	1627
-Iconic	1628	33.0	1628
-Iconic	1629	21.0	1629
-Iconic	1630	57.0	1630
-Iconic	1631	24.0	1631
-Iconic	1632	17.0	1632
-Iconic	1633	9.0	1633
-Iconic	1634	12.0	1634
-Iconic	1635	41.0	1635
-Iconic	1636	13.0	1636
-Iconic	1637	14.0	1637
-Iconic	1638	28.0	1638
-Iconic	1639	44.0	1639
-Iconic	1640	26.0	1640
-Iconic	1641	27.0	1641
-Iconic	1642	14.0	1642
-Iconic	1643	21.0	1643
-Iconic	1644	35.0	1644
-Iconic	1645	14.0	1645
-Iconic	1646	22.0	1646
-Iconic	1647	66.0	1647
-Iconic	1648	21.0	1648
-Iconic	1649	16.0	1649
-Iconic	1650	48.0	1650
-Iconic	1651	74.0	1651
-Iconic	1652	39.0	1652
-Iconic	1653	28.0	1653
-Iconic	1654	22.0	1654
-Iconic	1655	71.0	1655
-Iconic	1656	51.0	1656
-Iconic	1657	46.0	1657
-Iconic	1658	52.0	1658
-Iconic	1659	41.0	1659
-Iconic	1660	15.0	1660
-Iconic	1661	14.0	1661
-Iconic	1662	72.0	1662
-Iconic	1663	17.0	1663
-Iconic	1664	14.0	1664
-Iconic	1665	26.0	1665
-Iconic	1666	58.0	1666
-Iconic	1667	14.0	1667
-Iconic	1668	49.0	1668
-Iconic	1669	18.0	1669
-Iconic	1670	26.0	1670
-Iconic	1671	27.0	1671
-Iconic	1672	66.0	1672
-Iconic	1673	25.0	1673
-Iconic	1674	32.0	1674
-Iconic	1675	19.0	1675
-Iconic	1676	8.0	1676
-Iconic	1677	32.0	1677
-Iconic	1678	76.0	1678
-Iconic	1679	35.0	1679
-Iconic	1680	63.0	1680
-Iconic	1681	78.0	1681
-Iconic	1682	24.0	1682
-Iconic	1683	50.0	1683
-Iconic	1684	28.0	1684
-Iconic	1685	42.0	1685
-Iconic	1686	42.0	1686
-Iconic	1687	45.0	1687
-Iconic	1688	32.0	1688
-Iconic	1689	20.0	1689
-Iconic	1690	31.0	1690
-Iconic	1691	40.0	1691
-Iconic	1692	76.0	1692
-Iconic	1693	24.0	1693
-Iconic	1694	16.0	1694
-Iconic	1695	14.0	1695
-Iconic	1696	40.0	1696
-Iconic	1697	22.0	1697
-Iconic	1698	48.0	1698
-Iconic	1699	17.0	1699
-Iconic	1700	63.0	1700
-Iconic	1701	29.0	1701
-Iconic	1702	19.0	1702
-Iconic	1703	39.0	1703
-Iconic	1704	45.0	1704
-Iconic	1705	21.0	1705
-Iconic	1706	10.0	1706
-Iconic	1707	17.0	1707
-Iconic	1708	62.0	1708
-Iconic	1709	12.0	1709
-Iconic	1710	42.0	1710
-Iconic	1711	12.0	1711
-Iconic	1712	18.0	1712
-Iconic	1713	17.0	1713
-Iconic	1714	68.0	1714
-Iconic	1715	23.0	1715
-Iconic	1716	32.0	1716
-Iconic	1717	14.0	1717
-Iconic	1718	32.0	1718
-Iconic	1719	28.0	1719
-Iconic	1720	32.0	1720
-Iconic	1721	45.0	1721
-Iconic	1722	43.0	1722
-Iconic	1723	74.0	1723
-Iconic	1724	31.0	1724
-Iconic	1725	25.0	1725
-Iconic	1726	26.0	1726
-Iconic	1727	32.0	1727
-Iconic	1728	26.0	1728
-Iconic	1729	24.0	1729
-Iconic	1730	10.0	1730
-Iconic	1731	44.0	1731
-Iconic	1732	49.0	1732
-Iconic	1733	15.0	1733
-Iconic	1734	16.0	1734
-Iconic	1735	11.0	1735
-Iconic	1736	11.0	1736
-Iconic	1737	16.0	1737
-Iconic	1738	38.0	1738
-Iconic	1739	39.0	1739
-Iconic	1740	73.0	1740
-Iconic	1741	22.0	1741
-Iconic	1742	11.0	1742
-Iconic	1743	59.0	1743
-Iconic	1744	16.0	1744
-Iconic	1745	56.0	1745
-Iconic	1746	72.0	1746
-Iconic	1747	55.0	1747
-Iconic	1748	44.0	1748
-Iconic	1749	27.0	1749
-Iconic	1750	45.0	1750
-Iconic	1751	54.0	1751
-Iconic	1752	61.0	1752
-Iconic	1753	11.0	1753
-Iconic	1754	16.0	1754
-Iconic	1755	76.0	1755
-Iconic	1756	16.0	1756
-Iconic	1757	12.0	1757
-Iconic	1758	20.0	1758
-Iconic	1759	21.0	1759
-Iconic	1760	52.0	1760
-Iconic	1761	67.0	1761
-Iconic	1762	39.0	1762
-Iconic	1763	17.0	1763
-Iconic	1764	10.0	1764
-Iconic	1765	52.0	1765
-Iconic	1766	44.0	1766
-Iconic	1767	24.0	1767
-Iconic	1768	12.0	1768
-Iconic	1769	30.0	1769
-Iconic	1770	18.0	1770
-Iconic	1771	32.0	1771
-Iconic	1772	37.0	1772
-Iconic	1773	38.0	1773
-Iconic	1774	11.0	1774
-Iconic	1775	39.0	1775
-Iconic	1776	57.0	1776
-Iconic	1777	22.0	1777
-Iconic	1778	62.0	1778
-Iconic	1779	66.0	1779
-Iconic	1780	14.0	1780
-Iconic	1781	23.0	1781
-Iconic	1782	60.0	1782
-Iconic	1783	33.0	1783
-Iconic	1784	75.0	1784
-Iconic	1785	21.0	1785
-Iconic	1786	29.0	1786
-Iconic	1787	30.0	1787
-Iconic	1788	26.0	1788
-Iconic	1789	39.0	1789
-Iconic	1790	44.0	1790
-Iconic	1791	22.0	1791
-Iconic	1792	18.0	1792
-Iconic	1793	12.0	1793
-Iconic	1794	76.0	1794
-Iconic	1795	32.0	1795
-Iconic	1796	28.0	1796
-Iconic	1797	35.0	1797
-Iconic	1798	14.0	1798
-Iconic	1799	68.0	1799
-Iconic	1800	78.0	1800
-Iconic	1801	36.0	1801
-Iconic	1802	20.0	1802
-Iconic	1803	39.0	1803
-Iconic	1804	31.0	1804
-Iconic	1805	37.0	1805
-Iconic	1806	45.0	1806
-Iconic	1807	34.0	1807
-Iconic	1808	33.0	1808
-Iconic	1809	70.0	1809
-Iconic	1810	46.0	1810
-Iconic	1811	45.0	1811
-Iconic	1812	15.0	1812
-Iconic	1813	29.0	1813
-Iconic	1814	28.0	1814
-Iconic	1815	16.0	1815
-Iconic	1816	21.0	1816
-Iconic	1817	39.0	1817
-Iconic	1818	49.0	1818
-Iconic	1819	9.0	1819
-Iconic	1820	14.0	1820
-Iconic	1821	70.0	1821
-Iconic	1822	24.0	1822
-Iconic	1823	15.0	1823
-Iconic	1824	22.0	1824
-Iconic	1825	13.0	1825
-Iconic	1826	60.0	1826
-Iconic	1827	10.0	1827
-Iconic	1828	11.0	1828
-Iconic	1829	12.0	1829
-Iconic	1830	42.0	1830
-Iconic	1831	47.0	1831
-Iconic	1832	48.0	1832
-Iconic	1833	43.0	1833
-Iconic	1834	76.0	1834
-Iconic	1835	13.0	1835
-Iconic	1836	42.0	1836
-Iconic	1837	56.0	1837
-Iconic	1838	38.0	1838
-Iconic	1839	36.0	1839
-Iconic	1840	21.0	1840
-Iconic	1841	12.0	1841
-Iconic	1842	11.0	1842
-Iconic	1843	41.0	1843
-Iconic	1844	25.0	1844
-Iconic	1845	22.0	1845
-Iconic	1846	46.0	1846
-Iconic	1847	25.0	1847
-Iconic	1848	63.0	1848
-Iconic	1849	16.0	1849
-Iconic	1850	15.0	1850
-Iconic	1851	51.0	1851
-Iconic	1852	23.0	1852
-Iconic	1853	31.0	1853
-Iconic	1854	22.0	1854
-Iconic	1855	33.0	1855
-Iconic	1856	19.0	1856
-Iconic	1857	11.0	1857
-Iconic	1858	38.0	1858
-Iconic	1859	62.0	1859
-Iconic	1860	54.0	1860
-Iconic	1861	53.0	1861
-Iconic	1862	16.0	1862
-Iconic	1863	16.0	1863
-Iconic	1864	13.0	1864
-Iconic	1865	41.0	1865
-Iconic	1866	42.0	1866
-Iconic	1867	24.0	1867
-Iconic	1868	74.0	1868
-Iconic	1869	58.0	1869
-Iconic	1870	49.0	1870
-Iconic	1871	5.0	1871
-Iconic	1872	49.0	1872
-Iconic	1873	13.0	1873
-Iconic	1874	15.0	1874
-Iconic	1875	69.0	1875
-Iconic	1876	38.0	1876
-Iconic	1877	57.0	1877
-Iconic	1878	34.0	1878
-Iconic	1879	41.0	1879
-Iconic	1880	12.0	1880
-Iconic	1881	41.0	1881
-Iconic	1882	17.0	1882
-Iconic	1883	69.0	1883
-Iconic	1884	15.0	1884
-Iconic	1885	21.0	1885
-Iconic	1886	19.0	1886
-Iconic	1887	60.0	1887
-Iconic	1888	40.0	1888
-Iconic	1889	28.0	1889
-Iconic	1890	35.0	1890
-Iconic	1891	68.0	1891
-Iconic	1892	46.0	1892
-Iconic	1893	80.0	1893
-Iconic	1894	74.0	1894
-Iconic	1895	31.0	1895
-Iconic	1896	21.0	1896
-Iconic	1897	21.0	1897
-Iconic	1898	19.0	1898
-Iconic	1899	27.0	1899
-Iconic	1900	12.0	1900
-Iconic	1901	60.0	1901
-Iconic	1902	21.0	1902
-Iconic	1903	25.0	1903
-Iconic	1904	45.0	1904
-Iconic	1905	78.0	1905
-Iconic	1906	13.0	1906
-Iconic	1907	41.0	1907
-Iconic	1908	28.0	1908
-Iconic	1909	39.0	1909
-Iconic	1910	57.0	1910
-Iconic	1911	16.0	1911
-Iconic	1912	13.0	1912
-Iconic	1913	64.0	1913
-Iconic	1914	14.0	1914
-Iconic	1915	24.0	1915
-Iconic	1916	21.0	1916
-Iconic	1917	52.0	1917
-Iconic	1918	36.0	1918
-Iconic	1919	22.0	1919
-Iconic	1920	52.0	1920
-Iconic	1921	14.0	1921
-Iconic	1922	58.0	1922
-Iconic	1923	55.0	1923
-Iconic	1924	11.0	1924
-Iconic	1925	50.0	1925
-Iconic	1926	22.0	1926
-Iconic	1927	24.0	1927
-Iconic	1928	38.0	1928
-Iconic	1929	14.0	1929
-Iconic	1930	18.0	1930
-Iconic	1931	20.0	1931
-Iconic	1932	37.0	1932
-Iconic	1933	30.0	1933
-Iconic	1934	67.0	1934
-Iconic	1935	56.0	1935
-Iconic	1936	77.0	1936
-Iconic	1937	25.0	1937
-Iconic	1938	14.0	1938
-Iconic	1939	15.0	1939
-Iconic	1940	35.0	1940
-Iconic	1941	72.0	1941
-Iconic	1942	59.0	1942
-Iconic	1943	12.0	1943
-Iconic	1944	57.0	1944
-Iconic	1945	42.0	1945
-Iconic	1946	28.0	1946
-Iconic	1947	68.0	1947
-Iconic	1948	21.0	1948
-Iconic	1949	21.0	1949
-Iconic	1950	26.0	1950
-Iconic	1951	73.0	1951
-Iconic	1952	69.0	1952
-Iconic	1953	29.0	1953
-Iconic	1954	18.0	1954
-Iconic	1955	33.0	1955
-Iconic	1956	14.0	1956
-Iconic	1957	13.0	1957
-Iconic	1958	12.0	1958
-Iconic	1959	53.0	1959
-Iconic	1960	17.0	1960
-Iconic	1961	65.0	1961
-Iconic	1962	23.0	1962
-Iconic	1963	39.0	1963
-Iconic	1964	35.0	1964
-Iconic	1965	27.0	1965
-Iconic	1966	18.0	1966
-Iconic	1967	52.0	1967
-Iconic	1968	7.0	1968
-Iconic	1969	73.0	1969
-Iconic	1970	26.0	1970
-Iconic	1971	8.0	1971
-Iconic	1972	30.0	1972
-Iconic	1973	14.0	1973
-Iconic	1974	14.0	1974
-Iconic	1975	50.0	1975
-Iconic	1976	20.0	1976
-Iconic	1977	32.0	1977
-Iconic	1978	22.0	1978
-Iconic	1979	23.0	1979
-Iconic	1980	60.0	1980
-Iconic	1981	70.0	1981
-Iconic	1982	62.0	1982
-Iconic	1983	19.0	1983
-Iconic	1984	42.0	1984
-Iconic	1985	70.0	1985
-Iconic	1986	21.0	1986
-Iconic	1987	33.0	1987
-Iconic	1988	60.0	1988
-Iconic	1989	21.0	1989
-Iconic	1990	49.0	1990
-Iconic	1991	14.0	1991
-Iconic	1992	43.0	1992
-Iconic	1993	61.0	1993
-Iconic	1994	19.0	1994
-Iconic	1995	25.0	1995
-Iconic	1996	18.0	1996
-Iconic	1997	17.0	1997
-Iconic	1998	55.0	1998
-Iconic	1999	12.0	1999
-Iconic	2000	30.0	2000
-Iconic	2001	20.0	2001
-Iconic	2002	16.0	2002
-Iconic	2003	52.0	2003
-Iconic	2004	32.0	2004
-Iconic	2005	12.0	2005
-Iconic	2006	60.0	2006
-Iconic	2007	25.0	2007
-Iconic	2008	24.0	2008
-Iconic	2009	16.0	2009
-Iconic	2010	21.0	2010
-Iconic	2011	63.0	2011
-Iconic	2012	68.0	2012
-Iconic	2013	35.0	2013
-Iconic	2014	79.0	2014
-Iconic	2015	32.0	2015
-Iconic	2016	15.0	2016
-Iconic	2017	44.0	2017
-Iconic	2018	32.0	2018
-Iconic	2019	25.0	2019
-Iconic	2020	72.0	2020
-Iconic	2021	35.0	2021
-Iconic	2022	39.0	2022
-Iconic	2023	16.0	2023
-Iconic	2024	51.0	2024
-Iconic	2025	60.0	2025
-Iconic	2026	60.0	2026
-Iconic	2027	69.0	2027
-Iconic	2028	55.0	2028
-Iconic	2029	20.0	2029
-Iconic	2030	17.0	2030
-Iconic	2031	12.0	2031
-Iconic	2032	56.0	2032
-Iconic	2033	45.0	2033
-Iconic	2034	11.0	2034
-Iconic	2035	40.0	2035
-Iconic	2036	27.0	2036
-Iconic	2037	14.0	2037
-Iconic	2038	78.0	2038
-Iconic	2039	18.0	2039
-Iconic	2040	22.0	2040
-Iconic	2041	18.0	2041
-Iconic	2042	61.0	2042
-Iconic	2043	54.0	2043
-Iconic	2044	76.0	2044
-Iconic	2045	15.0	2045
-Iconic	2046	25.0	2046
-Iconic	2047	11.0	2047
-Iconic	2048	43.0	2048
-Iconic	2049	12.0	2049
-Iconic	2050	81.0	2050
-Iconic	2051	19.0	2051
-Iconic	2052	35.0	2052
-Iconic	2053	15.0	2053
-Iconic	2054	68.0	2054
-Iconic	2055	9.0	2055
-Iconic	2056	79.0	2056
-Iconic	2057	63.0	2057
-Iconic	2058	14.0	2058
-Iconic	2059	23.0	2059
-Iconic	2060	63.0	2060
-Iconic	2061	30.0	2061
-Iconic	2062	36.0	2062
-Iconic	2063	13.0	2063
-Iconic	2064	35.0	2064
-Iconic	2065	14.0	2065
-Iconic	2066	14.0	2066
-Iconic	2067	25.0	2067
-Iconic	2068	31.0	2068
-Iconic	2069	55.0	2069
-Iconic	2070	57.0	2070
-Iconic	2071	11.0	2071
-Iconic	2072	15.0	2072
-Iconic	2073	36.0	2073
-Iconic	2074	30.0	2074
-Iconic	2075	47.0	2075
-Iconic	2076	60.0	2076
-Iconic	2077	74.0	2077
-Iconic	2078	17.0	2078
-Iconic	2079	25.0	2079
-Iconic	2080	58.0	2080
-Iconic	2081	55.0	2081
-Iconic	2082	13.0	2082
-Iconic	2083	44.0	2083
-Iconic	2084	18.0	2084
-Iconic	2085	23.0	2085
-Iconic	2086	13.0	2086
-Iconic	2087	48.0	2087
-Iconic	2088	55.0	2088
-Iconic	2089	23.0	2089
-Iconic	2090	13.0	2090
-Iconic	2091	16.0	2091
-Iconic	2092	10.0	2092
-Iconic	2093	70.0	2093
-Iconic	2094	25.0	2094
-Iconic	2095	49.0	2095
-Iconic	2096	38.0	2096
-Iconic	2097	17.0	2097
-Iconic	2098	61.0	2098
-Iconic	2099	45.0	2099
-Iconic	2100	12.0	2100
-Iconic	2101	77.0	2101
-Iconic	2102	24.0	2102
-Iconic	2103	27.0	2103
-Iconic	2104	65.0	2104
-Iconic	2105	64.0	2105
-Iconic	2106	69.0	2106
-Iconic	2107	12.0	2107
-Iconic	2108	35.0	2108
-Iconic	2109	41.0	2109
-Iconic	2110	57.0	2110
-Iconic	2111	60.0	2111
-Iconic	2112	20.0	2112
-Iconic	2113	45.0	2113
-Iconic	2114	50.0	2114
-Iconic	2115	22.0	2115
-Iconic	2116	29.0	2116
-Iconic	2117	23.0	2117
-Iconic	2118	41.0	2118
-Iconic	2119	19.0	2119
-Iconic	2120	13.0	2120
-Iconic	2121	17.0	2121
-Iconic	2122	23.0	2122
-Iconic	2123	20.0	2123
-Iconic	2124	32.0	2124
-Iconic	2125	23.0	2125
-Iconic	2126	23.0	2126
-Iconic	2127	14.0	2127
-Iconic	2128	36.0	2128
-Iconic	2129	26.0	2129
-Iconic	2130	34.0	2130
-Iconic	2131	45.0	2131
-Iconic	2132	65.0	2132
-Iconic	2133	17.0	2133
-Iconic	2134	54.0	2134
-Iconic	2135	20.0	2135
-Iconic	2136	16.0	2136
-Iconic	2137	18.0	2137
-Iconic	2138	9.0	2138
-Iconic	2139	17.0	2139
-Iconic	2140	31.0	2140
-Iconic	2141	24.0	2141
-Iconic	2142	43.0	2142
-Iconic	2143	61.0	2143
-Iconic	2144	22.0	2144
-Iconic	2145	33.0	2145
-Iconic	2146	32.0	2146
-Iconic	2147	79.0	2147
-Iconic	2148	18.0	2148
-Iconic	2149	8.0	2149
-Iconic	2150	21.0	2150
-Iconic	2151	55.0	2151
-Iconic	2152	15.0	2152
-Iconic	2153	39.0	2153
-Iconic	2154	29.0	2154
-Iconic	2155	14.0	2155
-Iconic	2156	32.0	2156
-Iconic	2157	38.0	2157
-Iconic	2158	47.0	2158
-Iconic	2159	13.0	2159
-Iconic	2160	75.0	2160
-Iconic	2161	25.0	2161
-Iconic	2162	47.0	2162
-Iconic	2163	13.0	2163
-Iconic	2164	64.0	2164
-Iconic	2165	38.0	2165
-Iconic	2166	61.0	2166
-Iconic	2167	13.0	2167
-Iconic	2168	72.0	2168
-Iconic	2169	17.0	2169
-Iconic	2170	13.0	2170
-Iconic	2171	52.0	2171
-Iconic	2172	32.0	2172
-Iconic	2173	56.0	2173
-Iconic	2174	12.0	2174
-Iconic	2175	22.0	2175
-Iconic	2176	43.0	2176
-Iconic	2177	23.0	2177
-Iconic	2178	15.0	2178
-Iconic	2179	53.0	2179
-Iconic	2180	37.0	2180
-Iconic	2181	46.0	2181
-Iconic	2182	49.0	2182
-Iconic	2183	34.0	2183
-Iconic	2184	30.0	2184
-Iconic	2185	72.0	2185
-Iconic	2186	65.0	2186
-Iconic	2187	43.0	2187
-Iconic	2188	63.0	2188
-Iconic	2189	29.0	2189
-Iconic	2190	26.0	2190
-Iconic	2191	50.0	2191
-Iconic	2192	43.0	2192
-Iconic	2193	31.0	2193
-Iconic	2194	17.0	2194
-Iconic	2195	58.0	2195
-Iconic	2196	15.0	2196
-Iconic	2197	41.0	2197
-Iconic	2198	20.0	2198
-Iconic	2199	28.0	2199
-Iconic	2200	64.0	2200
-Iconic	2201	67.0	2201
-Iconic	2202	21.0	2202
-Iconic	2203	19.0	2203
-Iconic	2204	56.0	2204
-Iconic	2205	13.0	2205
-Iconic	2206	16.0	2206
-Iconic	2207	14.0	2207
-Iconic	2208	14.0	2208
-Iconic	2209	14.0	2209
-Iconic	2210	58.0	2210
-Iconic	2211	59.0	2211
-Iconic	2212	69.0	2212
-Iconic	2213	11.0	2213
-Iconic	2214	17.0	2214
-Iconic	2215	18.0	2215
-Iconic	2216	15.0	2216
-Iconic	2217	44.0	2217
-Iconic	2218	65.0	2218
-Iconic	2219	15.0	2219
-Iconic	2220	20.0	2220
-Iconic	2221	20.0	2221
-Iconic	2222	33.0	2222
-Iconic	2223	56.0	2223
-Iconic	2224	22.0	2224
-Iconic	2225	50.0	2225
-Iconic	2226	10.0	2226
-Iconic	2227	29.0	2227
-Iconic	2228	69.0	2228
-Iconic	2229	11.0	2229
-Iconic	2230	10.0	2230
-Iconic	2231	37.0	2231
-Iconic	2232	10.0	2232
-Iconic	2233	20.0	2233
-Iconic	2234	58.0	2234
-Iconic	2235	57.0	2235
-Iconic	2236	66.0	2236
-Iconic	2237	73.0	2237
-Iconic	2238	51.0	2238
-Iconic	2239	41.0	2239
-Iconic	2240	16.0	2240
-Iconic	2241	43.0	2241
-Iconic	2242	57.0	2242
-Iconic	2243	20.0	2243
-Iconic	2244	9.0	2244
-Iconic	2245	14.0	2245
-Iconic	2246	48.0	2246
-Iconic	2247	57.0	2247
-Iconic	2248	9.0	2248
-Iconic	2249	63.0	2249
-Iconic	2250	74.0	2250
-Iconic	2251	25.0	2251
-Iconic	2252	55.0	2252
-Iconic	2253	36.0	2253
-Iconic	2254	39.0	2254
-Iconic	2255	12.0	2255
-Iconic	2256	67.0	2256
-Iconic	2257	30.0	2257
-Iconic	2258	18.0	2258
-Iconic	2259	11.0	2259
-Iconic	2260	9.0	2260
-Iconic	2261	10.0	2261
-Iconic	2262	18.0	2262
-Iconic	2263	71.0	2263
-Iconic	2264	12.0	2264
-Iconic	2265	55.0	2265
-Iconic	2266	12.0	2266
-Iconic	2267	57.0	2267
-Iconic	2268	62.0	2268
-Iconic	2269	34.0	2269
-Iconic	2270	60.0	2270
-Iconic	2271	26.0	2271
-Iconic	2272	61.0	2272
-Iconic	2273	62.0	2273
-Iconic	2274	19.0	2274
-Iconic	2275	45.0	2275
-Iconic	2276	10.0	2276
-Iconic	2277	42.0	2277
-Iconic	2278	23.0	2278
-Iconic	2279	11.0	2279
-Iconic	2280	28.0	2280
-Iconic	2281	23.0	2281
-Iconic	2282	31.0	2282
-Iconic	2283	68.0	2283
-Iconic	2284	11.0	2284
-Iconic	2285	55.0	2285
-Iconic	2286	11.0	2286
-Iconic	2287	9.0	2287
-Iconic	2288	72.0	2288
-Iconic	2289	43.0	2289
-Iconic	2290	62.0	2290
-Iconic	2291	38.0	2291
-Iconic	2292	67.0	2292
-Iconic	2293	15.0	2293
-Iconic	2294	12.0	2294
-Iconic	2295	11.0	2295
-Iconic	2296	37.0	2296
-Iconic	2297	11.0	2297
-Iconic	2298	28.0	2298
-Iconic	2299	25.0	2299
-Iconic	2300	64.0	2300
-Iconic	2301	44.0	2301
-Iconic	2302	30.0	2302
-Iconic	2303	11.0	2303
-Iconic	2304	43.0	2304
-Iconic	2305	44.0	2305
-Iconic	2306	19.0	2306
-Iconic	2307	15.0	2307
-Iconic	2308	49.0	2308
-Iconic	2309	50.0	2309
-Iconic	2310	50.0	2310
-Iconic	2311	23.0	2311
-Iconic	2312	12.0	2312
-Iconic	2313	29.0	2313
-Iconic	2314	9.0	2314
-Iconic	2315	35.0	2315
-Iconic	2316	47.0	2316
-Iconic	2317	28.0	2317
-Iconic	2318	26.0	2318
-Iconic	2319	29.0	2319
-Iconic	2320	31.0	2320
-Iconic	2321	28.0	2321
-Iconic	2322	11.0	2322
-Iconic	2323	76.0	2323
-Iconic	2324	66.0	2324
-Iconic	2325	70.0	2325
-Iconic	2326	76.0	2326
-Iconic	2327	15.0	2327
-Iconic	2328	41.0	2328
-Iconic	2329	21.0	2329
-Iconic	2330	34.0	2330
-Iconic	2331	26.0	2331
-Iconic	2332	52.0	2332
-Iconic	2333	14.0	2333
-Iconic	2334	9.0	2334
-Iconic	2335	23.0	2335
-Iconic	2336	18.0	2336
-Iconic	2337	64.0	2337
-Iconic	2338	19.0	2338
-Iconic	2339	75.0	2339
-Iconic	2340	71.0	2340
-Iconic	2341	11.0	2341
-Iconic	2342	38.0	2342
-Iconic	2343	41.0	2343
-Iconic	2344	40.0	2344
-Iconic	2345	36.0	2345
-Iconic	2346	18.0	2346
-Iconic	2347	13.0	2347
-Iconic	2348	10.0	2348
-Iconic	2349	17.0	2349
-Iconic	2350	21.0	2350
-Iconic	2351	44.0	2351
-Iconic	2352	43.0	2352
-Iconic	2353	76.0	2353
-Iconic	2354	26.0	2354
-Iconic	2355	17.0	2355
-Iconic	2356	36.0	2356
-Iconic	2357	14.0	2357
-Iconic	2358	25.0	2358
-Iconic	2359	56.0	2359
-Iconic	2360	21.0	2360
-Iconic	2361	15.0	2361
-Iconic	2362	50.0	2362
-Iconic	2363	33.0	2363
-Iconic	2364	25.0	2364
-Iconic	2365	65.0	2365
-Iconic	2366	28.0	2366
-Iconic	2367	41.0	2367
-Iconic	2368	40.0	2368
-Iconic	2369	47.0	2369
-Iconic	2370	22.0	2370
-Iconic	2371	13.0	2371
-Iconic	2372	24.0	2372
-Iconic	2373	15.0	2373
-Iconic	2374	76.0	2374
-Iconic	2375	10.0	2375
-Iconic	2376	11.0	2376
-Iconic	2377	10.0	2377
-Iconic	2378	19.0	2378
-Iconic	2379	12.0	2379
-Iconic	2380	17.0	2380
-Iconic	2381	18.0	2381
-Iconic	2382	54.0	2382
-Iconic	2383	13.0	2383
-Iconic	2384	13.0	2384
-Iconic	2385	17.0	2385
-Iconic	2386	13.0	2386
-Iconic	2387	20.0	2387
-Iconic	2388	52.0	2388
-Iconic	2389	70.0	2389
-Iconic	2390	35.0	2390
-Iconic	2391	35.0	2391
-Iconic	2392	73.0	2392
-Iconic	2393	41.0	2393
-Iconic	2394	51.0	2394
-Iconic	2395	21.0	2395
-Iconic	2396	8.0	2396
-Iconic	2397	24.0	2397
-Iconic	2398	77.0	2398
-Iconic	2399	39.0	2399
-Iconic	2400	54.0	2400
-Iconic	2401	13.0	2401
-Iconic	2402	43.0	2402
-Iconic	2403	75.0	2403
-Iconic	2404	35.0	2404
-Iconic	2405	11.0	2405
-Iconic	2406	10.0	2406
-Iconic	2407	40.0	2407
-Iconic	2408	18.0	2408
-Iconic	2409	66.0	2409
-Iconic	2410	12.0	2410
-Iconic	2411	36.0	2411
-Iconic	2412	71.0	2412
-Iconic	2413	20.0	2413
-Iconic	2414	31.0	2414
-Iconic	2415	59.0	2415
-Iconic	2416	39.0	2416
-Iconic	2417	8.0	2417
-Iconic	2418	16.0	2418
-Iconic	2419	58.0	2419
-Iconic	2420	7.0	2420
-Iconic	2421	33.0	2421
-Iconic	2422	74.0	2422
-Iconic	2423	39.0	2423
-Iconic	2424	21.0	2424
-Iconic	2425	20.0	2425
-Iconic	2426	64.0	2426
-Iconic	2427	14.0	2427
-Iconic	2428	30.0	2428
-Iconic	2429	8.0	2429
-Iconic	2430	79.0	2430
-Iconic	2431	47.0	2431
-Iconic	2432	59.0	2432
-Iconic	2433	67.0	2433
-Iconic	2434	70.0	2434
-Iconic	2435	54.0	2435
-Iconic	2436	12.0	2436
-Iconic	2437	16.0	2437
-Iconic	2438	56.0	2438
-Iconic	2439	32.0	2439
-Iconic	2440	15.0	2440
-Iconic	2441	50.0	2441
-Iconic	2442	77.0	2442
-Iconic	2443	44.0	2443
-Iconic	2444	29.0	2444
-Iconic	2445	18.0	2445
-Iconic	2446	41.0	2446
-Iconic	2447	43.0	2447
-Iconic	2448	38.0	2448
-Iconic	2449	17.0	2449
-Iconic	2450	44.0	2450
-Iconic	2451	21.0	2451
-Iconic	2452	71.0	2452
-Iconic	2453	19.0	2453
-Iconic	2454	67.0	2454
-Iconic	2455	18.0	2455
-Iconic	2456	20.0	2456
-Iconic	2457	16.0	2457
-Iconic	2458	42.0	2458
-Iconic	2459	11.0	2459
-Iconic	2460	35.0	2460
-Iconic	2461	60.0	2461
-Iconic	2462	18.0	2462
-Iconic	2463	75.0	2463
-Iconic	2464	9.0	2464
-Iconic	2465	17.0	2465
-Iconic	2466	12.0	2466
-Iconic	2467	10.0	2467
-Iconic	2468	72.0	2468
-Iconic	2469	9.0	2469
-Iconic	2470	12.0	2470
-Iconic	2471	23.0	2471
-Iconic	2472	33.0	2472
-Iconic	2473	47.0	2473
-Iconic	2474	75.0	2474
-Iconic	2475	16.0	2475
-Iconic	2476	26.0	2476
-Iconic	2477	10.0	2477
-Iconic	2478	67.0	2478
-Iconic	2479	18.0	2479
-Iconic	2480	63.0	2480
-Iconic	2481	25.0	2481
-Iconic	2482	19.0	2482
-Iconic	2483	24.0	2483
-Iconic	2484	50.0	2484
-Iconic	2485	59.0	2485
-Iconic	2486	17.0	2486
-Iconic	2487	24.0	2487
-Iconic	2488	60.0	2488
-Iconic	2489	31.0	2489
-Iconic	2490	37.0	2490
-Iconic	2491	57.0	2491
-Iconic	2492	44.0	2492
-Iconic	2493	21.0	2493
-Iconic	2494	11.0	2494
-Iconic	2495	17.0	2495
-Iconic	2496	44.0	2496
-Iconic	2497	63.0	2497
-Iconic	2498	11.0	2498
-Iconic	2499	22.0	2499
-Iconic	2500	13.0	2500
-Iconic	2501	22.0	2501
-Iconic	2502	50.0	2502
-Iconic	2503	52.0	2503
-Iconic	2504	75.0	2504
-Iconic	2505	22.0	2505
-Iconic	2506	54.0	2506
-Iconic	2507	20.0	2507
-Iconic	2508	54.0	2508
-Iconic	2509	67.0	2509
-Iconic	2510	33.0	2510
-Iconic	2511	80.0	2511
-Iconic	2512	50.0	2512
-Iconic	2513	29.0	2513
-Iconic	2514	38.0	2514
-Iconic	2515	38.0	2515
-Iconic	2516	12.0	2516
-Iconic	2517	45.0	2517
-Iconic	2518	15.0	2518
-Iconic	2519	16.0	2519
-Iconic	2520	7.0	2520
-Iconic	2521	76.0	2521
-Iconic	2522	18.0	2522
-Iconic	2523	14.0	2523
-Iconic	2524	67.0	2524
-Iconic	2525	18.0	2525
-Iconic	2526	51.0	2526
-Iconic	2527	13.0	2527
-Iconic	2528	63.0	2528
-Iconic	2529	37.0	2529
-Iconic	2530	49.0	2530
-Iconic	2531	25.0	2531
-Iconic	2532	28.0	2532
-Iconic	2533	20.0	2533
-Iconic	2534	70.0	2534
-Iconic	2535	49.0	2535
-Iconic	2536	28.0	2536
-Iconic	2537	51.0	2537
-Iconic	2538	36.0	2538
-Iconic	2539	33.0	2539
-Iconic	2540	64.0	2540
-Iconic	2541	35.0	2541
-Iconic	2542	72.0	2542
-Iconic	2543	14.0	2543
-Iconic	2544	50.0	2544
-Iconic	2545	45.0	2545
-Iconic	2546	77.0	2546
-Iconic	2547	54.0	2547
-Iconic	2548	39.0	2548
-Iconic	2549	57.0	2549
-Iconic	2550	62.0	2550
-Iconic	2551	19.0	2551
-Iconic	2552	16.0	2552
-Iconic	2553	13.0	2553
-Iconic	2554	59.0	2554
-Iconic	2555	18.0	2555
-Iconic	2556	9.0	2556
-Iconic	2557	27.0	2557
-Iconic	2558	67.0	2558
-Iconic	2559	15.0	2559
-Iconic	2560	38.0	2560
-Iconic	2561	45.0	2561
-Iconic	2562	15.0	2562
-Iconic	2563	29.0	2563
-Iconic	2564	59.0	2564
-Iconic	2565	23.0	2565
-Iconic	2566	37.0	2566
-Iconic	2567	13.0	2567
-Iconic	2568	27.0	2568
-Iconic	2569	75.0	2569
-Iconic	2570	25.0	2570
-Iconic	2571	13.0	2571
-Iconic	2572	48.0	2572
-Iconic	2573	71.0	2573
-Iconic	2574	21.0	2574
-Iconic	2575	13.0	2575
-Iconic	2576	24.0	2576
-Iconic	2577	15.0	2577
-Iconic	2578	36.0	2578
-Iconic	2579	77.0	2579
-Iconic	2580	13.0	2580
-Iconic	2581	37.0	2581
-Iconic	2582	26.0	2582
-Iconic	2583	11.0	2583
-Iconic	2584	22.0	2584
-Iconic	2585	53.0	2585
-Iconic	2586	37.0	2586
-Iconic	2587	64.0	2587
-Iconic	2588	28.0	2588
-Iconic	2589	10.0	2589
-Iconic	2590	17.0	2590
-Iconic	2591	16.0	2591
-Iconic	2592	66.0	2592
-Iconic	2593	13.0	2593
-Iconic	2594	31.0	2594
-Iconic	2595	12.0	2595
-Iconic	2596	51.0	2596
-Iconic	2597	39.0	2597
-Iconic	2598	62.0	2598
-Iconic	2599	13.0	2599
-Iconic	2600	42.0	2600
-Iconic	2601	35.0	2601
-Iconic	2602	23.0	2602
-Iconic	2603	56.0	2603
-Iconic	2604	32.0	2604
-Iconic	2605	33.0	2605
-Iconic	2606	8.0	2606
-Iconic	2607	26.0	2607
-Iconic	2608	19.0	2608
-Iconic	2609	31.0	2609
-Iconic	2610	28.0	2610
-Iconic	2611	10.0	2611
-Iconic	2612	38.0	2612
-Iconic	2613	39.0	2613
-Iconic	2614	25.0	2614
-Iconic	2615	62.0	2615
-Iconic	2616	12.0	2616
-Iconic	2617	35.0	2617
-Iconic	2618	7.0	2618
-Iconic	2619	14.0	2619
-Iconic	2620	73.0	2620
-Iconic	2621	75.0	2621
-Iconic	2622	17.0	2622
-Iconic	2623	50.0	2623
-Iconic	2624	40.0	2624
-Iconic	2625	20.0	2625
-Iconic	2626	23.0	2626
-Iconic	2627	7.0	2627
-Iconic	2628	9.0	2628
-Iconic	2629	27.0	2629
-Iconic	2630	21.0	2630
-Iconic	2631	56.0	2631
-Iconic	2632	31.0	2632
-Iconic	2633	15.0	2633
-Iconic	2634	20.0	2634
-Iconic	2635	45.0	2635
-Iconic	2636	56.0	2636
-Iconic	2637	73.0	2637
-Iconic	2638	18.0	2638
-Iconic	2639	12.0	2639
-Iconic	2640	44.0	2640
-Iconic	2641	62.0	2641
-Iconic	2642	12.0	2642
-Iconic	2643	44.0	2643
-Iconic	2644	10.0	2644
-Iconic	2645	40.0	2645
-Iconic	2646	16.0	2646
-Iconic	2647	12.0	2647
-Iconic	2648	15.0	2648
-Iconic	2649	70.0	2649
-Iconic	2650	49.0	2650
-Iconic	2651	11.0	2651
-Iconic	2652	64.0	2652
-Iconic	2653	24.0	2653
-Iconic	2654	17.0	2654
-Iconic	2655	12.0	2655
-Iconic	2656	14.0	2656
-Iconic	2657	49.0	2657
-Iconic	2658	9.0	2658
-Iconic	2659	27.0	2659
-Iconic	2660	80.0	2660
-Iconic	2661	18.0	2661
-Iconic	2662	55.0	2662
-Iconic	2663	59.0	2663
-Iconic	2664	66.0	2664
-Iconic	2665	22.0	2665
-Iconic	2666	35.0	2666
-Iconic	2667	47.0	2667
-Iconic	2668	43.0	2668
-Iconic	2669	42.0	2669
-Iconic	2670	62.0	2670
-Iconic	2671	65.0	2671
-Iconic	2672	48.0	2672
-Iconic	2673	18.0	2673
-Iconic	2674	22.0	2674
-Iconic	2675	61.0	2675
-Iconic	2676	50.0	2676
-Iconic	2677	12.0	2677
-Iconic	2678	16.0	2678
-Iconic	2679	51.0	2679
-Iconic	2680	14.0	2680
-Iconic	2681	41.0	2681
-Iconic	2682	50.0	2682
-Iconic	2683	14.0	2683
-Iconic	2684	66.0	2684
-Iconic	2685	9.0	2685
-Iconic	2686	17.0	2686
-Iconic	2687	17.0	2687
-Iconic	2688	41.0	2688
-Iconic	2689	20.0	2689
-Iconic	2690	65.0	2690
-Iconic	2691	36.0	2691
-Iconic	2692	12.0	2692
-Iconic	2693	11.0	2693
-Iconic	2694	65.0	2694
-Iconic	2695	39.0	2695
-Iconic	2696	78.0	2696
-Iconic	2697	15.0	2697
-Iconic	2698	36.0	2698
-Iconic	2699	41.0	2699
-Iconic	2700	39.0	2700
-Iconic	2701	49.0	2701
-Iconic	2702	26.0	2702
-Iconic	2703	54.0	2703
-Iconic	2704	70.0	2704
-Iconic	2705	22.0	2705
-Iconic	2706	44.0	2706
-Iconic	2707	18.0	2707
-Iconic	2708	14.0	2708
-Iconic	2709	16.0	2709
-Iconic	2710	35.0	2710
-Iconic	2711	78.0	2711
-Iconic	2712	15.0	2712
-Iconic	2713	57.0	2713
-Iconic	2714	15.0	2714
-Iconic	2715	26.0	2715
-Iconic	2716	24.0	2716
-Iconic	2717	32.0	2717
-Iconic	2718	15.0	2718
-Iconic	2719	45.0	2719
-Iconic	2720	47.0	2720
-Iconic	2721	69.0	2721
-Iconic	2722	23.0	2722
-Iconic	2723	30.0	2723
-Iconic	2724	37.0	2724
-Iconic	2725	22.0	2725
-Iconic	2726	59.0	2726
-Iconic	2727	29.0	2727
-Iconic	2728	23.0	2728
-Iconic	2729	55.0	2729
-Iconic	2730	9.0	2730
-Iconic	2731	24.0	2731
-Iconic	2732	47.0	2732
-Iconic	2733	21.0	2733
-Iconic	2734	63.0	2734
-Iconic	2735	10.0	2735
-Iconic	2736	20.0	2736
-Iconic	2737	11.0	2737
-Iconic	2738	28.0	2738
-Iconic	2739	61.0	2739
-Iconic	2740	17.0	2740
-Iconic	2741	38.0	2741
-Iconic	2742	63.0	2742
-Iconic	2743	8.0	2743
-Iconic	2744	26.0	2744
-Iconic	2745	59.0	2745
-Iconic	2746	70.0	2746
-Iconic	2747	68.0	2747
-Iconic	2748	29.0	2748
-Iconic	2749	76.0	2749
-Iconic	2750	26.0	2750
-Iconic	2751	49.0	2751
-Iconic	2752	47.0	2752
-Iconic	2753	67.0	2753
-Iconic	2754	48.0	2754
-Iconic	2755	23.0	2755
-Iconic	2756	17.0	2756
-Iconic	2757	19.0	2757
-Iconic	2758	74.0	2758
-Iconic	2759	38.0	2759
-Iconic	2760	70.0	2760
-Iconic	2761	33.0	2761
-Iconic	2762	20.0	2762
-Iconic	2763	22.0	2763
-Iconic	2764	63.0	2764
-Iconic	2765	9.0	2765
-Iconic	2766	22.0	2766
-Iconic	2767	70.0	2767
-Iconic	2768	50.0	2768
-Iconic	2769	32.0	2769
-Iconic	2770	78.0	2770
-Iconic	2771	11.0	2771
-Iconic	2772	31.0	2772
-Iconic	2773	44.0	2773
-Iconic	2774	62.0	2774
-Iconic	2775	30.0	2775
-Iconic	2776	39.0	2776
-Iconic	2777	42.0	2777
-Iconic	2778	55.0	2778
-Iconic	2779	14.0	2779
-Iconic	2780	33.0	2780
-Iconic	2781	31.0	2781
-Iconic	2782	33.0	2782
-Iconic	2783	23.0	2783
-Iconic	2784	28.0	2784
-Iconic	2785	32.0	2785
-Iconic	2786	60.0	2786
-Iconic	2787	33.0	2787
-Iconic	2788	37.0	2788
-Iconic	2789	15.0	2789
-Iconic	2790	19.0	2790
-Iconic	2791	50.0	2791
-Iconic	2792	11.0	2792
-Iconic	2793	12.0	2793
-Iconic	2794	29.0	2794
-Iconic	2795	23.0	2795
-Iconic	2796	17.0	2796
-Iconic	2797	16.0	2797
-Iconic	2798	34.0	2798
-Iconic	2799	31.0	2799
-Iconic	2800	23.0	2800
-Iconic	2801	33.0	2801
-Iconic	2802	36.0	2802
-Iconic	2803	13.0	2803
-Iconic	2804	11.0	2804
-Iconic	2805	39.0	2805
-Iconic	2806	59.0	2806
-Iconic	2807	68.0	2807
-Iconic	2808	44.0	2808
-Iconic	2809	18.0	2809
-Iconic	2810	51.0	2810
-Iconic	2811	30.0	2811
-Iconic	2812	11.0	2812
-Iconic	2813	69.0	2813
-Iconic	2814	7.0	2814
-Iconic	2815	60.0	2815
-Iconic	2816	15.0	2816
-Iconic	2817	66.0	2817
-Iconic	2818	22.0	2818
-Iconic	2819	13.0	2819
-Iconic	2820	66.0	2820
-Iconic	2821	80.0	2821
-Iconic	2822	26.0	2822
-Iconic	2823	78.0	2823
-Iconic	2824	56.0	2824
-Iconic	2825	38.0	2825
-Iconic	2826	19.0	2826
-Iconic	2827	28.0	2827
-Iconic	2828	62.0	2828
-Iconic	2829	62.0	2829
-Iconic	2830	20.0	2830
-Iconic	2831	16.0	2831
-Iconic	2832	25.0	2832
-Iconic	2833	51.0	2833
-Iconic	2834	19.0	2834
-Iconic	2835	32.0	2835
-Iconic	2836	25.0	2836
-Iconic	2837	38.0	2837
-Iconic	2838	12.0	2838
-Iconic	2839	32.0	2839
-Iconic	2840	43.0	2840
-Iconic	2841	78.0	2841
-Iconic	2842	24.0	2842
-Iconic	2843	26.0	2843
-Iconic	2844	28.0	2844
-Iconic	2845	53.0	2845
-Iconic	2846	34.0	2846
-Iconic	2847	33.0	2847
-Iconic	2848	19.0	2848
-Iconic	2849	29.0	2849
-Iconic	2850	15.0	2850
-Iconic	2851	79.0	2851
-Iconic	2852	68.0	2852
-Iconic	2853	16.0	2853
-Iconic	2854	61.0	2854
-Iconic	2855	10.0	2855
-Iconic	2856	37.0	2856
-Iconic	2857	29.0	2857
-Iconic	2858	58.0	2858
-Iconic	2859	53.0	2859
-Iconic	2860	22.0	2860
-Iconic	2861	24.0	2861
-Iconic	2862	38.0	2862
-Iconic	2863	8.0	2863
-Iconic	2864	79.0	2864
-Iconic	2865	32.0	2865
-Iconic	2866	26.0	2866
-Iconic	2867	14.0	2867
-Iconic	2868	25.0	2868
-Iconic	2869	25.0	2869
-Iconic	2870	21.0	2870
-Iconic	2871	35.0	2871
-Iconic	2872	20.0	2872
-Iconic	2873	17.0	2873
-Iconic	2874	12.0	2874
-Iconic	2875	35.0	2875
-Iconic	2876	9.0	2876
-Iconic	2877	41.0	2877
-Iconic	2878	45.0	2878
-Iconic	2879	58.0	2879
-Iconic	2880	59.0	2880
-Iconic	2881	70.0	2881
-Iconic	2882	12.0	2882
-Iconic	2883	39.0	2883
-Iconic	2884	14.0	2884
-Iconic	2885	22.0	2885
-Iconic	2886	73.0	2886
-Iconic	2887	74.0	2887
-Iconic	2888	24.0	2888
-Iconic	2889	55.0	2889
-Iconic	2890	66.0	2890
-Iconic	2891	58.0	2891
-Iconic	2892	17.0	2892
-Iconic	2893	71.0	2893
-Iconic	2894	16.0	2894
-Iconic	2895	19.0	2895
-Iconic	2896	29.0	2896
-Iconic	2897	50.0	2897
-Iconic	2898	8.0	2898
-Iconic	2899	32.0	2899
-Iconic	2900	18.0	2900
-Iconic	2901	40.0	2901
-Iconic	2902	54.0	2902
-Iconic	2903	11.0	2903
-Iconic	2904	33.0	2904
-Iconic	2905	36.0	2905
-Iconic	2906	40.0	2906
-Iconic	2907	61.0	2907
-Iconic	2908	12.0	2908
-Iconic	2909	34.0	2909
-Iconic	2910	51.0	2910
-Iconic	2911	63.0	2911
-Iconic	2912	50.0	2912
-Iconic	2913	7.0	2913
-Iconic	2914	17.0	2914
-Iconic	2915	48.0	2915
-Iconic	2916	72.0	2916
-Iconic	2917	9.0	2917
-Iconic	2918	14.0	2918
-Iconic	2919	34.0	2919
-Iconic	2920	57.0	2920
-Iconic	2921	74.0	2921
-Iconic	2922	19.0	2922
-Iconic	2923	55.0	2923
-Iconic	2924	10.0	2924
-Iconic	2925	45.0	2925
-Iconic	2926	16.0	2926
-Iconic	2927	59.0	2927
-Iconic	2928	18.0	2928
-Iconic	2929	65.0	2929
-Iconic	2930	14.0	2930
-Iconic	2931	41.0	2931
-Iconic	2932	56.0	2932
-Iconic	2933	45.0	2933
-Iconic	2934	40.0	2934
-Iconic	2935	29.0	2935
-Iconic	2936	66.0	2936
-Iconic	2937	15.0	2937
-Iconic	2938	60.0	2938
-Iconic	2939	32.0	2939
-Iconic	2940	40.0	2940
-Iconic	2941	37.0	2941
-Iconic	2942	17.0	2942
-Iconic	2943	62.0	2943
-Iconic	2944	64.0	2944
-Iconic	2945	32.0	2945
-Iconic	2946	46.0	2946
-Iconic	2947	26.0	2947
-Iconic	2948	25.0	2948
-Iconic	2949	69.0	2949
-Iconic	2950	10.0	2950
-Iconic	2951	11.0	2951
-Iconic	2952	30.0	2952
-Iconic	2953	17.0	2953
-Iconic	2954	23.0	2954
-Iconic	2955	29.0	2955
-Iconic	2956	67.0	2956
-Iconic	2957	23.0	2957
-Iconic	2958	65.0	2958
-Iconic	2959	23.0	2959
-Iconic	2960	16.0	2960
-Iconic	2961	69.0	2961
-Iconic	2962	14.0	2962
-Iconic	2963	17.0	2963
-Iconic	2964	18.0	2964
-Iconic	2965	25.0	2965
-Iconic	2966	36.0	2966
-Iconic	2967	46.0	2967
-Iconic	2968	17.0	2968
-Iconic	2969	20.0	2969
-Iconic	2970	12.0	2970
-Iconic	2971	15.0	2971
-Iconic	2972	23.0	2972
-Iconic	2973	19.0	2973
-Iconic	2974	15.0	2974
-Iconic	2975	33.0	2975
-Iconic	2976	32.0	2976
-Iconic	2977	17.0	2977
-Iconic	2978	10.0	2978
-Iconic	2979	25.0	2979
-Iconic	2980	27.0	2980
-Iconic	2981	47.0	2981
-Iconic	2982	24.0	2982
-Iconic	2983	36.0	2983
-Iconic	2984	18.0	2984
-Iconic	2985	51.0	2985
-Iconic	2986	50.0	2986
-Iconic	2987	24.0	2987
-Iconic	2988	11.0	2988
-Iconic	2989	12.0	2989
-Iconic	2990	50.0	2990
-Iconic	2991	60.0	2991
-Iconic	2992	20.0	2992
-Iconic	2993	57.0	2993
-Iconic	2994	7.0	2994
-Iconic	2995	15.0	2995
-Iconic	2996	24.0	2996
-Iconic	2997	78.0	2997
-Iconic	2998	57.0	2998
-Iconic	2999	37.0	2999
-Iconic	3000	10.0	3000
-Iconic	3001	41.0	3001
-Iconic	3002	40.0	3002
-Iconic	3003	11.0	3003
-Iconic	3004	58.0	3004
-Iconic	3005	21.0	3005
-Iconic	3006	40.0	3006
-Iconic	3007	26.0	3007
-Iconic	3008	26.0	3008
-Iconic	3009	25.0	3009
-Iconic	3010	15.0	3010
-Iconic	3011	9.0	3011
-Iconic	3012	49.0	3012
-Iconic	3013	29.0	3013
-Iconic	3014	31.0	3014
-Iconic	3015	28.0	3015
-Iconic	3016	48.0	3016
-Iconic	3017	36.0	3017
-Iconic	3018	74.0	3018
-Iconic	3019	18.0	3019
-Iconic	3020	18.0	3020
-Iconic	3021	42.0	3021
-Iconic	3022	11.0	3022
-Iconic	3023	34.0	3023
-Iconic	3024	60.0	3024
-Iconic	3025	18.0	3025
-Iconic	3026	42.0	3026
-Iconic	3027	76.0	3027
-Iconic	3028	9.0	3028
-Iconic	3029	35.0	3029
-Iconic	3030	78.0	3030
-Iconic	3031	14.0	3031
-Iconic	3032	52.0	3032
-Iconic	3033	8.0	3033
-Iconic	3034	25.0	3034
-Iconic	3035	58.0	3035
-Iconic	3036	58.0	3036
-Iconic	3037	13.0	3037
-Iconic	3038	28.0	3038
-Iconic	3039	32.0	3039
-Iconic	3040	38.0	3040
-Iconic	3041	18.0	3041
-Iconic	3042	10.0	3042
-Iconic	3043	30.0	3043
-Iconic	3044	46.0	3044
-Iconic	3045	50.0	3045
-Iconic	3046	64.0	3046
-Iconic	3047	65.0	3047
-Iconic	3048	47.0	3048
-Iconic	3049	28.0	3049
-Iconic	3050	39.0	3050
-Iconic	3051	45.0	3051
-Iconic	3052	50.0	3052
-Iconic	3053	59.0	3053
-Iconic	3054	18.0	3054
-Iconic	3055	51.0	3055
-Iconic	3056	26.0	3056
-Iconic	3057	11.0	3057
-Iconic	3058	67.0	3058
-Iconic	3059	25.0	3059
-Iconic	3060	13.0	3060
-Iconic	3061	35.0	3061
-Iconic	3062	37.0	3062
-Iconic	3063	58.0	3063
-Iconic	3064	62.0	3064
-Iconic	3065	11.0	3065
-Iconic	3066	47.0	3066
-Iconic	3067	47.0	3067
-Iconic	3068	78.0	3068
-Iconic	3069	28.0	3069
-Iconic	3070	48.0	3070
-Iconic	3071	10.0	3071
-Iconic	3072	15.0	3072
-Iconic	3073	12.0	3073
-Iconic	3074	15.0	3074
-Iconic	3075	12.0	3075
-Iconic	3076	38.0	3076
-Iconic	3077	33.0	3077
-Iconic	3078	39.0	3078
-Iconic	3079	31.0	3079
-Iconic	3080	13.0	3080
-Iconic	3081	48.0	3081
-Iconic	3082	65.0	3082
-Iconic	3083	8.0	3083
-Iconic	3084	14.0	3084
-Iconic	3085	50.0	3085
-Iconic	3086	50.0	3086
-Iconic	3087	41.0	3087
-Iconic	3088	15.0	3088
-Iconic	3089	32.0	3089
-Iconic	3090	12.0	3090
-Iconic	3091	16.0	3091
-Iconic	3092	29.0	3092
-Iconic	3093	62.0	3093
-Iconic	3094	74.0	3094
-Iconic	3095	26.0	3095
-Iconic	3096	25.0	3096
-Iconic	3097	39.0	3097
-Iconic	3098	25.0	3098
-Iconic	3099	77.0	3099
-Iconic	3100	22.0	3100
-Iconic	3101	77.0	3101
-Iconic	3102	32.0	3102
-Iconic	3103	17.0	3103
-Iconic	3104	20.0	3104
-Iconic	3105	54.0	3105
-Iconic	3106	47.0	3106
-Iconic	3107	25.0	3107
-Iconic	3108	36.0	3108
-Iconic	3109	14.0	3109
-Iconic	3110	69.0	3110
-Iconic	3111	46.0	3111
-Iconic	3112	46.0	3112
-Iconic	3113	24.0	3113
-Iconic	3114	32.0	3114
-Iconic	3115	60.0	3115
-Iconic	3116	57.0	3116
-Iconic	3117	43.0	3117
-Iconic	3118	29.0	3118
-Iconic	3119	52.0	3119
-Iconic	3120	47.0	3120
-Iconic	3121	44.0	3121
-Iconic	3122	72.0	3122
-Iconic	3123	16.0	3123
-Iconic	3124	26.0	3124
-Iconic	3125	55.0	3125
-Iconic	3126	76.0	3126
-Iconic	3127	69.0	3127
-Iconic	3128	60.0	3128
-Iconic	3129	34.0	3129
-Iconic	3130	68.0	3130
-Iconic	3131	25.0	3131
-Iconic	3132	47.0	3132
-Iconic	3133	22.0	3133
-Iconic	3134	71.0	3134
-Iconic	3135	62.0	3135
-Iconic	3136	61.0	3136
-Iconic	3137	49.0	3137
-Iconic	3138	79.0	3138
-Iconic	3139	45.0	3139
-Iconic	3140	23.0	3140
-Iconic	3141	80.0	3141
-Iconic	3142	31.0	3142
-Iconic	3143	19.0	3143
-Iconic	3144	61.0	3144
-Iconic	3145	7.0	3145
-Iconic	3146	54.0	3146
-Iconic	3147	22.0	3147
-Iconic	3148	7.0	3148
-Iconic	3149	18.0	3149
-Iconic	3150	74.0	3150
-Iconic	3151	23.0	3151
-Iconic	3152	46.0	3152
-Iconic	3153	67.0	3153
-Iconic	3154	65.0	3154
-Iconic	3155	56.0	3155
-Iconic	3156	61.0	3156
-Iconic	3157	15.0	3157
-Iconic	3158	54.0	3158
-Iconic	3159	15.0	3159
-Iconic	3160	48.0	3160
-Iconic	3161	21.0	3161
-Iconic	3162	17.0	3162
-Iconic	3163	21.0	3163
-Iconic	3164	19.0	3164
-Iconic	3165	49.0	3165
-Iconic	3166	53.0	3166
-Iconic	3167	28.0	3167
-Iconic	3168	27.0	3168
-Iconic	3169	54.0	3169
-Iconic	3170	18.0	3170
-Iconic	3171	32.0	3171
-Iconic	3172	32.0	3172
-Iconic	3173	36.0	3173
-Iconic	3174	17.0	3174
-Iconic	3175	60.0	3175
-Iconic	3176	37.0	3176
-Iconic	3177	59.0	3177
-Iconic	3178	68.0	3178
-Iconic	3179	52.0	3179
-Iconic	3180	32.0	3180
-Iconic	3181	47.0	3181
-Iconic	3182	17.0	3182
-Iconic	3183	43.0	3183
-Iconic	3184	22.0	3184
-Iconic	3185	16.0	3185
-Iconic	3186	10.0	3186
-Iconic	3187	17.0	3187
-Iconic	3188	11.0	3188
-Iconic	3189	28.0	3189
-Iconic	3190	16.0	3190
-Iconic	3191	58.0	3191
-Iconic	3192	61.0	3192
-Iconic	3193	12.0	3193
-Iconic	3194	51.0	3194
-Iconic	3195	31.0	3195
-Iconic	3196	79.0	3196
-Iconic	3197	26.0	3197
-Iconic	3198	63.0	3198
-Iconic	3199	61.0	3199
-Iconic	3200	16.0	3200
-Iconic	3201	13.0	3201
-Iconic	3202	18.0	3202
-Iconic	3203	29.0	3203
-Iconic	3204	37.0	3204
-Iconic	3205	19.0	3205
-Iconic	3206	42.0	3206
-Iconic	3207	15.0	3207
-Iconic	3208	27.0	3208
-Iconic	3209	24.0	3209
-Iconic	3210	45.0	3210
-Iconic	3211	67.0	3211
-Iconic	3212	45.0	3212
-Iconic	3213	10.0	3213
-Iconic	3214	31.0	3214
-Iconic	3215	46.0	3215
-Iconic	3216	8.0	3216
-Iconic	3217	64.0	3217
-Iconic	3218	15.0	3218
-Iconic	3219	43.0	3219
-Iconic	3220	17.0	3220
-Iconic	3221	16.0	3221
-Iconic	3222	14.0	3222
-Iconic	3223	34.0	3223
-Iconic	3224	75.0	3224
-Iconic	3225	16.0	3225
-Iconic	3226	41.0	3226
-Iconic	3227	7.0	3227
-Iconic	3228	61.0	3228
-Iconic	3229	26.0	3229
-Iconic	3230	61.0	3230
-Iconic	3231	65.0	3231
-Iconic	3232	62.0	3232
-Iconic	3233	18.0	3233
-Iconic	3234	12.0	3234
-Iconic	3235	23.0	3235
-Iconic	3236	16.0	3236
-Iconic	3237	46.0	3237
-Iconic	3238	17.0	3238
-Iconic	3239	19.0	3239
-Iconic	3240	31.0	3240
-Iconic	3241	74.0	3241
-Iconic	3242	52.0	3242
-Iconic	3243	16.0	3243
-Iconic	3244	49.0	3244
-Iconic	3245	61.0	3245
-Iconic	3246	60.0	3246
-Iconic	3247	12.0	3247
-Iconic	3248	24.0	3248
-Iconic	3249	65.0	3249
-Iconic	3250	30.0	3250
-Iconic	3251	21.0	3251
-Iconic	3252	17.0	3252
-Iconic	3253	12.0	3253
-Iconic	3254	23.0	3254
-Iconic	3255	60.0	3255
-Iconic	3256	64.0	3256
-Iconic	3257	46.0	3257
-Iconic	3258	36.0	3258
-Iconic	3259	29.0	3259
-Iconic	3260	34.0	3260
-Iconic	3261	7.0	3261
-Iconic	3262	21.0	3262
-Iconic	3263	21.0	3263
-Iconic	3264	55.0	3264
-Iconic	3265	39.0	3265
-Iconic	3266	44.0	3266
-Iconic	3267	11.0	3267
-Iconic	3268	53.0	3268
-Iconic	3269	22.0	3269
-Iconic	3270	23.0	3270
-Iconic	3271	58.0	3271
-Iconic	3272	38.0	3272
-Iconic	3273	15.0	3273
-Iconic	3274	15.0	3274
-Iconic	3275	16.0	3275
-Iconic	3276	24.0	3276
-Iconic	3277	29.0	3277
-Iconic	3278	53.0	3278
-Iconic	3279	42.0	3279
-Iconic	3280	24.0	3280
-Iconic	3281	12.0	3281
-Iconic	3282	15.0	3282
-Iconic	3283	11.0	3283
-Iconic	3284	10.0	3284
-Iconic	3285	15.0	3285
-Iconic	3286	60.0	3286
-Iconic	3287	49.0	3287
-Iconic	3288	67.0	3288
-Iconic	3289	12.0	3289
-Iconic	3290	13.0	3290
-Iconic	3291	18.0	3291
-Iconic	3292	27.0	3292
-Iconic	3293	38.0	3293
-Iconic	3294	66.0	3294
-Iconic	3295	71.0	3295
-Iconic	3296	23.0	3296
-Iconic	3297	55.0	3297
-Iconic	3298	70.0	3298
-Iconic	3299	26.0	3299
-Iconic	3300	15.0	3300
-Iconic	3301	49.0	3301
-Iconic	3302	47.0	3302
-Iconic	3303	18.0	3303
-Iconic	3304	38.0	3304
-Iconic	3305	48.0	3305
-Iconic	3306	23.0	3306
-Iconic	3307	50.0	3307
-Iconic	3308	21.0	3308
-Iconic	3309	24.0	3309
-Iconic	3310	14.0	3310
-Iconic	3311	10.0	3311
-Iconic	3312	52.0	3312
-Iconic	3313	44.0	3313
-Iconic	3314	74.0	3314
-Iconic	3315	12.0	3315
-Iconic	3316	26.0	3316
-Iconic	3317	73.0	3317
-Iconic	3318	9.0	3318
-Iconic	3319	52.0	3319
-Iconic	3320	11.0	3320
-Iconic	3321	26.0	3321
-Iconic	3322	38.0	3322
-Iconic	3323	55.0	3323
-Iconic	3324	72.0	3324
-Iconic	3325	7.0	3325
-Iconic	3326	13.0	3326
-Iconic	3327	77.0	3327
-Iconic	3328	47.0	3328
-Iconic	3329	45.0	3329
-Iconic	3330	18.0	3330
-Iconic	3331	12.0	3331
-Iconic	3332	12.0	3332
-Iconic	3333	24.0	3333
-Iconic	3334	25.0	3334
-Iconic	3335	9.0	3335
-Iconic	3336	49.0	3336
-Iconic	3337	15.0	3337
-Iconic	3338	21.0	3338
-Iconic	3339	73.0	3339
-Iconic	3340	29.0	3340
-Iconic	3341	80.0	3341
-Iconic	3342	18.0	3342
-Iconic	3343	22.0	3343
-Iconic	3344	79.0	3344
-Iconic	3345	66.0	3345
-Iconic	3346	21.0	3346
-Iconic	3347	62.0	3347
-Iconic	3348	33.0	3348
-Iconic	3349	45.0	3349
-Iconic	3350	13.0	3350
-Iconic	3351	65.0	3351
-Iconic	3352	25.0	3352
-Iconic	3353	24.0	3353
-Iconic	3354	60.0	3354
-Iconic	3355	24.0	3355
-Iconic	3356	22.0	3356
-Iconic	3357	44.0	3357
-Iconic	3358	59.0	3358
-Iconic	3359	53.0	3359
-Iconic	3360	12.0	3360
-Iconic	3361	15.0	3361
-Iconic	3362	18.0	3362
-Iconic	3363	35.0	3363
-Iconic	3364	43.0	3364
-Iconic	3365	18.0	3365
-Iconic	3366	80.0	3366
-Iconic	3367	64.0	3367
-Iconic	3368	13.0	3368
-Iconic	3369	27.0	3369
-Iconic	3370	18.0	3370
-Iconic	3371	58.0	3371
-Iconic	3372	44.0	3372
-Iconic	3373	38.0	3373
-Iconic	3374	47.0	3374
-Iconic	3375	33.0	3375
-Iconic	3376	42.0	3376
-Iconic	3377	75.0	3377
-Iconic	3378	18.0	3378
-Iconic	3379	65.0	3379
-Iconic	3380	25.0	3380
-Iconic	3381	10.0	3381
-Iconic	3382	22.0	3382
-Iconic	3383	77.0	3383
-Iconic	3384	34.0	3384
-Iconic	3385	67.0	3385
-Iconic	3386	44.0	3386
-Iconic	3387	9.0	3387
-Iconic	3388	14.0	3388
-Iconic	3389	18.0	3389
-Iconic	3390	13.0	3390
-Iconic	3391	46.0	3391
-Iconic	3392	14.0	3392
-Iconic	3393	31.0	3393
-Iconic	3394	37.0	3394
-Iconic	3395	43.0	3395
-Iconic	3396	32.0	3396
-Iconic	3397	62.0	3397
-Iconic	3398	19.0	3398
-Iconic	3399	19.0	3399
-Iconic	3400	50.0	3400
-Iconic	3401	38.0	3401
-Iconic	3402	43.0	3402
-Iconic	3403	40.0	3403
-Iconic	3404	30.0	3404
-Iconic	3405	55.0	3405
-Iconic	3406	32.0	3406
-Iconic	3407	9.0	3407
-Iconic	3408	33.0	3408
-Iconic	3409	22.0	3409
-Iconic	3410	13.0	3410
-Iconic	3411	41.0	3411
-Iconic	3412	21.0	3412
-Iconic	3413	36.0	3413
-Iconic	3414	70.0	3414
-Iconic	3415	32.0	3415
-Iconic	3416	49.0	3416
-Iconic	3417	28.0	3417
-Iconic	3418	51.0	3418
-Iconic	3419	56.0	3419
-Iconic	3420	42.0	3420
-Iconic	3421	22.0	3421
-Iconic	3422	21.0	3422
-Iconic	3423	17.0	3423
-Iconic	3424	23.0	3424
-Iconic	3425	22.0	3425
-Iconic	3426	39.0	3426
-Iconic	3427	59.0	3427
-Iconic	3428	16.0	3428
-Iconic	3429	17.0	3429
-Iconic	3430	13.0	3430
-Iconic	3431	34.0	3431
-Iconic	3432	57.0	3432
-Iconic	3433	11.0	3433
-Iconic	3434	17.0	3434
-Iconic	3435	20.0	3435
-Iconic	3436	58.0	3436
-Iconic	3437	14.0	3437
-Iconic	3438	40.0	3438
-Iconic	3439	23.0	3439
-Iconic	3440	33.0	3440
-Iconic	3441	29.0	3441
-Iconic	3442	74.0	3442
-Iconic	3443	32.0	3443
-Iconic	3444	21.0	3444
-Iconic	3445	21.0	3445
-Iconic	3446	38.0	3446
-Iconic	3447	19.0	3447
-Iconic	3448	54.0	3448
-Iconic	3449	54.0	3449
-Iconic	3450	16.0	3450
-Iconic	3451	56.0	3451
-Iconic	3452	26.0	3452
-Iconic	3453	11.0	3453
-Iconic	3454	63.0	3454
-Iconic	3455	52.0	3455
-Iconic	3456	13.0	3456
-Iconic	3457	79.0	3457
-Iconic	3458	31.0	3458
-Iconic	3459	54.0	3459
-Iconic	3460	24.0	3460
-Iconic	3461	20.0	3461
-Iconic	3462	26.0	3462
-Iconic	3463	60.0	3463
-Iconic	3464	57.0	3464
-Iconic	3465	14.0	3465
-Iconic	3466	16.0	3466
-Iconic	3467	12.0	3467
-Iconic	3468	36.0	3468
-Iconic	3469	11.0	3469
-Iconic	3470	62.0	3470
-Iconic	3471	26.0	3471
-Iconic	3472	13.0	3472
-Iconic	3473	8.0	3473
-Iconic	3474	20.0	3474
-Iconic	3475	35.0	3475
-Iconic	3476	31.0	3476
-Iconic	3477	18.0	3477
-Iconic	3478	30.0	3478
-Iconic	3479	20.0	3479
-Iconic	3480	21.0	3480
-Iconic	3481	23.0	3481
-Iconic	3482	48.0	3482
-Iconic	3483	75.0	3483
-Iconic	3484	11.0	3484
-Iconic	3485	39.0	3485
-Iconic	3486	35.0	3486
-Iconic	3487	25.0	3487
-Iconic	3488	21.0	3488
-Iconic	3489	14.0	3489
-Iconic	3490	14.0	3490
-Iconic	3491	9.0	3491
-Iconic	3492	78.0	3492
-Iconic	3493	26.0	3493
-Iconic	3494	48.0	3494
-Iconic	3495	47.0	3495
-Iconic	3496	41.0	3496
-Iconic	3497	30.0	3497
-Iconic	3498	18.0	3498
-Iconic	3499	31.0	3499
-Iconic	3500	19.0	3500
-Iconic	3501	23.0	3501
-Iconic	3502	12.0	3502
-Iconic	3503	19.0	3503
-Iconic	3504	11.0	3504
-Iconic	3505	60.0	3505
-Iconic	3506	66.0	3506
-Iconic	3507	31.0	3507
-Iconic	3508	21.0	3508
-Iconic	3509	44.0	3509
-Iconic	3510	18.0	3510
-Iconic	3511	14.0	3511
-Iconic	3512	11.0	3512
-Iconic	3513	65.0	3513
-Iconic	3514	32.0	3514
-Iconic	3515	44.0	3515
-Iconic	3516	24.0	3516
-Iconic	3517	28.0	3517
-Iconic	3518	10.0	3518
-Iconic	3519	8.0	3519
-Iconic	3520	22.0	3520
-Iconic	3521	70.0	3521
-Iconic	3522	67.0	3522
-Iconic	3523	42.0	3523
-Iconic	3524	34.0	3524
-Iconic	3525	37.0	3525
-Iconic	3526	15.0	3526
-Iconic	3527	14.0	3527
-Iconic	3528	20.0	3528
-Iconic	3529	31.0	3529
-Iconic	3530	51.0	3530
-Iconic	3531	10.0	3531
-Iconic	3532	41.0	3532
-Iconic	3533	12.0	3533
-Iconic	3534	56.0	3534
-Iconic	3535	11.0	3535
-Iconic	3536	17.0	3536
-Iconic	3537	16.0	3537
-Iconic	3538	43.0	3538
-Iconic	3539	18.0	3539
-Iconic	3540	45.0	3540
-Iconic	3541	16.0	3541
-Iconic	3542	43.0	3542
-Iconic	3543	15.0	3543
-Iconic	3544	29.0	3544
-Iconic	3545	21.0	3545
-Iconic	3546	37.0	3546
-Iconic	3547	75.0	3547
-Iconic	3548	53.0	3548
-Iconic	3549	11.0	3549
-Iconic	3550	14.0	3550
-Iconic	3551	33.0	3551
-Iconic	3552	78.0	3552
-Iconic	3553	52.0	3553
-Iconic	3554	22.0	3554
-Iconic	3555	13.0	3555
-Iconic	3556	26.0	3556
-Iconic	3557	61.0	3557
-Iconic	3558	34.0	3558
-Iconic	3559	61.0	3559
-Iconic	3560	26.0	3560
-Iconic	3561	62.0	3561
-Iconic	3562	54.0	3562
-Iconic	3563	48.0	3563
-Iconic	3564	14.0	3564
-Iconic	3565	50.0	3565
-Iconic	3566	32.0	3566
-Iconic	3567	37.0	3567
-Iconic	3568	73.0	3568
-Iconic	3569	66.0	3569
-Iconic	3570	16.0	3570
-Iconic	3571	18.0	3571
-Iconic	3572	21.0	3572
-Iconic	3573	40.0	3573
-Iconic	3574	15.0	3574
-Iconic	3575	70.0	3575
-Iconic	3576	10.0	3576
-Iconic	3577	14.0	3577
-Iconic	3578	37.0	3578
-Iconic	3579	8.0	3579
-Iconic	3580	14.0	3580
-Iconic	3581	45.0	3581
-Iconic	3582	50.0	3582
-Iconic	3583	50.0	3583
-Iconic	3584	10.0	3584
-Iconic	3585	76.0	3585
-Iconic	3586	11.0	3586
-Iconic	3587	10.0	3587
-Iconic	3588	53.0	3588
-Iconic	3589	17.0	3589
-Iconic	3590	11.0	3590
-Iconic	3591	20.0	3591
-Iconic	3592	39.0	3592
-Iconic	3593	23.0	3593
-Iconic	3594	71.0	3594
-Iconic	3595	73.0	3595
-Iconic	3596	52.0	3596
-Iconic	3597	26.0	3597
-Iconic	3598	14.0	3598
-Iconic	3599	57.0	3599
-Iconic	3600	54.0	3600
-Iconic	3601	22.0	3601
-Iconic	3602	26.0	3602
-Iconic	3603	66.0	3603
-Iconic	3604	24.0	3604
-Iconic	3605	9.0	3605
-Iconic	3606	14.0	3606
-Iconic	3607	64.0	3607
-Iconic	3608	25.0	3608
-Iconic	3609	23.0	3609
-Iconic	3610	33.0	3610
-Iconic	3611	10.0	3611
-Iconic	3612	60.0	3612
-Iconic	3613	41.0	3613
-Iconic	3614	60.0	3614
-Iconic	3615	24.0	3615
-Iconic	3616	19.0	3616
-Iconic	3617	59.0	3617
-Iconic	3618	44.0	3618
-Iconic	3619	22.0	3619
-Iconic	3620	36.0	3620
-Iconic	3621	40.0	3621
-Iconic	3622	29.0	3622
-Iconic	3623	21.0	3623
-Iconic	3624	14.0	3624
-Iconic	3625	12.0	3625
-Iconic	3626	26.0	3626
-Iconic	3627	16.0	3627
-Iconic	3628	18.0	3628
-Iconic	3629	77.0	3629
-Iconic	3630	20.0	3630
-Iconic	3631	63.0	3631
-Iconic	3632	10.0	3632
-Iconic	3633	52.0	3633
-Iconic	3634	69.0	3634
-Iconic	3635	29.0	3635
-Iconic	3636	41.0	3636
-Iconic	3637	18.0	3637
-Iconic	3638	19.0	3638
-Iconic	3639	15.0	3639
-Iconic	3640	43.0	3640
-Iconic	3641	27.0	3641
-Iconic	3642	30.0	3642
-Iconic	3643	30.0	3643
-Iconic	3644	20.0	3644
-Iconic	3645	34.0	3645
-Iconic	3646	44.0	3646
-Iconic	3647	58.0	3647
-Iconic	3648	77.0	3648
-Iconic	3649	21.0	3649
-Iconic	3650	18.0	3650
-Iconic	3651	25.0	3651
-Iconic	3652	21.0	3652
-Iconic	3653	18.0	3653
-Iconic	3654	38.0	3654
-Iconic	3655	23.0	3655
-Iconic	3656	18.0	3656
-Iconic	3657	68.0	3657
-Iconic	3658	44.0	3658
-Iconic	3659	34.0	3659
-Iconic	3660	23.0	3660
-Iconic	3661	50.0	3661
-Iconic	3662	15.0	3662
-Iconic	3663	74.0	3663
-Iconic	3664	10.0	3664
-Iconic	3665	19.0	3665
-Iconic	3666	23.0	3666
-Iconic	3667	51.0	3667
-Iconic	3668	47.0	3668
-Iconic	3669	15.0	3669
-Iconic	3670	35.0	3670
-Iconic	3671	54.0	3671
-Iconic	3672	15.0	3672
-Iconic	3673	6.0	3673
-Iconic	3674	14.0	3674
-Iconic	3675	71.0	3675
-Iconic	3676	10.0	3676
-Iconic	3677	31.0	3677
-Iconic	3678	64.0	3678
-Iconic	3679	27.0	3679
-Iconic	3680	54.0	3680
-Iconic	3681	11.0	3681
-Iconic	3682	15.0	3682
-Iconic	3683	80.0	3683
-Iconic	3684	15.0	3684
-Iconic	3685	19.0	3685
-Iconic	3686	13.0	3686
-Iconic	3687	17.0	3687
-Iconic	3688	69.0	3688
-Iconic	3689	8.0	3689
-Iconic	3690	70.0	3690
-Iconic	3691	49.0	3691
-Iconic	3692	8.0	3692
-Iconic	3693	36.0	3693
-Iconic	3694	7.0	3694
-Iconic	3695	25.0	3695
-Iconic	3696	18.0	3696
-Iconic	3697	44.0	3697
-Iconic	3698	31.0	3698
-Iconic	3699	20.0	3699
-Iconic	3700	21.0	3700
-Iconic	3701	21.0	3701
-Iconic	3702	62.0	3702
-Iconic	3703	55.0	3703
-Iconic	3704	61.0	3704
-Iconic	3705	47.0	3705
-Iconic	3706	54.0	3706
-Iconic	3707	12.0	3707
-Iconic	3708	33.0	3708
-Iconic	3709	53.0	3709
-Iconic	3710	20.0	3710
-Iconic	3711	10.0	3711
-Iconic	3712	37.0	3712
-Iconic	3713	24.0	3713
-Iconic	3714	15.0	3714
-Iconic	3715	44.0	3715
-Iconic	3716	16.0	3716
-Iconic	3717	51.0	3717
-Iconic	3718	21.0	3718
-Iconic	3719	25.0	3719
-Iconic	3720	56.0	3720
-Iconic	3721	23.0	3721
-Iconic	3722	38.0	3722
-Iconic	3723	29.0	3723
-Iconic	3724	10.0	3724
-Iconic	3725	49.0	3725
-Iconic	3726	36.0	3726
-Iconic	3727	68.0	3727
-Iconic	3728	27.0	3728
-Iconic	3729	61.0	3729
-Iconic	3730	24.0	3730
-Iconic	3731	32.0	3731
-Iconic	3732	34.0	3732
-Iconic	3733	69.0	3733
-Iconic	3734	60.0	3734
-Iconic	3735	47.0	3735
-Iconic	3736	67.0	3736
-Iconic	3737	41.0	3737
-Iconic	3738	54.0	3738
-Iconic	3739	22.0	3739
-Iconic	3740	22.0	3740
-Iconic	3741	40.0	3741
-Iconic	3742	12.0	3742
-Iconic	3743	7.0	3743
-Iconic	3744	43.0	3744
-Iconic	3745	20.0	3745
-Iconic	3746	15.0	3746
-Iconic	3747	38.0	3747
-Iconic	3748	48.0	3748
-Iconic	3749	16.0	3749
-Iconic	3750	18.0	3750
-Iconic	3751	12.0	3751
-Iconic	3752	65.0	3752
-Iconic	3753	15.0	3753
-Iconic	3754	12.0	3754
-Iconic	3755	74.0	3755
-Iconic	3756	17.0	3756
-Iconic	3757	18.0	3757
-Iconic	3758	44.0	3758
-Iconic	3759	51.0	3759
-Iconic	3760	59.0	3760
-Iconic	3761	29.0	3761
-Iconic	3762	25.0	3762
-Iconic	3763	14.0	3763
-Iconic	3764	30.0	3764
-Iconic	3765	23.0	3765
-Iconic	3766	17.0	3766
-Iconic	3767	17.0	3767
-Iconic	3768	12.0	3768
-Iconic	3769	14.0	3769
-Iconic	3770	23.0	3770
-Iconic	3771	38.0	3771
-Iconic	3772	12.0	3772
-Iconic	3773	29.0	3773
-Iconic	3774	41.0	3774
-Iconic	3775	20.0	3775
-Iconic	3776	54.0	3776
-Iconic	3777	20.0	3777
-Iconic	3778	30.0	3778
-Iconic	3779	13.0	3779
-Iconic	3780	53.0	3780
-Iconic	3781	77.0	3781
-Iconic	3782	64.0	3782
-Iconic	3783	27.0	3783
-Iconic	3784	12.0	3784
-Iconic	3785	26.0	3785
-Iconic	3786	16.0	3786
-Iconic	3787	51.0	3787
-Iconic	3788	22.0	3788
-Iconic	3789	14.0	3789
-Iconic	3790	35.0	3790
-Iconic	3791	63.0	3791
-Iconic	3792	14.0	3792
-Iconic	3793	52.0	3793
-Iconic	3794	13.0	3794
-Iconic	3795	49.0	3795
-Iconic	3796	46.0	3796
-Iconic	3797	33.0	3797
-Iconic	3798	42.0	3798
-Iconic	3799	20.0	3799
-Iconic	3800	16.0	3800
-Iconic	3801	69.0	3801
-Iconic	3802	25.0	3802
-Iconic	3803	34.0	3803
-Iconic	3804	60.0	3804
-Iconic	3805	11.0	3805
-Iconic	3806	39.0	3806
-Iconic	3807	38.0	3807
-Iconic	3808	70.0	3808
-Iconic	3809	43.0	3809
-Iconic	3810	23.0	3810
-Iconic	3811	12.0	3811
-Iconic	3812	14.0	3812
-Iconic	3813	9.0	3813
-Iconic	3814	34.0	3814
-Iconic	3815	12.0	3815
-Iconic	3816	26.0	3816
-Iconic	3817	66.0	3817
-Iconic	3818	74.0	3818
-Iconic	3819	69.0	3819
-Iconic	3820	20.0	3820
-Iconic	3821	19.0	3821
-Iconic	3822	72.0	3822
-Iconic	3823	22.0	3823
-Iconic	3824	16.0	3824
-Iconic	3825	20.0	3825
-Iconic	3826	29.0	3826
-Iconic	3827	16.0	3827
-Iconic	3828	22.0	3828
-Iconic	3829	62.0	3829
-Iconic	3830	51.0	3830
-Iconic	3831	57.0	3831
-Iconic	3832	17.0	3832
-Iconic	3833	17.0	3833
-Iconic	3834	66.0	3834
-Iconic	3835	61.0	3835
-Iconic	3836	15.0	3836
-Iconic	3837	24.0	3837
-Iconic	3838	18.0	3838
-Iconic	3839	35.0	3839
-Iconic	3840	24.0	3840
-Iconic	3841	16.0	3841
-Iconic	3842	22.0	3842
-Iconic	3843	27.0	3843
-Iconic	3844	56.0	3844
-Iconic	3845	60.0	3845
-Iconic	3846	24.0	3846
-Iconic	3847	70.0	3847
-Iconic	3848	31.0	3848
-Iconic	3849	63.0	3849
-Iconic	3850	10.0	3850
-Iconic	3851	58.0	3851
-Iconic	3852	15.0	3852
-Iconic	3853	49.0	3853
-Iconic	3854	63.0	3854
-Iconic	3855	15.0	3855
-Iconic	3856	17.0	3856
-Iconic	3857	32.0	3857
-Iconic	3858	62.0	3858
-Iconic	3859	24.0	3859
-Iconic	3860	28.0	3860
-Iconic	3861	21.0	3861
-Iconic	3862	16.0	3862
-Iconic	3863	53.0	3863
-Iconic	3864	46.0	3864
-Iconic	3865	12.0	3865
-Iconic	3866	74.0	3866
-Iconic	3867	8.0	3867
-Iconic	3868	12.0	3868
-Iconic	3869	60.0	3869
-Iconic	3870	13.0	3870
-Iconic	3871	76.0	3871
-Iconic	3872	16.0	3872
-Iconic	3873	19.0	3873
-Iconic	3874	18.0	3874
-Iconic	3875	27.0	3875
-Iconic	3876	28.0	3876
-Iconic	3877	39.0	3877
-Iconic	3878	13.0	3878
-Iconic	3879	40.0	3879
-Iconic	3880	57.0	3880
-Iconic	3881	11.0	3881
-Iconic	3882	15.0	3882
-Iconic	3883	23.0	3883
-Iconic	3884	30.0	3884
-Iconic	3885	42.0	3885
-Iconic	3886	37.0	3886
-Iconic	3887	46.0	3887
-Iconic	3888	65.0	3888
-Iconic	3889	11.0	3889
-Iconic	3890	75.0	3890
-Iconic	3891	80.0	3891
-Iconic	3892	18.0	3892
-Iconic	3893	24.0	3893
-Iconic	3894	43.0	3894
-Iconic	3895	16.0	3895
-Iconic	3896	32.0	3896
-Iconic	3897	22.0	3897
-Iconic	3898	7.0	3898
-Iconic	3899	57.0	3899
-Iconic	3900	14.0	3900
-Iconic	3901	55.0	3901
-Iconic	3902	12.0	3902
-Iconic	3903	17.0	3903
-Iconic	3904	59.0	3904
-Iconic	3905	25.0	3905
-Iconic	3906	70.0	3906
-Iconic	3907	23.0	3907
-Iconic	3908	39.0	3908
-Iconic	3909	29.0	3909
-Iconic	3910	14.0	3910
-Iconic	3911	13.0	3911
-Iconic	3912	64.0	3912
-Iconic	3913	20.0	3913
-Iconic	3914	29.0	3914
-Iconic	3915	27.0	3915
-Iconic	3916	60.0	3916
-Iconic	3917	20.0	3917
-Iconic	3918	39.0	3918
-Iconic	3919	53.0	3919
-Iconic	3920	63.0	3920
-Iconic	3921	43.0	3921
-Iconic	3922	44.0	3922
-Iconic	3923	24.0	3923
-Iconic	3924	15.0	3924
-Iconic	3925	43.0	3925
-Iconic	3926	9.0	3926
-Iconic	3927	63.0	3927
-Iconic	3928	16.0	3928
-Iconic	3929	22.0	3929
-Iconic	3930	12.0	3930
-Iconic	3931	12.0	3931
-Iconic	3932	46.0	3932
-Iconic	3933	11.0	3933
-Iconic	3934	30.0	3934
-Iconic	3935	29.0	3935
-Iconic	3936	21.0	3936
-Iconic	3937	18.0	3937
-Iconic	3938	17.0	3938
-Iconic	3939	33.0	3939
-Iconic	3940	42.0	3940
-Iconic	3941	22.0	3941
-Iconic	3942	23.0	3942
-Iconic	3943	14.0	3943
-Iconic	3944	80.0	3944
-Iconic	3945	29.0	3945
-Iconic	3946	25.0	3946
-Iconic	3947	63.0	3947
-Iconic	3948	10.0	3948
-Iconic	3949	42.0	3949
-Iconic	3950	55.0	3950
-Iconic	3951	10.0	3951
-Iconic	3952	15.0	3952
-Iconic	3953	15.0	3953
-Iconic	3954	28.0	3954
-Iconic	3955	17.0	3955
-Iconic	3956	15.0	3956
-Iconic	3957	11.0	3957
-Iconic	3958	59.0	3958
-Iconic	3959	12.0	3959
-Iconic	3960	28.0	3960
-Iconic	3961	19.0	3961
-Iconic	3962	67.0	3962
-Iconic	3963	10.0	3963
-Iconic	3964	11.0	3964
-Iconic	3965	22.0	3965
-Iconic	3966	21.0	3966
-Iconic	3967	42.0	3967
-Iconic	3968	10.0	3968
-Iconic	3969	45.0	3969
-Iconic	3970	36.0	3970
-Iconic	3971	41.0	3971
-Iconic	3972	20.0	3972
-Iconic	3973	65.0	3973
-Iconic	3974	34.0	3974
-Iconic	3975	10.0	3975
-Iconic	3976	34.0	3976
-Iconic	3977	28.0	3977
-Iconic	3978	32.0	3978
-Iconic	3979	19.0	3979
-Iconic	3980	62.0	3980
-Iconic	3981	18.0	3981
-Iconic	3982	22.0	3982
-Iconic	3983	57.0	3983
-Iconic	3984	12.0	3984
-Iconic	3985	68.0	3985
-Iconic	3986	15.0	3986
-Iconic	3987	14.0	3987
-Iconic	3988	47.0	3988
-Iconic	3989	33.0	3989
-Iconic	3990	43.0	3990
-Iconic	3991	38.0	3991
-Iconic	3992	46.0	3992
-Iconic	3993	15.0	3993
-Iconic	3994	54.0	3994
-Iconic	3995	26.0	3995
-Iconic	3996	71.0	3996
-Iconic	3997	64.0	3997
-Iconic	3998	16.0	3998
-Iconic	3999	75.0	3999
-Iconic	4000	44.0	4000
-Iconic	4001	13.0	4001
-Iconic	4002	16.0	4002
-Iconic	4003	38.0	4003
-Iconic	4004	47.0	4004
-Iconic	4005	18.0	4005
-Iconic	4006	74.0	4006
-Iconic	4007	54.0	4007
-Iconic	4008	17.0	4008
-Iconic	4009	23.0	4009
-Iconic	4010	8.0	4010
-Iconic	4011	15.0	4011
-Iconic	4012	22.0	4012
-Iconic	4013	22.0	4013
-Iconic	4014	14.0	4014
-Iconic	4015	59.0	4015
-Iconic	4016	64.0	4016
-Iconic	4017	23.0	4017
-Iconic	4018	30.0	4018
-Iconic	4019	28.0	4019
-Iconic	4020	13.0	4020
-Iconic	4021	16.0	4021
-Iconic	4022	8.0	4022
-Iconic	4023	42.0	4023
-Iconic	4024	69.0	4024
-Iconic	4025	41.0	4025
-Iconic	4026	8.0	4026
-Iconic	4027	59.0	4027
-Iconic	4028	67.0	4028
-Iconic	4029	16.0	4029
-Iconic	4030	26.0	4030
-Iconic	4031	12.0	4031
-Iconic	4032	44.0	4032
-Iconic	4033	65.0	4033
-Iconic	4034	12.0	4034
-Iconic	4035	73.0	4035
-Iconic	4036	13.0	4036
-Iconic	4037	10.0	4037
-Iconic	4038	37.0	4038
-Iconic	4039	26.0	4039
-Iconic	4040	8.0	4040
-Iconic	4041	26.0	4041
-Iconic	4042	29.0	4042
-Iconic	4043	69.0	4043
-Iconic	4044	32.0	4044
-Iconic	4045	11.0	4045
-Iconic	4046	53.0	4046
-Iconic	4047	15.0	4047
-Iconic	4048	41.0	4048
-Iconic	4049	22.0	4049
-Iconic	4050	14.0	4050
-Iconic	4051	54.0	4051
-Iconic	4052	30.0	4052
-Iconic	4053	52.0	4053
-Iconic	4054	17.0	4054
-Iconic	4055	17.0	4055
-Iconic	4056	33.0	4056
-Iconic	4057	64.0	4057
-Iconic	4058	41.0	4058
-Iconic	4059	17.0	4059
-Iconic	4060	21.0	4060
-Iconic	4061	12.0	4061
-Iconic	4062	32.0	4062
-Iconic	4063	69.0	4063
-Iconic	4064	42.0	4064
-Iconic	4065	24.0	4065
-Iconic	4066	22.0	4066
-Iconic	4067	13.0	4067
-Iconic	4068	10.0	4068
-Iconic	4069	58.0	4069
-Iconic	4070	70.0	4070
-Iconic	4071	20.0	4071
-Iconic	4072	20.0	4072
-Iconic	4073	30.0	4073
-Iconic	4074	63.0	4074
-Iconic	4075	73.0	4075
-Iconic	4076	16.0	4076
-Iconic	4077	36.0	4077
-Iconic	4078	20.0	4078
-Iconic	4079	9.0	4079
-Iconic	4080	26.0	4080
-Iconic	4081	16.0	4081
-Iconic	4082	34.0	4082
-Iconic	4083	49.0	4083
-Iconic	4084	11.0	4084
-Iconic	4085	46.0	4085
-Iconic	4086	69.0	4086
-Iconic	4087	31.0	4087
-Iconic	4088	20.0	4088
-Iconic	4089	72.0	4089
-Iconic	4090	12.0	4090
-Iconic	4091	30.0	4091
-Iconic	4092	61.0	4092
-Iconic	4093	14.0	4093
-Iconic	4094	26.0	4094
-Iconic	4095	69.0	4095
-Iconic	4096	59.0	4096
-Iconic	4097	12.0	4097
-Iconic	4098	20.0	4098
-Iconic	4099	33.0	4099
-Iconic	4100	71.0	4100
-Iconic	4101	15.0	4101
-Iconic	4102	32.0	4102
-Iconic	4103	34.0	4103
-Iconic	4104	45.0	4104
-Iconic	4105	17.0	4105
-Iconic	4106	13.0	4106
-Iconic	4107	55.0	4107
-Iconic	4108	9.0	4108
-Iconic	4109	28.0	4109
-Iconic	4110	39.0	4110
-Iconic	4111	39.0	4111
-Iconic	4112	42.0	4112
-Iconic	4113	39.0	4113
-Iconic	4114	19.0	4114
-Iconic	4115	44.0	4115
-Iconic	4116	21.0	4116
-Iconic	4117	50.0	4117
-Iconic	4118	29.0	4118
-Iconic	4119	30.0	4119
-Iconic	4120	24.0	4120
-Iconic	4121	8.0	4121
-Iconic	4122	16.0	4122
-Iconic	4123	15.0	4123
-Iconic	4124	30.0	4124
-Iconic	4125	11.0	4125
-Iconic	4126	22.0	4126
-Iconic	4127	69.0	4127
-Iconic	4128	68.0	4128
-Iconic	4129	66.0	4129
-Iconic	4130	19.0	4130
-Iconic	4131	12.0	4131
-Iconic	4132	76.0	4132
-Iconic	4133	11.0	4133
-Iconic	4134	16.0	4134
-Iconic	4135	10.0	4135
-Iconic	4136	12.0	4136
-Iconic	4137	48.0	4137
-Iconic	4138	11.0	4138
-Iconic	4139	20.0	4139
-Iconic	4140	21.0	4140
-Iconic	4141	48.0	4141
-Iconic	4142	14.0	4142
-Iconic	4143	26.0	4143
-Iconic	4144	13.0	4144
-Iconic	4145	12.0	4145
-Iconic	4146	21.0	4146
-Iconic	4147	31.0	4147
-Iconic	4148	27.0	4148
-Iconic	4149	8.0	4149
-Iconic	4150	16.0	4150
-Iconic	4151	32.0	4151
-Iconic	4152	40.0	4152
-Iconic	4153	56.0	4153
-Iconic	4154	9.0	4154
-Iconic	4155	19.0	4155
-Iconic	4156	17.0	4156
-Iconic	4157	21.0	4157
-Iconic	4158	11.0	4158
-Iconic	4159	68.0	4159
-Iconic	4160	18.0	4160
-Iconic	4161	22.0	4161
-Iconic	4162	31.0	4162
-Iconic	4163	22.0	4163
-Iconic	4164	51.0	4164
-Iconic	4165	68.0	4165
-Iconic	4166	11.0	4166
-Iconic	4167	12.0	4167
-Iconic	4168	17.0	4168
-Iconic	4169	7.0	4169
-Iconic	4170	47.0	4170
-Iconic	4171	49.0	4171
-Iconic	4172	20.0	4172
-Iconic	4173	15.0	4173
-Iconic	4174	24.0	4174
-Iconic	4175	29.0	4175
-Iconic	4176	16.0	4176
-Iconic	4177	23.0	4177
-Iconic	4178	24.0	4178
-Iconic	4179	26.0	4179
-Iconic	4180	14.0	4180
-Iconic	4181	63.0	4181
-Iconic	4182	16.0	4182
-Iconic	4183	26.0	4183
-Iconic	4184	25.0	4184
-Iconic	4185	13.0	4185
-Iconic	4186	62.0	4186
-Iconic	4187	68.0	4187
-Iconic	4188	33.0	4188
-Iconic	4189	40.0	4189
-Iconic	4190	68.0	4190
-Iconic	4191	14.0	4191
-Iconic	4192	37.0	4192
-Iconic	4193	32.0	4193
-Iconic	4194	31.0	4194
-Iconic	4195	68.0	4195
-Iconic	4196	46.0	4196
-Iconic	4197	47.0	4197
-Iconic	4198	12.0	4198
-Iconic	4199	23.0	4199
-Iconic	4200	45.0	4200
-Iconic	4201	25.0	4201
-Iconic	4202	25.0	4202
-Iconic	4203	56.0	4203
-Iconic	4204	16.0	4204
-Iconic	4205	13.0	4205
-Iconic	4206	18.0	4206
-Iconic	4207	28.0	4207
-Iconic	4208	18.0	4208
-Iconic	4209	8.0	4209
-Iconic	4210	9.0	4210
-Iconic	4211	39.0	4211
-Iconic	4212	29.0	4212
-Iconic	4213	8.0	4213
-Iconic	4214	27.0	4214
-Iconic	4215	27.0	4215
-Iconic	4216	16.0	4216
-Iconic	4217	11.0	4217
-Iconic	4218	35.0	4218
-Iconic	4219	18.0	4219
-Iconic	4220	38.0	4220
-Iconic	4221	25.0	4221
-Iconic	4222	12.0	4222
-Iconic	4223	40.0	4223
-Iconic	4224	21.0	4224
-Iconic	4225	42.0	4225
-Iconic	4226	34.0	4226
-Iconic	4227	61.0	4227
-Iconic	4228	6.0	4228
-Iconic	4229	48.0	4229
-Iconic	4230	42.0	4230
-Iconic	4231	22.0	4231
-Iconic	4232	64.0	4232
-Iconic	4233	61.0	4233
-Iconic	4234	9.0	4234
-Iconic	4235	10.0	4235
-Iconic	4236	63.0	4236
-Iconic	4237	17.0	4237
-Iconic	4238	23.0	4238
-Iconic	4239	55.0	4239
-Iconic	4240	30.0	4240
-Iconic	4241	53.0	4241
-Iconic	4242	67.0	4242
-Iconic	4243	11.0	4243
-Iconic	4244	12.0	4244
-Iconic	4245	68.0	4245
-Iconic	4246	11.0	4246
-Iconic	4247	19.0	4247
-Iconic	4248	71.0	4248
-Iconic	4249	24.0	4249
-Iconic	4250	16.0	4250
-Iconic	4251	17.0	4251
-Iconic	4252	34.0	4252
-Iconic	4253	72.0	4253
-Iconic	4254	18.0	4254
-Iconic	4255	26.0	4255
-Iconic	4256	45.0	4256
-Iconic	4257	21.0	4257
-Iconic	4258	15.0	4258
-Iconic	4259	63.0	4259
-Iconic	4260	51.0	4260
-Iconic	4261	50.0	4261
-Iconic	4262	15.0	4262
-Iconic	4263	11.0	4263
-Iconic	4264	65.0	4264
-Iconic	4265	12.0	4265
-Iconic	4266	15.0	4266
-Iconic	4267	33.0	4267
-Iconic	4268	22.0	4268
-Iconic	4269	20.0	4269
-Iconic	4270	13.0	4270
-Iconic	4271	12.0	4271
-Iconic	4272	13.0	4272
-Iconic	4273	14.0	4273
-Iconic	4274	32.0	4274
-Iconic	4275	16.0	4275
-Iconic	4276	14.0	4276
-Iconic	4277	28.0	4277
-Iconic	4278	60.0	4278
-Iconic	4279	62.0	4279
-Iconic	4280	36.0	4280
-Iconic	4281	17.0	4281
-Iconic	4282	12.0	4282
-Iconic	4283	35.0	4283
-Iconic	4284	16.0	4284
-Iconic	4285	21.0	4285
-Iconic	4286	10.0	4286
-Iconic	4287	32.0	4287
-Iconic	4288	36.0	4288
-Iconic	4289	16.0	4289
-Iconic	4290	36.0	4290
-Iconic	4291	54.0	4291
-Iconic	4292	49.0	4292
-Iconic	4293	25.0	4293
-Iconic	4294	56.0	4294
-Iconic	4295	12.0	4295
-Iconic	4296	24.0	4296
-Iconic	4297	24.0	4297
-Iconic	4298	20.0	4298
-Iconic	4299	17.0	4299
-Iconic	4300	16.0	4300
-Iconic	4301	18.0	4301
-Iconic	4302	39.0	4302
-Iconic	4303	15.0	4303
-Iconic	4304	15.0	4304
-Iconic	4305	15.0	4305
-Iconic	4306	13.0	4306
-Iconic	4307	26.0	4307
-Iconic	4308	35.0	4308
-Iconic	4309	30.0	4309
-Iconic	4310	39.0	4310
-Iconic	4311	19.0	4311
-Iconic	4312	13.0	4312
-Iconic	4313	61.0	4313
-Iconic	4314	20.0	4314
-Iconic	4315	27.0	4315
-Iconic	4316	32.0	4316
-Iconic	4317	37.0	4317
-Iconic	4318	44.0	4318
-Iconic	4319	10.0	4319
-Iconic	4320	40.0	4320
-Iconic	4321	15.0	4321
-Iconic	4322	66.0	4322
-Iconic	4323	50.0	4323
-Iconic	4324	13.0	4324
-Iconic	4325	7.0	4325
-Iconic	4326	15.0	4326
-Iconic	4327	67.0	4327
-Iconic	4328	12.0	4328
-Iconic	4329	18.0	4329
-Iconic	4330	25.0	4330
-Iconic	4331	29.0	4331
-Iconic	4332	38.0	4332
-Iconic	4333	56.0	4333
-Iconic	4334	38.0	4334
-Iconic	4335	37.0	4335
-Iconic	4336	21.0	4336
-Iconic	4337	12.0	4337
-Iconic	4338	16.0	4338
-Iconic	4339	21.0	4339
-Iconic	4340	64.0	4340
-Iconic	4341	43.0	4341
-Iconic	4342	78.0	4342
-Iconic	4343	68.0	4343
-Iconic	4344	16.0	4344
-Iconic	4345	30.0	4345
-Iconic	4346	12.0	4346
-Iconic	4347	32.0	4347
-Iconic	4348	59.0	4348
-Iconic	4349	26.0	4349
-Iconic	4350	58.0	4350
-Iconic	4351	45.0	4351
-Iconic	4352	42.0	4352
-Iconic	4353	45.0	4353
-Iconic	4354	22.0	4354
-Iconic	4355	34.0	4355
-Iconic	4356	63.0	4356
-Iconic	4357	12.0	4357
-Iconic	4358	13.0	4358
-Iconic	4359	13.0	4359
-Iconic	4360	5.0	4360
-Iconic	4361	11.0	4361
-Iconic	4362	12.0	4362
-Iconic	4363	10.0	4363
-Iconic	4364	13.0	4364
-Iconic	4365	7.0	4365
-Iconic	4366	9.0	4366
-Iconic	4367	7.0	4367
-Iconic	4368	10.0	4368
-Iconic	4369	7.0	4369
-Iconic	4370	5.0	4370
-Iconic	4371	5.0	4371
-Iconic	4372	12.0	4372
-Iconic	4373	13.0	4373
-Iconic	4374	7.0	4374
-Iconic	4375	6.0	4375
-Iconic	4376	7.0	4376
-Iconic	4377	13.0	4377
-Iconic	4378	9.0	4378
-Iconic	4379	12.0	4379
-Iconic	4380	11.0	4380
-Iconic	4381	8.0	4381
-Iconic	4382	12.0	4382
-Iconic	4383	10.0	4383
-Iconic	4384	7.0	4384
-Iconic	4385	12.0	4385
-Iconic	4386	9.0	4386
-Iconic	4387	8.0	4387
-Iconic	4388	15.0	4388
-Iconic	4389	13.0	4389
-Iconic	4390	5.0	4390
-Iconic	4391	7.0	4391
-Iconic	4392	8.0	4392
-Iconic	4393	7.0	4393
-Iconic	4394	7.0	4394
-Iconic	4395	10.0	4395
-Iconic	4396	8.0	4396
-Iconic	4397	6.0	4397
-Iconic	4398	11.0	4398
-Iconic	4399	8.0	4399
-Iconic	4400	7.0	4400
-Iconic	4401	12.0	4401
-Iconic	4402	7.0	4402
-Iconic	4403	5.0	4403
-Iconic	4404	9.0	4404
-Iconic	4405	10.0	4405
-Iconic	4406	21.0	4406
-Iconic	4407	11.0	4407
-Iconic	4408	7.0	4408
-Iconic	4409	14.0	4409
-Iconic	4410	15.0	4410
-Iconic	4411	8.0	4411
-Iconic	4412	7.0	4412
-Iconic	4413	8.0	4413
-Iconic	4414	6.0	4414
-Iconic	4415	9.0	4415
-Iconic	4416	11.0	4416
-Iconic	4417	14.0	4417
-Iconic	4418	7.0	4418
-Iconic	4419	4.0	4419
-Iconic	4420	14.0	4420
-Iconic	4421	7.0	4421
-Iconic	4422	10.0	4422
-Iconic	4423	5.0	4423
-Iconic	4424	5.0	4424
-Iconic	4425	9.0	4425
-Iconic	4426	11.0	4426
-Iconic	4427	7.0	4427
-Iconic	4428	7.0	4428
-Iconic	4429	7.0	4429
-Iconic	4430	6.0	4430
-Iconic	4431	14.0	4431
-Iconic	4432	11.0	4432
-Iconic	4433	11.0	4433
-Iconic	4434	9.0	4434
-Iconic	4435	12.0	4435
-Iconic	4436	7.0	4436
-Iconic	4437	9.0	4437
-Iconic	4438	7.0	4438
-Iconic	4439	12.0	4439
-Iconic	4440	10.0	4440
-Iconic	4441	15.0	4441
-Iconic	4442	12.0	4442
-Iconic	4443	9.0	4443
-Iconic	4444	12.0	4444
-Iconic	4445	8.0	4445
-Iconic	4446	2.0	4446
-Iconic	4447	10.0	4447
-Iconic	4448	8.0	4448
-Iconic	4449	10.0	4449
-Iconic	4450	14.0	4450
-Iconic	4451	12.0	4451
-Iconic	4452	6.0	4452
-Iconic	4453	5.0	4453
-Iconic	4454	14.0	4454
-Iconic	4455	17.0	4455
-Iconic	4456	7.0	4456
-Iconic	4457	7.0	4457
-Iconic	4458	9.0	4458
-Iconic	4459	10.0	4459
-Iconic	4460	12.0	4460
-Iconic	4461	10.0	4461
-Iconic	4462	10.0	4462
-Iconic	4463	7.0	4463
-Iconic	4464	15.0	4464
-Iconic	4465	13.0	4465
-Iconic	4466	6.0	4466
-Iconic	4467	9.0	4467
-Iconic	4468	7.0	4468
-Iconic	4469	2.0	4469
-Iconic	4470	12.0	4470
-Iconic	4471	9.0	4471
-Iconic	4472	11.0	4472
-Iconic	4473	10.0	4473
-Iconic	4474	13.0	4474
-Iconic	4475	10.0	4475
-Iconic	4476	7.0	4476
-Iconic	4477	9.0	4477
-Iconic	4478	6.0	4478
-Iconic	4479	10.0	4479
-Iconic	4480	19.0	4480
-Iconic	4481	4.0	4481
-Iconic	4482	8.0	4482
-Iconic	4483	10.0	4483
-Iconic	4484	2.0	4484
-Iconic	4485	16.0	4485
-Iconic	4486	7.0	4486
-Iconic	4487	11.0	4487
-Iconic	4488	13.0	4488
-Iconic	4489	13.0	4489
-Iconic	4490	12.0	4490
-Iconic	4491	9.0	4491
-Iconic	4492	11.0	4492
-Iconic	4493	9.0	4493
-Iconic	4494	9.0	4494
-Iconic	4495	11.0	4495
-Iconic	4496	10.0	4496
-Iconic	4497	9.0	4497
-Iconic	4498	10.0	4498
-Iconic	4499	8.0	4499
-Iconic	4500	10.0	4500
-Iconic	4501	16.0	4501
-Iconic	4502	9.0	4502
-Iconic	4503	10.0	4503
-Iconic	4504	9.0	4504
-Iconic	4505	8.0	4505
-Iconic	4506	11.0	4506
-Iconic	4507	9.0	4507
-Iconic	4508	11.0	4508
-Iconic	4509	13.0	4509
-Iconic	4510	10.0	4510
-Iconic	4511	10.0	4511
-Iconic	4512	5.0	4512
-Iconic	4513	6.0	4513
-Iconic	4514	8.0	4514
-Iconic	4515	8.0	4515
-Iconic	4516	3.0	4516
-Iconic	4517	7.0	4517
-Iconic	4518	8.0	4518
-Iconic	4519	5.0	4519
-Iconic	4520	9.0	4520
-Iconic	4521	9.0	4521
-Iconic	4522	13.0	4522
-Iconic	4523	5.0	4523
-Iconic	4524	7.0	4524
-Iconic	4525	6.0	4525
-Iconic	4526	6.0	4526
-Iconic	4527	5.0	4527
-Iconic	4528	14.0	4528
-Iconic	4529	15.0	4529
-Iconic	4530	12.0	4530
-Iconic	4531	10.0	4531
-Iconic	4532	5.0	4532
-Iconic	4533	7.0	4533
-Iconic	4534	8.0	4534
-Iconic	4535	9.0	4535
-Iconic	4536	7.0	4536
-Iconic	4537	4.0	4537
-Iconic	4538	11.0	4538
-Iconic	4539	9.0	4539
-Iconic	4540	6.0	4540
-Iconic	4541	11.0	4541
-Iconic	4542	11.0	4542
-Iconic	4543	6.0	4543
-Iconic	4544	14.0	4544
-Iconic	4545	14.0	4545
-Iconic	4546	14.0	4546
-Iconic	4547	11.0	4547
-Iconic	4548	14.0	4548
-Iconic	4549	8.0	4549
-Iconic	4550	7.0	4550
-Iconic	4551	11.0	4551
-Iconic	4552	5.0	4552
-Iconic	4553	7.0	4553
-Iconic	4554	13.0	4554
-Iconic	4555	6.0	4555
-Iconic	4556	9.0	4556
-Iconic	4557	9.0	4557
-Iconic	4558	16.0	4558
-Iconic	4559	9.0	4559
-Iconic	4560	11.0	4560
-Iconic	4561	12.0	4561
-Iconic	4562	16.0	4562
-Iconic	4563	7.0	4563
-Iconic	4564	8.0	4564
-Iconic	4565	3.0	4565
-Iconic	4566	13.0	4566
-Iconic	4567	15.0	4567
-Iconic	4568	6.0	4568
-Iconic	4569	12.0	4569
-Iconic	4570	16.0	4570
-Iconic	4571	14.0	4571
-Iconic	4572	5.0	4572
-Iconic	4573	10.0	4573
-Iconic	4574	6.0	4574
-Iconic	4575	11.0	4575
-Iconic	4576	4.0	4576
-Iconic	4577	10.0	4577
-Iconic	4578	6.0	4578
-Iconic	4579	10.0	4579
-Iconic	4580	11.0	4580
-Iconic	4581	15.0	4581
-Iconic	4582	10.0	4582
-Iconic	4583	7.0	4583
-Iconic	4584	12.0	4584
-Iconic	4585	16.0	4585
-Iconic	4586	8.0	4586
-Iconic	4587	12.0	4587
-Iconic	4588	11.0	4588
-Iconic	4589	11.0	4589
-Iconic	4590	12.0	4590
-Iconic	4591	8.0	4591
-Iconic	4592	4.0	4592
-Iconic	4593	8.0	4593
-Iconic	4594	11.0	4594
-Iconic	4595	10.0	4595
-Iconic	4596	7.0	4596
-Iconic	4597	5.0	4597
-Iconic	4598	15.0	4598
-Iconic	4599	9.0	4599
-Iconic	4600	6.0	4600
-Iconic	4601	12.0	4601
-Iconic	4602	27.0	4602
-Iconic	4603	16.0	4603
-Iconic	4604	11.0	4604
-Iconic	4605	11.0	4605
-Iconic	4606	2.0	4606
-Iconic	4607	12.0	4607
-Iconic	4608	6.0	4608
-Iconic	4609	10.0	4609
-Iconic	4610	12.0	4610
-Iconic	4611	9.0	4611
-Iconic	4612	14.0	4612
-Iconic	4613	12.0	4613
-Iconic	4614	7.0	4614
-Iconic	4615	14.0	4615
-Iconic	4616	11.0	4616
-Iconic	4617	10.0	4617
-Iconic	4618	10.0	4618
-Iconic	4619	6.0	4619
-Iconic	4620	12.0	4620
-Iconic	4621	10.0	4621
-Iconic	4622	13.0	4622
-Iconic	4623	5.0	4623
-Iconic	4624	5.0	4624
-Iconic	4625	6.0	4625
-Iconic	4626	8.0	4626
-Iconic	4627	15.0	4627
-Iconic	4628	9.0	4628
-Iconic	4629	5.0	4629
-Iconic	4630	11.0	4630
-Iconic	4631	16.0	4631
-Iconic	4632	7.0	4632
-Iconic	4633	7.0	4633
-Iconic	4634	12.0	4634
-Iconic	4635	23.0	4635
-Iconic	4636	8.0	4636
-Iconic	4637	2.0	4637
-Iconic	4638	7.0	4638
-Iconic	4639	9.0	4639
-Iconic	4640	7.0	4640
-Iconic	4641	6.0	4641
-Iconic	4642	7.0	4642
-Iconic	4643	15.0	4643
-Iconic	4644	12.0	4644
-Iconic	4645	7.0	4645
-Iconic	4646	18.0	4646
-Iconic	4647	8.0	4647
-Iconic	4648	5.0	4648
-Iconic	4649	7.0	4649
-Iconic	4650	10.0	4650
-Iconic	4651	9.0	4651
-Iconic	4652	9.0	4652
-Iconic	4653	12.0	4653
-Iconic	4654	8.0	4654
-Iconic	4655	14.0	4655
-Iconic	4656	6.0	4656
-Iconic	4657	15.0	4657
-Iconic	4658	19.0	4658
-Iconic	4659	8.0	4659
-Iconic	4660	12.0	4660
-Iconic	4661	9.0	4661
-Iconic	4662	11.0	4662
-Iconic	4663	7.0	4663
-Iconic	4664	10.0	4664
-Iconic	4665	11.0	4665
-Iconic	4666	6.0	4666
-Iconic	4667	6.0	4667
-Iconic	4668	11.0	4668
-Iconic	4669	9.0	4669
-Iconic	4670	2.0	4670
-Iconic	4671	12.0	4671
-Iconic	4672	20.0	4672
-Iconic	4673	8.0	4673
-Iconic	4674	11.0	4674
-Iconic	4675	11.0	4675
-Iconic	4676	12.0	4676
-Iconic	4677	7.0	4677
-Iconic	4678	10.0	4678
-Iconic	4679	7.0	4679
-Iconic	4680	5.0	4680
-Iconic	4681	8.0	4681
-Iconic	4682	18.0	4682
-Iconic	4683	7.0	4683
-Iconic	4684	12.0	4684
-Iconic	4685	6.0	4685
-Iconic	4686	12.0	4686
-Iconic	4687	6.0	4687
-Iconic	4688	17.0	4688
-Iconic	4689	12.0	4689
-Iconic	4690	10.0	4690
-Iconic	4691	13.0	4691
-Iconic	4692	9.0	4692
-Iconic	4693	6.0	4693
-Iconic	4694	6.0	4694
-Iconic	4695	9.0	4695
-Iconic	4696	11.0	4696
-Iconic	4697	7.0	4697
-Iconic	4698	6.0	4698
-Iconic	4699	12.0	4699
-Iconic	4700	8.0	4700
-Iconic	4701	19.0	4701
-Iconic	4702	13.0	4702
-Iconic	4703	14.0	4703
-Iconic	4704	3.0	4704
-Iconic	4705	9.0	4705
-Iconic	4706	5.0	4706
-Iconic	4707	13.0	4707
-Iconic	4708	15.0	4708
-Iconic	4709	5.0	4709
-Iconic	4710	10.0	4710
-Iconic	4711	6.0	4711
-Iconic	4712	12.0	4712
-Iconic	4713	8.0	4713
-Iconic	4714	12.0	4714
-Iconic	4715	15.0	4715
-Iconic	4716	11.0	4716
-Iconic	4717	11.0	4717
-Iconic	4718	10.0	4718
-Iconic	4719	8.0	4719
-Iconic	4720	7.0	4720
-Iconic	4721	9.0	4721
-Iconic	4722	14.0	4722
-Iconic	4723	7.0	4723
-Iconic	4724	10.0	4724
-Iconic	4725	10.0	4725
-Iconic	4726	15.0	4726
-Iconic	4727	9.0	4727
-Iconic	4728	10.0	4728
-Iconic	4729	14.0	4729
-Iconic	4730	11.0	4730
-Iconic	4731	8.0	4731
-Iconic	4732	8.0	4732
-Iconic	4733	8.0	4733
-Iconic	4734	4.0	4734
-Iconic	4735	8.0	4735
-Iconic	4736	6.0	4736
-Iconic	4737	9.0	4737
-Iconic	4738	6.0	4738
-Iconic	4739	6.0	4739
-Iconic	4740	9.0	4740
-Iconic	4741	10.0	4741
-Iconic	4742	13.0	4742
-Iconic	4743	10.0	4743
-Iconic	4744	7.0	4744
-Iconic	4745	11.0	4745
-Iconic	4746	5.0	4746
-Iconic	4747	10.0	4747
-Iconic	4748	8.0	4748
-Iconic	4749	7.0	4749
-Iconic	4750	10.0	4750
-Iconic	4751	6.0	4751
-Iconic	4752	15.0	4752
-Iconic	4753	6.0	4753
-Iconic	4754	12.0	4754
-Iconic	4755	3.0	4755
-Iconic	4756	7.0	4756
-Iconic	4757	6.0	4757
-Iconic	4758	13.0	4758
-Iconic	4759	7.0	4759
-Iconic	4760	7.0	4760
-Iconic	4761	7.0	4761
-Iconic	4762	13.0	4762
-Iconic	4763	5.0	4763
-Iconic	4764	9.0	4764
-Iconic	4765	11.0	4765
-Iconic	4766	12.0	4766
-Iconic	4767	17.0	4767
-Iconic	4768	7.0	4768
-Iconic	4769	11.0	4769
-Iconic	4770	13.0	4770
-Iconic	4771	11.0	4771
-Iconic	4772	7.0	4772
-Iconic	4773	11.0	4773
-Iconic	4774	9.0	4774
-Iconic	4775	9.0	4775
-Iconic	4776	16.0	4776
-Iconic	4777	8.0	4777
-Iconic	4778	12.0	4778
-Iconic	4779	8.0	4779
-Iconic	4780	10.0	4780
-Iconic	4781	15.0	4781
-Iconic	4782	10.0	4782
-Iconic	4783	14.0	4783
-Iconic	4784	6.0	4784
-Iconic	4785	8.0	4785
-Iconic	4786	15.0	4786
-Iconic	4787	5.0	4787
-Iconic	4788	6.0	4788
-Iconic	4789	11.0	4789
-Iconic	4790	10.0	4790
-Iconic	4791	7.0	4791
-Iconic	4792	3.0	4792
-Iconic	4793	9.0	4793
-Iconic	4794	10.0	4794
-Iconic	4795	10.0	4795
-Iconic	4796	16.0	4796
-Iconic	4797	13.0	4797
-Iconic	4798	12.0	4798
-Iconic	4799	13.0	4799
-Iconic	4800	8.0	4800
-Iconic	4801	9.0	4801
-Iconic	4802	6.0	4802
-Iconic	4803	14.0	4803
-Iconic	4804	8.0	4804
-Iconic	4805	7.0	4805
-Iconic	4806	8.0	4806
-Iconic	4807	7.0	4807
-Iconic	4808	11.0	4808
-Iconic	4809	7.0	4809
-Iconic	4810	9.0	4810
-Iconic	4811	5.0	4811
-Iconic	4812	12.0	4812
-Iconic	4813	9.0	4813
-Iconic	4814	13.0	4814
-Iconic	4815	6.0	4815
-Iconic	4816	8.0	4816
-Iconic	4817	14.0	4817
-Iconic	4818	8.0	4818
-Iconic	4819	14.0	4819
-Iconic	4820	9.0	4820
-Iconic	4821	11.0	4821
-Iconic	4822	5.0	4822
-Iconic	4823	9.0	4823
-Iconic	4824	12.0	4824
-Iconic	4825	9.0	4825
-Iconic	4826	8.0	4826
-Iconic	4827	8.0	4827
-Iconic	4828	11.0	4828
-Iconic	4829	10.0	4829
-Iconic	4830	3.0	4830
-Iconic	4831	11.0	4831
-Iconic	4832	8.0	4832
-Iconic	4833	8.0	4833
-Iconic	4834	7.0	4834
-Iconic	4835	12.0	4835
-Iconic	4836	12.0	4836
-Iconic	4837	8.0	4837
-Iconic	4838	7.0	4838
-Iconic	4839	7.0	4839
-Iconic	4840	5.0	4840
-Iconic	4841	11.0	4841
-Iconic	4842	7.0	4842
-Iconic	4843	7.0	4843
-Iconic	4844	12.0	4844
-Iconic	4845	15.0	4845
-Iconic	4846	9.0	4846
-Iconic	4847	10.0	4847
-Iconic	4848	13.0	4848
-Iconic	4849	7.0	4849
-Iconic	4850	13.0	4850
-Iconic	4851	10.0	4851
-Iconic	4852	13.0	4852
-Iconic	4853	13.0	4853
-Iconic	4854	4.0	4854
-Iconic	4855	7.0	4855
-Iconic	4856	9.0	4856
-Iconic	4857	9.0	4857
-Iconic	4858	10.0	4858
-Iconic	4859	8.0	4859
-Iconic	4860	11.0	4860
-Iconic	4861	9.0	4861
-Iconic	4862	16.0	4862
-Iconic	4863	8.0	4863
-Iconic	4864	13.0	4864
-Iconic	4865	8.0	4865
-Iconic	4866	18.0	4866
-Iconic	4867	8.0	4867
-Iconic	4868	11.0	4868
-Iconic	4869	7.0	4869
-Iconic	4870	12.0	4870
-Iconic	4871	7.0	4871
-Iconic	4872	11.0	4872
-Iconic	4873	6.0	4873
-Iconic	4874	7.0	4874
-Iconic	4875	15.0	4875
-Iconic	4876	8.0	4876
-Iconic	4877	7.0	4877
-Iconic	4878	8.0	4878
-Iconic	4879	6.0	4879
-Iconic	4880	6.0	4880
-Iconic	4881	8.0	4881
-Iconic	4882	9.0	4882
-Iconic	4883	10.0	4883
-Iconic	4884	6.0	4884
-Iconic	4885	11.0	4885
-Iconic	4886	10.0	4886
-Iconic	4887	18.0	4887
-Iconic	4888	11.0	4888
-Iconic	4889	10.0	4889
-Iconic	4890	8.0	4890
-Iconic	4891	14.0	4891
-Iconic	4892	14.0	4892
-Iconic	4893	13.0	4893
-Iconic	4894	11.0	4894
-Iconic	4895	9.0	4895
-Iconic	4896	8.0	4896
-Iconic	4897	7.0	4897
-Iconic	4898	6.0	4898
-Iconic	4899	9.0	4899
-Iconic	4900	9.0	4900
-Iconic	4901	4.0	4901
-Iconic	4902	11.0	4902
-Iconic	4903	5.0	4903
-Iconic	4904	8.0	4904
-Iconic	4905	5.0	4905
-Iconic	4906	5.0	4906
-Iconic	4907	6.0	4907
-Iconic	4908	7.0	4908
-Iconic	4909	8.0	4909
-Iconic	4910	7.0	4910
-Iconic	4911	13.0	4911
-Iconic	4912	14.0	4912
-Iconic	4913	11.0	4913
-Iconic	4914	2.0	4914
-Iconic	4915	13.0	4915
-Iconic	4916	6.0	4916
-Iconic	4917	9.0	4917
-Iconic	4918	2.0	4918
-Iconic	4919	11.0	4919
-Iconic	4920	8.0	4920
-Iconic	4921	13.0	4921
-Iconic	4922	12.0	4922
-Iconic	4923	15.0	4923
-Iconic	4924	15.0	4924
-Iconic	4925	6.0	4925
-Iconic	4926	15.0	4926
-Iconic	4927	9.0	4927
-Iconic	4928	6.0	4928
-Iconic	4929	6.0	4929
-Iconic	4930	9.0	4930
-Iconic	4931	9.0	4931
-Iconic	4932	11.0	4932
-Iconic	4933	6.0	4933
-Iconic	4934	17.0	4934
-Iconic	4935	8.0	4935
-Iconic	4936	9.0	4936
-Iconic	4937	8.0	4937
-Iconic	4938	7.0	4938
-Iconic	4939	10.0	4939
-Iconic	4940	4.0	4940
-Iconic	4941	8.0	4941
-Iconic	4942	11.0	4942
-Iconic	4943	3.0	4943
-Iconic	4944	8.0	4944
-Iconic	4945	12.0	4945
-Iconic	4946	6.0	4946
-Iconic	4947	7.0	4947
-Iconic	4948	14.0	4948
-Iconic	4949	16.0	4949
-Iconic	4950	15.0	4950
-Iconic	4951	10.0	4951
-Iconic	4952	8.0	4952
-Iconic	4953	10.0	4953
-Iconic	4954	5.0	4954
-Iconic	4955	13.0	4955
-Iconic	4956	12.0	4956
-Iconic	4957	10.0	4957
-Iconic	4958	5.0	4958
-Iconic	4959	7.0	4959
-Iconic	4960	8.0	4960
-Iconic	4961	6.0	4961
-Iconic	4962	3.0	4962
-Iconic	4963	6.0	4963
-Iconic	4964	8.0	4964
-Iconic	4965	5.0	4965
-Iconic	4966	8.0	4966
-Iconic	4967	6.0	4967
-Iconic	4968	13.0	4968
-Iconic	4969	5.0	4969
-Iconic	4970	12.0	4970
-Iconic	4971	8.0	4971
-Iconic	4972	10.0	4972
-Iconic	4973	18.0	4973
-Iconic	4974	7.0	4974
-Iconic	4975	10.0	4975
-Iconic	4976	10.0	4976
-Iconic	4977	11.0	4977
-Iconic	4978	12.0	4978
-Iconic	4979	5.0	4979
-Iconic	4980	13.0	4980
-Iconic	4981	9.0	4981
-Iconic	4982	13.0	4982
-Iconic	4983	9.0	4983
-Iconic	4984	14.0	4984
-Iconic	4985	10.0	4985
-Iconic	4986	18.0	4986
-Iconic	4987	7.0	4987
-Iconic	4988	10.0	4988
-Iconic	4989	14.0	4989
-Iconic	4990	6.0	4990
-Iconic	4991	7.0	4991
-Iconic	4992	11.0	4992
-Iconic	4993	11.0	4993
-Iconic	4994	16.0	4994
-Iconic	4995	13.0	4995
-Iconic	4996	6.0	4996
-Iconic	4997	11.0	4997
-Iconic	4998	11.0	4998
-Iconic	4999	3.0	4999
-Iconic	5000	5.0	5000
-Iconic	5001	7.0	5001
-Iconic	5002	6.0	5002
-Iconic	5003	10.0	5003
-Iconic	5004	8.0	5004
-Iconic	5005	11.0	5005
-Iconic	5006	3.0	5006
-Iconic	5007	5.0	5007
-Iconic	5008	5.0	5008
-Iconic	5009	11.0	5009
-Iconic	5010	5.0	5010
-Iconic	5011	13.0	5011
-Iconic	5012	13.0	5012
-Iconic	5013	12.0	5013
-Iconic	5014	7.0	5014
-Iconic	5015	8.0	5015
-Iconic	5016	13.0	5016
-Iconic	5017	5.0	5017
-Iconic	5018	12.0	5018
-Iconic	5019	5.0	5019
-Iconic	5020	8.0	5020
-Iconic	5021	34.0	5021
-Iconic	5022	23.0	5022
-Iconic	5023	35.0	5023
-Iconic	5024	12.0	5024
-Iconic	5025	10.0	5025
-Iconic	5026	27.0	5026
-Iconic	5027	27.0	5027
-Iconic	5028	5.0	5028
-Iconic	5029	39.0	5029
-Iconic	5030	39.0	5030
-Iconic	5031	10.0	5031
-Iconic	5032	44.0	5032
-Iconic	5033	22.0	5033
-Iconic	5034	8.0	5034
-Iconic	5035	19.0	5035
-Iconic	5036	37.0	5036
-Iconic	5037	41.0	5037
-Iconic	5038	53.0	5038
-Iconic	5039	21.0	5039
-Iconic	5040	13.0	5040
-Iconic	5041	26.0	5041
-Iconic	5042	8.0	5042
-Iconic	5043	17.0	5043
-Iconic	5044	30.0	5044
-Iconic	5045	28.0	5045
-Iconic	5046	23.0	5046
-Iconic	5047	26.0	5047
-Iconic	5048	14.0	5048
-Iconic	5049	13.0	5049
-Iconic	5050	24.0	5050
-Iconic	5051	12.0	5051
-Iconic	5052	41.0	5052
-Iconic	5053	23.0	5053
-Iconic	5054	29.0	5054
-Iconic	5055	23.0	5055
-Iconic	5056	47.0	5056
-Iconic	5057	32.0	5057
-Iconic	5058	27.0	5058
-Iconic	5059	75.0	5059
-Iconic	5060	14.0	5060
-Iconic	5061	33.0	5061
-Iconic	5062	37.0	5062
-Iconic	5063	37.0	5063
-Iconic	5064	63.0	5064
-Iconic	5065	45.0	5065
-Iconic	5066	33.0	5066
-Iconic	5067	21.0	5067
-Iconic	5068	22.0	5068
-Iconic	5069	52.0	5069
-Iconic	5070	22.0	5070
-Iconic	5071	33.0	5071
-Iconic	5072	56.0	5072
-Iconic	5073	50.0	5073
-Iconic	5074	18.0	5074
-Iconic	5075	25.0	5075
-Iconic	5076	73.0	5076
-Iconic	5077	56.0	5077
-Iconic	5078	33.0	5078
-Iconic	5079	20.0	5079
-Iconic	5080	49.0	5080
-Iconic	5081	39.0	5081
-Iconic	5082	23.0	5082
-Iconic	5083	25.0	5083
-Iconic	5084	47.0	5084
-Iconic	5085	39.0	5085
-Iconic	5086	36.0	5086
-Iconic	5087	24.0	5087
-Iconic	5088	51.0	5088
-Iconic	5089	28.0	5089
-Iconic	5090	44.0	5090
-Iconic	5091	27.0	5091
-Iconic	5092	31.0	5092
-Iconic	5093	42.0	5093
-Iconic	5094	78.0	5094
-Iconic	5095	16.0	5095
-Iconic	5096	29.0	5096
-Iconic	5097	20.0	5097
-Iconic	5098	37.0	5098
-Iconic	5099	33.0	5099
-Iconic	5100	40.0	5100
-Iconic	5101	26.0	5101
-Iconic	5102	31.0	5102
-Iconic	5103	47.0	5103
-Iconic	5104	13.0	5104
-Iconic	5105	29.0	5105
-Iconic	5106	28.0	5106
-Iconic	5107	17.0	5107
-Iconic	5108	16.0	5108
-Iconic	5109	26.0	5109
-Iconic	5110	29.0	5110
-Iconic	5111	25.0	5111
-Iconic	5112	43.0	5112
-Iconic	5113	19.0	5113
-Iconic	5114	20.0	5114
-Iconic	5115	34.0	5115
-Iconic	5116	20.0	5116
-Iconic	5117	44.0	5117
-Iconic	5118	25.0	5118
-Iconic	5119	19.0	5119
-Iconic	5120	44.0	5120
-Iconic	5121	34.0	5121
-Iconic	5122	48.0	5122
-Iconic	5123	60.0	5123
-Iconic	5124	35.0	5124
-Iconic	5125	63.0	5125
-Iconic	5126	27.0	5126
-Iconic	5127	23.0	5127
-Iconic	5128	39.0	5128
-Iconic	5129	54.0	5129
-Iconic	5130	24.0	5130
-Iconic	5131	38.0	5131
-Iconic	5132	53.0	5132
-Iconic	5133	25.0	5133
-Iconic	5134	21.0	5134
-Iconic	5135	16.0	5135
-Iconic	5136	52.0	5136
-Iconic	5137	15.0	5137
-Iconic	5138	10.0	5138
-Iconic	5139	22.0	5139
-Iconic	5140	20.0	5140
-Iconic	5141	50.0	5141
-Iconic	5142	32.0	5142
-Iconic	5143	18.0	5143
-Iconic	5144	35.0	5144
-Iconic	5145	37.0	5145
-Iconic	5146	27.0	5146
-Iconic	5147	23.0	5147
-Iconic	5148	50.0	5148
-Iconic	5149	35.0	5149
-Iconic	5150	29.0	5150
-Iconic	5151	28.0	5151
-Iconic	5152	18.0	5152
-Iconic	5153	25.0	5153
-Iconic	5154	39.0	5154
-Iconic	5155	11.0	5155
-Iconic	5156	11.0	5156
-Iconic	5157	29.0	5157
-Iconic	5158	44.0	5158
-Iconic	5159	20.0	5159
-Iconic	5160	28.0	5160
-Iconic	5161	17.0	5161
-Iconic	5162	60.0	5162
-Iconic	5163	40.0	5163
-Iconic	5164	32.0	5164
-Iconic	5165	41.0	5165
-Iconic	5166	55.0	5166
-Iconic	5167	77.0	5167
-Iconic	5168	21.0	5168
-Iconic	5169	32.0	5169
-Iconic	5170	55.0	5170
-Iconic	5171	63.0	5171
-Iconic	5172	23.0	5172
-Iconic	5173	52.0	5173
-Iconic	5174	8.0	5174
-Iconic	5175	52.0	5175
-Iconic	5176	12.0	5176
-Iconic	5177	24.0	5177
-Iconic	5178	20.0	5178
-Iconic	5179	47.0	5179
-Iconic	5180	67.0	5180
-Iconic	5181	41.0	5181
-Iconic	5182	24.0	5182
-Iconic	5183	14.0	5183
-Iconic	5184	29.0	5184
-Iconic	5185	20.0	5185
-Iconic	5186	10.0	5186
-Iconic	5187	41.0	5187
-Iconic	5188	17.0	5188
-Iconic	5189	18.0	5189
-Iconic	5190	22.0	5190
-Iconic	5191	13.0	5191
-Iconic	5192	23.0	5192
-Iconic	5193	43.0	5193
-Iconic	5194	19.0	5194
-Iconic	5195	10.0	5195
-Iconic	5196	28.0	5196
-Iconic	5197	47.0	5197
-Iconic	5198	7.0	5198
-Iconic	5199	32.0	5199
-Iconic	5200	20.0	5200
-Iconic	5201	19.0	5201
-Iconic	5202	42.0	5202
-Iconic	5203	10.0	5203
-Iconic	5204	57.0	5204
-Iconic	5205	38.0	5205
-Iconic	5206	59.0	5206
-Iconic	5207	14.0	5207
-Iconic	5208	39.0	5208
-Iconic	5209	21.0	5209
-Iconic	5210	40.0	5210
-Iconic	5211	29.0	5211
-Iconic	5212	17.0	5212
-Iconic	5213	12.0	5213
-Iconic	5214	11.0	5214
-Iconic	5215	25.0	5215
-Iconic	5216	38.0	5216
-Iconic	5217	70.0	5217
-Iconic	5218	6.0	5218
-Iconic	5219	22.0	5219
-Iconic	5220	59.0	5220
-Iconic	5221	39.0	5221
-Iconic	5222	51.0	5222
-Iconic	5223	32.0	5223
-Iconic	5224	35.0	5224
-Iconic	5225	38.0	5225
-Iconic	5226	12.0	5226
-Iconic	5227	38.0	5227
-Iconic	5228	20.0	5228
-Iconic	5229	34.0	5229
-Iconic	5230	24.0	5230
-Iconic	5231	54.0	5231
-Iconic	5232	6.0	5232
-Iconic	5233	12.0	5233
-Iconic	5234	18.0	5234
-Iconic	5235	22.0	5235
-Iconic	5236	18.0	5236
-Iconic	5237	21.0	5237
-Iconic	5238	63.0	5238
-Iconic	5239	21.0	5239
-Iconic	5240	31.0	5240
-Iconic	5241	51.0	5241
-Iconic	5242	20.0	5242
-Iconic	5243	23.0	5243
-Iconic	5244	31.0	5244
-Iconic	5245	16.0	5245
-Iconic	5246	71.0	5246
-Iconic	5247	27.0	5247
-Iconic	5248	36.0	5248
-Iconic	5249	18.0	5249
-Iconic	5250	24.0	5250
-Iconic	5251	75.0	5251
-Iconic	5252	16.0	5252
-Iconic	5253	17.0	5253
-Iconic	5254	38.0	5254
-Iconic	5255	23.0	5255
-Iconic	5256	14.0	5256
-Iconic	5257	33.0	5257
-Iconic	5258	28.0	5258
-Iconic	5259	26.0	5259
-Iconic	5260	60.0	5260
-Iconic	5261	34.0	5261
-Iconic	5262	22.0	5262
-Iconic	5263	45.0	5263
-Iconic	5264	11.0	5264
-Iconic	5265	15.0	5265
-Iconic	5266	48.0	5266
-Iconic	5267	28.0	5267
-Iconic	5268	21.0	5268
-Iconic	5269	18.0	5269
-Iconic	5270	63.0	5270
-Iconic	5271	17.0	5271
-Iconic	5272	4.0	5272
-Iconic	5273	23.0	5273
-Iconic	5274	32.0	5274
-Iconic	5275	29.0	5275
-Iconic	5276	20.0	5276
-Iconic	5277	22.0	5277
-Iconic	5278	47.0	5278
-Iconic	5279	38.0	5279
-Iconic	5280	45.0	5280
-Iconic	5281	42.0	5281
-Iconic	5282	39.0	5282
-Iconic	5283	60.0	5283
-Iconic	5284	21.0	5284
-Iconic	5285	69.0	5285
-Iconic	5286	56.0	5286
-Iconic	5287	44.0	5287
-Iconic	5288	48.0	5288
-Iconic	5289	50.0	5289
-Iconic	5290	15.0	5290
-Iconic	5291	20.0	5291
-Iconic	5292	44.0	5292
-Iconic	5293	32.0	5293
-Iconic	5294	77.0	5294
-Iconic	5295	23.0	5295
-Iconic	5296	6.0	5296
-Iconic	5297	46.0	5297
-Iconic	5298	73.0	5298
-Iconic	5299	52.0	5299
-Iconic	5300	28.0	5300
-Iconic	5301	8.0	5301
-Iconic	5302	46.0	5302
-Iconic	5303	9.0	5303
-Iconic	5304	19.0	5304
-Iconic	5305	28.0	5305
-Iconic	5306	21.0	5306
-Iconic	5307	23.0	5307
-Iconic	5308	59.0	5308
-Iconic	5309	44.0	5309
-Iconic	5310	26.0	5310
-Iconic	5311	13.0	5311
-Iconic	5312	70.0	5312
-Iconic	5313	46.0	5313
-Iconic	5314	38.0	5314
-Iconic	5315	23.0	5315
-Iconic	5316	58.0	5316
-Iconic	5317	19.0	5317
-Iconic	5318	22.0	5318
-Iconic	5319	8.0	5319
-Iconic	5320	17.0	5320
-Iconic	5321	27.0	5321
-Iconic	5322	8.0	5322
-Iconic	5323	61.0	5323
-Iconic	5324	35.0	5324
-Iconic	5325	7.0	5325
-Iconic	5326	23.0	5326
-Iconic	5327	70.0	5327
-Iconic	5328	15.0	5328
-Iconic	5329	27.0	5329
-Iconic	5330	22.0	5330
-Iconic	5331	18.0	5331
-Iconic	5332	56.0	5332
-Iconic	5333	14.0	5333
-Iconic	5334	23.0	5334
-Iconic	5335	38.0	5335
-Iconic	5336	23.0	5336
-Iconic	5337	30.0	5337
-Iconic	5338	11.0	5338
-Iconic	5339	41.0	5339
-Iconic	5340	31.0	5340
-Iconic	5341	24.0	5341
-Iconic	5342	20.0	5342
-Iconic	5343	24.0	5343
-Iconic	5344	28.0	5344
-Iconic	5345	42.0	5345
-Iconic	5346	34.0	5346
-Iconic	5347	33.0	5347
-Iconic	5348	77.0	5348
-Iconic	5349	23.0	5349
-Iconic	5350	40.0	5350
-Iconic	5351	22.0	5351
-Iconic	5352	20.0	5352
-Iconic	5353	28.0	5353
-Iconic	5354	53.0	5354
-Iconic	5355	35.0	5355
-Iconic	5356	34.0	5356
-Iconic	5357	37.0	5357
-Iconic	5358	41.0	5358
-Iconic	5359	25.0	5359
-Iconic	5360	39.0	5360
-Iconic	5361	32.0	5361
-Iconic	5362	26.0	5362
-Iconic	5363	19.0	5363
-Iconic	5364	69.0	5364
-Iconic	5365	62.0	5365
-Iconic	5366	15.0	5366
-Iconic	5367	29.0	5367
-Iconic	5368	29.0	5368
-Iconic	5369	25.0	5369
-Iconic	5370	29.0	5370
-Iconic	5371	19.0	5371
-Iconic	5372	26.0	5372
-Iconic	5373	23.0	5373
-Iconic	5374	30.0	5374
-Iconic	5375	66.0	5375
-Iconic	5376	31.0	5376
-Iconic	5377	20.0	5377
-Iconic	5378	20.0	5378
-Iconic	5379	13.0	5379
-Iconic	5380	77.0	5380
-Iconic	5381	29.0	5381
-Iconic	5382	13.0	5382
-Iconic	5383	27.0	5383
-Iconic	5384	34.0	5384
-Iconic	5385	32.0	5385
-Iconic	5386	27.0	5386
-Iconic	5387	27.0	5387
-Iconic	5388	12.0	5388
-Iconic	5389	25.0	5389
-Iconic	5390	14.0	5390
-Iconic	5391	9.0	5391
-Iconic	5392	41.0	5392
-Iconic	5393	21.0	5393
-Iconic	5394	25.0	5394
-Iconic	5395	30.0	5395
-Iconic	5396	48.0	5396
-Iconic	5397	30.0	5397
-Iconic	5398	22.0	5398
-Iconic	5399	19.0	5399
-Iconic	5400	16.0	5400
-Iconic	5401	17.0	5401
-Iconic	5402	25.0	5402
-Iconic	5403	8.0	5403
-Iconic	5404	48.0	5404
-Iconic	5405	17.0	5405
-Iconic	5406	21.0	5406
-Iconic	5407	6.0	5407
-Iconic	5408	11.0	5408
-Iconic	5409	17.0	5409
-Iconic	5410	40.0	5410
-Iconic	5411	15.0	5411
-Iconic	5412	30.0	5412
-Iconic	5413	50.0	5413
-Iconic	5414	63.0	5414
-Iconic	5415	66.0	5415
-Iconic	5416	40.0	5416
-Iconic	5417	14.0	5417
-Iconic	5418	16.0	5418
-Iconic	5419	36.0	5419
-Iconic	5420	45.0	5420
-Iconic	5421	21.0	5421
-Iconic	5422	24.0	5422
-Iconic	5423	21.0	5423
-Iconic	5424	12.0	5424
-Iconic	5425	20.0	5425
-Iconic	5426	27.0	5426
-Iconic	5427	55.0	5427
-Iconic	5428	32.0	5428
-Iconic	5429	22.0	5429
-Iconic	5430	42.0	5430
-Iconic	5431	25.0	5431
-Iconic	5432	45.0	5432
-Iconic	5433	46.0	5433
-Iconic	5434	16.0	5434
-Iconic	5435	30.0	5435
-Iconic	5436	14.0	5436
-Iconic	5437	77.0	5437
-Iconic	5438	32.0	5438
-Iconic	5439	19.0	5439
-Iconic	5440	49.0	5440
-Iconic	5441	20.0	5441
-Iconic	5442	38.0	5442
-Iconic	5443	17.0	5443
-Iconic	5444	44.0	5444
-Iconic	5445	38.0	5445
-Iconic	5446	29.0	5446
-Iconic	5447	25.0	5447
-Iconic	5448	58.0	5448
-Iconic	5449	29.0	5449
-Iconic	5450	30.0	5450
-Iconic	5451	30.0	5451
-Iconic	5452	32.0	5452
-Iconic	5453	67.0	5453
-Iconic	5454	18.0	5454
-Iconic	5455	9.0	5455
-Iconic	5456	46.0	5456
-Iconic	5457	32.0	5457
-Iconic	5458	12.0	5458
-Iconic	5459	31.0	5459
-Iconic	5460	15.0	5460
-Iconic	5461	60.0	5461
-Iconic	5462	30.0	5462
-Iconic	5463	37.0	5463
-Iconic	5464	45.0	5464
-Iconic	5465	33.0	5465
-Iconic	5466	35.0	5466
-Iconic	5467	31.0	5467
-Iconic	5468	26.0	5468
-Iconic	5469	8.0	5469
-Iconic	5470	25.0	5470
-Iconic	5471	42.0	5471
-Iconic	5472	29.0	5472
-Iconic	5473	14.0	5473
-Iconic	5474	19.0	5474
-Iconic	5475	26.0	5475
-Iconic	5476	46.0	5476
-Iconic	5477	23.0	5477
-Iconic	5478	59.0	5478
-Iconic	5479	14.0	5479
-Iconic	5480	58.0	5480
-Iconic	5481	30.0	5481
-Iconic	5482	77.0	5482
-Iconic	5483	41.0	5483
-Iconic	5484	4.0	5484
-Iconic	5485	25.0	5485
-Iconic	5486	34.0	5486
-Iconic	5487	32.0	5487
-Iconic	5488	49.0	5488
-Iconic	5489	30.0	5489
-Iconic	5490	37.0	5490
-Iconic	5491	23.0	5491
-Iconic	5492	48.0	5492
-Iconic	5493	27.0	5493
-Iconic	5494	12.0	5494
-Iconic	5495	43.0	5495
-Iconic	5496	14.0	5496
-Iconic	5497	46.0	5497
-Iconic	5498	52.0	5498
-Iconic	5499	24.0	5499
-Iconic	5500	33.0	5500
-Iconic	5501	22.0	5501
-Iconic	5502	38.0	5502
-Iconic	5503	46.0	5503
-Iconic	5504	14.0	5504
-Iconic	5505	17.0	5505
-Iconic	5506	26.0	5506
-Iconic	5507	35.0	5507
-Iconic	5508	32.0	5508
-Iconic	5509	47.0	5509
-Iconic	5510	36.0	5510
-Iconic	5511	39.0	5511
-Iconic	5512	19.0	5512
-Iconic	5513	55.0	5513
-Iconic	5514	28.0	5514
-Iconic	5515	38.0	5515
-Iconic	5516	22.0	5516
-Iconic	5517	29.0	5517
-Iconic	5518	22.0	5518
-Iconic	5519	45.0	5519
-Iconic	5520	15.0	5520
-Iconic	5521	62.0	5521
-Iconic	5522	25.0	5522
-Iconic	5523	37.0	5523
-Iconic	5524	42.0	5524
-Iconic	5525	68.0	5525
-Iconic	5526	44.0	5526
-Iconic	5527	15.0	5527
-Iconic	5528	20.0	5528
-Iconic	5529	22.0	5529
-Iconic	5530	32.0	5530
-Iconic	5531	71.0	5531
-Iconic	5532	68.0	5532
-Iconic	5533	54.0	5533
-Iconic	5534	37.0	5534
-Iconic	5535	22.0	5535
-Iconic	5536	30.0	5536
-Iconic	5537	42.0	5537
-Iconic	5538	34.0	5538
-Iconic	5539	28.0	5539
-Iconic	5540	26.0	5540
-Iconic	5541	34.0	5541
-Iconic	5542	101.0	5542
-Iconic	5543	23.0	5543
-Iconic	5544	29.0	5544
-Iconic	5545	18.0	5545
-Iconic	5546	42.0	5546
-Iconic	5547	21.0	5547
-Iconic	5548	69.0	5548
-Iconic	5549	33.0	5549
-Iconic	5550	20.0	5550
-Iconic	5551	22.0	5551
-Iconic	5552	28.0	5552
-Iconic	5553	28.0	5553
-Iconic	5554	50.0	5554
-Iconic	5555	14.0	5555
-Iconic	5556	33.0	5556
-Iconic	5557	15.0	5557
-Iconic	5558	17.0	5558
-Iconic	5559	34.0	5559
-Iconic	5560	45.0	5560
-Iconic	5561	37.0	5561
-Iconic	5562	26.0	5562
-Iconic	5563	15.0	5563
-Iconic	5564	74.0	5564
-Iconic	5565	17.0	5565
-Iconic	5566	31.0	5566
-Iconic	5567	14.0	5567
-Iconic	5568	13.0	5568
-Iconic	5569	28.0	5569
-Iconic	5570	58.0	5570
-Iconic	5571	33.0	5571
-Iconic	5572	14.0	5572
-Iconic	5573	20.0	5573
-Iconic	5574	32.0	5574
-Iconic	5575	42.0	5575
-Iconic	5576	62.0	5576
-Iconic	5577	36.0	5577
-Iconic	5578	32.0	5578
-Iconic	5579	55.0	5579
-Iconic	5580	34.0	5580
-Iconic	5581	25.0	5581
-Iconic	5582	22.0	5582
-Iconic	5583	66.0	5583
-Iconic	5584	26.0	5584
-Iconic	5585	14.0	5585
-Iconic	5586	65.0	5586
-Iconic	5587	24.0	5587
-Iconic	5588	5.0	5588
-Iconic	5589	33.0	5589
-Iconic	5590	34.0	5590
-Iconic	5591	45.0	5591
-Iconic	5592	32.0	5592
-Iconic	5593	14.0	5593
-Iconic	5594	28.0	5594
-Iconic	5595	33.0	5595
-Iconic	5596	46.0	5596
-Iconic	5597	21.0	5597
-Iconic	5598	13.0	5598
-Iconic	5599	5.0	5599
-Iconic	5600	50.0	5600
-Iconic	5601	59.0	5601
-Iconic	5602	41.0	5602
-Iconic	5603	42.0	5603
-Iconic	5604	15.0	5604
-Iconic	5605	79.0	5605
-Iconic	5606	77.0	5606
-Iconic	5607	33.0	5607
-Iconic	5608	28.0	5608
-Iconic	5609	24.0	5609
-Iconic	5610	57.0	5610
-Iconic	5611	19.0	5611
-Iconic	5612	19.0	5612
-Iconic	5613	25.0	5613
-Iconic	5614	43.0	5614
-Iconic	5615	37.0	5615
-Iconic	5616	21.0	5616
-Iconic	5617	35.0	5617
-Iconic	5618	35.0	5618
-Iconic	5619	51.0	5619
-Iconic	5620	13.0	5620
-Iconic	5621	15.0	5621
-Iconic	5622	64.0	5622
-Iconic	5623	22.0	5623
-Iconic	5624	60.0	5624
-Iconic	5625	36.0	5625
-Iconic	5626	58.0	5626
-Iconic	5627	52.0	5627
-Iconic	5628	22.0	5628
-Iconic	5629	16.0	5629
-Iconic	5630	35.0	5630
-Iconic	5631	18.0	5631
-Iconic	5632	27.0	5632
-Iconic	5633	59.0	5633
-Iconic	5634	18.0	5634
-Iconic	5635	33.0	5635
-Iconic	5636	11.0	5636
-Iconic	5637	24.0	5637
-Iconic	5638	28.0	5638
-Iconic	5639	5.0	5639
-Iconic	5640	17.0	5640
-Iconic	5641	43.0	5641
-Iconic	5642	28.0	5642
-Iconic	5643	23.0	5643
-Iconic	5644	46.0	5644
-Iconic	5645	56.0	5645
-Iconic	5646	49.0	5646
-Iconic	5647	15.0	5647
-Iconic	5648	21.0	5648
-Iconic	5649	31.0	5649
-Iconic	5650	50.0	5650
-Iconic	5651	50.0	5651
-Iconic	5652	51.0	5652
-Iconic	5653	24.0	5653
-Iconic	5654	23.0	5654
-Iconic	5655	24.0	5655
-Iconic	5656	23.0	5656
-Iconic	5657	31.0	5657
-Iconic	5658	20.0	5658
-Iconic	5659	15.0	5659
-Iconic	5660	48.0	5660
-Iconic	5661	31.0	5661
-Iconic	5662	6.0	5662
-Iconic	5663	47.0	5663
-Iconic	5664	14.0	5664
-Iconic	5665	46.0	5665
-Iconic	5666	40.0	5666
-Iconic	5667	31.0	5667
-Iconic	5668	18.0	5668
-Iconic	5669	25.0	5669
-Iconic	5670	41.0	5670
-Iconic	5671	33.0	5671
-Iconic	5672	22.0	5672
-Iconic	5673	49.0	5673
-Iconic	5674	29.0	5674
-Iconic	5675	22.0	5675
-Iconic	5676	28.0	5676
-Iconic	5677	61.0	5677
-Iconic	5678	33.0	5678
-Iconic	5679	56.0	5679
-Iconic	5680	28.0	5680
-Iconic	5681	19.0	5681
-Iconic	5682	41.0	5682
-Iconic	5683	59.0	5683
-Iconic	5684	28.0	5684
-Iconic	5685	73.0	5685
-Iconic	5686	44.0	5686
-Iconic	5687	28.0	5687
-Iconic	5688	15.0	5688
-Iconic	5689	31.0	5689
-Iconic	5690	45.0	5690
-Iconic	5691	27.0	5691
-Iconic	5692	26.0	5692
-Iconic	5693	13.0	5693
-Iconic	5694	12.0	5694
-Iconic	5695	22.0	5695
-Iconic	5696	11.0	5696
-Iconic	5697	14.0	5697
-Iconic	5698	22.0	5698
-Iconic	5699	28.0	5699
-Iconic	5700	26.0	5700
-Iconic	5701	13.0	5701
-Iconic	5702	36.0	5702
-Iconic	5703	26.0	5703
-Iconic	5704	20.0	5704
-Iconic	5705	28.0	5705
-Iconic	5706	27.0	5706
-Iconic	5707	56.0	5707
-Iconic	5708	18.0	5708
-Iconic	5709	49.0	5709
-Iconic	5710	40.0	5710
-Iconic	5711	26.0	5711
-Iconic	5712	44.0	5712
-Iconic	5713	29.0	5713
-Iconic	5714	68.0	5714
-Iconic	5715	46.0	5715
-Iconic	5716	5.0	5716
-Iconic	5717	22.0	5717
-Iconic	5718	21.0	5718
-Iconic	5719	26.0	5719
-Iconic	5720	62.0	5720
-Iconic	5721	32.0	5721
-Iconic	5722	31.0	5722
-Iconic	5723	67.0	5723
-Iconic	5724	25.0	5724
-Iconic	5725	67.0	5725
-Iconic	5726	22.0	5726
-Iconic	5727	18.0	5727
-Iconic	5728	11.0	5728
-Iconic	5729	38.0	5729
-Iconic	5730	20.0	5730
-Iconic	5731	42.0	5731
-Iconic	5732	52.0	5732
-Iconic	5733	16.0	5733
-Iconic	5734	29.0	5734
-Iconic	5735	40.0	5735
-Iconic	5736	36.0	5736
-Iconic	5737	17.0	5737
-Iconic	5738	41.0	5738
-Iconic	5739	21.0	5739
-Iconic	5740	26.0	5740
-Iconic	5741	22.0	5741
-Iconic	5742	50.0	5742
-Iconic	5743	36.0	5743
-Iconic	5744	31.0	5744
-Iconic	5745	70.0	5745
-Iconic	5746	37.0	5746
-Iconic	5747	43.0	5747
-Iconic	5748	4.0	5748
-Iconic	5749	16.0	5749
-Iconic	5750	16.0	5750
-Iconic	5751	26.0	5751
-Iconic	5752	16.0	5752
-Iconic	5753	24.0	5753
-Iconic	5754	39.0	5754
-Iconic	5755	19.0	5755
-Iconic	5756	21.0	5756
-Iconic	5757	16.0	5757
-Iconic	5758	38.0	5758
-Iconic	5759	18.0	5759
-Iconic	5760	35.0	5760
-Iconic	5761	11.0	5761
-Iconic	5762	14.0	5762
-Iconic	5763	52.0	5763
-Iconic	5764	46.0	5764
-Iconic	5765	31.0	5765
-Iconic	5766	18.0	5766
-Iconic	5767	34.0	5767
-Iconic	5768	36.0	5768
-Iconic	5769	19.0	5769
-Iconic	5770	25.0	5770
-Iconic	5771	13.0	5771
-Iconic	5772	26.0	5772
-Iconic	5773	43.0	5773
-Iconic	5774	32.0	5774
-Iconic	5775	24.0	5775
-Iconic	5776	11.0	5776
-Iconic	5777	29.0	5777
-Iconic	5778	23.0	5778
-Iconic	5779	39.0	5779
-Iconic	5780	42.0	5780
-Iconic	5781	23.0	5781
-Iconic	5782	40.0	5782
-Iconic	5783	32.0	5783
-Iconic	5784	43.0	5784
-Iconic	5785	25.0	5785
-Iconic	5786	12.0	5786
-Iconic	5787	13.0	5787
-Iconic	5788	28.0	5788
-Iconic	5789	37.0	5789
-Iconic	5790	19.0	5790
-Iconic	5791	57.0	5791
-Iconic	5792	22.0	5792
-Iconic	5793	63.0	5793
-Iconic	5794	37.0	5794
-Iconic	5795	28.0	5795
-Iconic	5796	57.0	5796
-Iconic	5797	63.0	5797
-Iconic	5798	23.0	5798
-Iconic	5799	26.0	5799
-Iconic	5800	22.0	5800
-Iconic	5801	33.0	5801
-Iconic	5802	25.0	5802
-Iconic	5803	37.0	5803
-Iconic	5804	69.0	5804
-Iconic	5805	15.0	5805
-Iconic	5806	17.0	5806
-Iconic	5807	23.0	5807
-Iconic	5808	28.0	5808
-Iconic	5809	42.0	5809
-Iconic	5810	47.0	5810
-Iconic	5811	33.0	5811
-Iconic	5812	22.0	5812
-Iconic	5813	8.0	5813
-Iconic	5814	11.0	5814
-Iconic	5815	27.0	5815
-Iconic	5816	29.0	5816
-Iconic	5817	6.0	5817
-Iconic	5818	31.0	5818
-Iconic	5819	15.0	5819
-Iconic	5820	25.0	5820
-Iconic	5821	17.0	5821
-Iconic	5822	24.0	5822
-Iconic	5823	30.0	5823
-Iconic	5824	25.0	5824
-Iconic	5825	38.0	5825
-Iconic	5826	40.0	5826
-Iconic	5827	26.0	5827
-Iconic	5828	41.0	5828
-Iconic	5829	17.0	5829
-Iconic	5830	47.0	5830
-Iconic	5831	14.0	5831
-Iconic	5832	18.0	5832
-Iconic	5833	14.0	5833
-Iconic	5834	54.0	5834
-Iconic	5835	18.0	5835
-Iconic	5836	35.0	5836
-Iconic	5837	44.0	5837
-Iconic	5838	35.0	5838
-Iconic	5839	35.0	5839
-Iconic	5840	46.0	5840
-Iconic	5841	55.0	5841
-Iconic	5842	49.0	5842
-Iconic	5843	14.0	5843
-Iconic	5844	44.0	5844
-Iconic	5845	28.0	5845
-Iconic	5846	43.0	5846
-Iconic	5847	44.0	5847
-Iconic	5848	45.0	5848
-Iconic	5849	23.0	5849
-Iconic	5850	20.0	5850
-Iconic	5851	18.0	5851
-Iconic	5852	13.0	5852
-Iconic	5853	24.0	5853
-Iconic	5854	15.0	5854
-Iconic	5855	43.0	5855
-Iconic	5856	12.0	5856
-Iconic	5857	21.0	5857
-Iconic	5858	15.0	5858
-Iconic	5859	55.0	5859
-Iconic	5860	23.0	5860
-Iconic	5861	21.0	5861
-Iconic	5862	27.0	5862
-Iconic	5863	32.0	5863
-Iconic	5864	66.0	5864
-Iconic	5865	27.0	5865
-Iconic	5866	20.0	5866
-Iconic	5867	31.0	5867
-Iconic	5868	22.0	5868
-Iconic	5869	15.0	5869
-Iconic	5870	38.0	5870
-Iconic	5871	47.0	5871
-Iconic	5872	39.0	5872
-Iconic	5873	26.0	5873
-Iconic	5874	69.0	5874
-Iconic	5875	19.0	5875
-Iconic	5876	42.0	5876
-Iconic	5877	34.0	5877
-Iconic	5878	23.0	5878
-Iconic	5879	33.0	5879
-Iconic	5880	31.0	5880
-Iconic	5881	12.0	5881
-Iconic	5882	26.0	5882
-Iconic	5883	30.0	5883
-Iconic	5884	22.0	5884
-Iconic	5885	36.0	5885
-Iconic	5886	31.0	5886
-Iconic	5887	30.0	5887
-Iconic	5888	24.0	5888
-Iconic	5889	42.0	5889
-Iconic	5890	23.0	5890
-Iconic	5891	14.0	5891
-Iconic	5892	22.0	5892
-Iconic	5893	41.0	5893
-Iconic	5894	30.0	5894
-Iconic	5895	30.0	5895
-Iconic	5896	47.0	5896
-Iconic	5897	59.0	5897
-Iconic	5898	25.0	5898
-Iconic	5899	32.0	5899
-Iconic	5900	37.0	5900
-Iconic	5901	33.0	5901
-Iconic	5902	47.0	5902
-Iconic	5903	14.0	5903
-Iconic	5904	46.0	5904
-Iconic	5905	82.0	5905
-Iconic	5906	40.0	5906
-Iconic	5907	19.0	5907
-Iconic	5908	19.0	5908
-Iconic	5909	28.0	5909
-Iconic	5910	30.0	5910
-Iconic	5911	18.0	5911
-Iconic	5912	34.0	5912
-Iconic	5913	25.0	5913
-Iconic	5914	28.0	5914
-Iconic	5915	46.0	5915
-Iconic	5916	21.0	5916
-Iconic	5917	47.0	5917
-Iconic	5918	58.0	5918
-Iconic	5919	37.0	5919
-Iconic	5920	19.0	5920
-Iconic	5921	11.0	5921
-Iconic	5922	38.0	5922
-Iconic	5923	67.0	5923
-Iconic	5924	36.0	5924
-Iconic	5925	24.0	5925
-Iconic	5926	21.0	5926
-Iconic	5927	27.0	5927
-Iconic	5928	72.0	5928
-Iconic	5929	79.0	5929
-Iconic	5930	45.0	5930
-Iconic	5931	23.0	5931
-Iconic	5932	27.0	5932
-Iconic	5933	53.0	5933
-Iconic	5934	15.0	5934
-Iconic	5935	22.0	5935
-Iconic	5936	32.0	5936
-Iconic	5937	16.0	5937
-Iconic	5938	49.0	5938
-Iconic	5939	18.0	5939
-Iconic	5940	37.0	5940
-Iconic	5941	37.0	5941
-Iconic	5942	23.0	5942
-Iconic	5943	49.0	5943
-Iconic	5944	29.0	5944
-Iconic	5945	41.0	5945
-Iconic	5946	28.0	5946
-Iconic	5947	20.0	5947
-Iconic	5948	58.0	5948
-Iconic	5949	77.0	5949
-Iconic	5950	27.0	5950
-Iconic	5951	31.0	5951
-Iconic	5952	18.0	5952
-Iconic	5953	21.0	5953
-Iconic	5954	15.0	5954
-Iconic	5955	13.0	5955
-Iconic	5956	48.0	5956
-Iconic	5957	26.0	5957
-Iconic	5958	19.0	5958
-Iconic	5959	33.0	5959
-Iconic	5960	15.0	5960
-Iconic	5961	42.0	5961
-Iconic	5962	30.0	5962
-Iconic	5963	20.0	5963
-Iconic	5964	56.0	5964
-Iconic	5965	17.0	5965
-Iconic	5966	13.0	5966
-Iconic	5967	33.0	5967
-Iconic	5968	30.0	5968
-Iconic	5969	17.0	5969
-Iconic	5970	31.0	5970
-Iconic	5971	28.0	5971
-Iconic	5972	40.0	5972
-Iconic	5973	16.0	5973
-Iconic	5974	24.0	5974
-Iconic	5975	21.0	5975
-Iconic	5976	55.0	5976
-Iconic	5977	47.0	5977
-Iconic	5978	37.0	5978
-Iconic	5979	33.0	5979
-Iconic	5980	15.0	5980
-Iconic	5981	19.0	5981
-Iconic	5982	28.0	5982
-Iconic	5983	35.0	5983
-Iconic	5984	52.0	5984
-Iconic	5985	29.0	5985
-Iconic	5986	23.0	5986
-Iconic	5987	45.0	5987
-Iconic	5988	29.0	5988
-Iconic	5989	43.0	5989
-Iconic	5990	58.0	5990
-Iconic	5991	37.0	5991
-Iconic	5992	38.0	5992
-Iconic	5993	36.0	5993
-Iconic	5994	19.0	5994
-Iconic	5995	29.0	5995
-Iconic	5996	34.0	5996
-Iconic	5997	40.0	5997
-Iconic	5998	50.0	5998
-Iconic	5999	29.0	5999
-Iconic	6000	34.0	6000
-Iconic	6001	48.0	6001
-Iconic	6002	28.0	6002
-Iconic	6003	16.0	6003
-Iconic	6004	34.0	6004
-Iconic	6005	37.0	6005
-Iconic	6006	27.0	6006
-Iconic	6007	26.0	6007
-Iconic	6008	33.0	6008
-Iconic	6009	20.0	6009
-Iconic	6010	37.0	6010
-Iconic	6011	46.0	6011
-Iconic	6012	77.0	6012
-Iconic	6013	43.0	6013
-Iconic	6014	25.0	6014
-Iconic	6015	34.0	6015
-Iconic	6016	23.0	6016
-Iconic	6017	23.0	6017
-Iconic	6018	24.0	6018
-Iconic	6019	40.0	6019
-Iconic	6020	45.0	6020
-Iconic	6021	36.0	6021
-Iconic	6022	78.0	6022
-Iconic	6023	16.0	6023
-Iconic	6024	50.0	6024
-Iconic	6025	33.0	6025
-Iconic	6026	25.0	6026
-Iconic	6027	15.0	6027
-Iconic	6028	62.0	6028
-Iconic	6029	35.0	6029
-Iconic	6030	26.0	6030
-Iconic	6031	11.0	6031
-Iconic	6032	81.0	6032
-Iconic	6033	30.0	6033
-Iconic	6034	8.0	6034
-Iconic	6035	8.0	6035
-Iconic	6036	24.0	6036
-Iconic	6037	33.0	6037
-Iconic	6038	11.0	6038
-Iconic	6039	35.0	6039
-Iconic	6040	45.0	6040
-Iconic	6041	8.0	6041
-Iconic	6042	23.0	6042
-Iconic	6043	20.0	6043
-Iconic	6044	20.0	6044
-Iconic	6045	41.0	6045
-Iconic	6046	32.0	6046
-Iconic	6047	70.0	6047
-Iconic	6048	24.0	6048
-Iconic	6049	17.0	6049
-Iconic	6050	13.0	6050
-Iconic	6051	35.0	6051
-Iconic	6052	45.0	6052
-Iconic	6053	34.0	6053
-Iconic	6054	40.0	6054
-Iconic	6055	59.0	6055
-Iconic	6056	45.0	6056
-Iconic	6057	23.0	6057
-Iconic	6058	51.0	6058
-Iconic	6059	15.0	6059
-Iconic	6060	27.0	6060
-Iconic	6061	18.0	6061
-Iconic	6062	25.0	6062
-Iconic	6063	54.0	6063
-Iconic	6064	18.0	6064
-Iconic	6065	54.0	6065
-Iconic	6066	28.0	6066
-Iconic	6067	23.0	6067
-Iconic	6068	48.0	6068
-Iconic	6069	27.0	6069
-Iconic	6070	18.0	6070
-Iconic	6071	57.0	6071
-Iconic	6072	30.0	6072
-Iconic	6073	19.0	6073
-Iconic	6074	53.0	6074
-Iconic	6075	24.0	6075
-Iconic	6076	23.0	6076
-Iconic	6077	9.0	6077
-Iconic	6078	61.0	6078
-Iconic	6079	41.0	6079
-Iconic	6080	25.0	6080
-Iconic	6081	42.0	6081
-Iconic	6082	19.0	6082
-Iconic	6083	20.0	6083
-Iconic	6084	33.0	6084
-Iconic	6085	46.0	6085
-Iconic	6086	37.0	6086
-Iconic	6087	21.0	6087
-Iconic	6088	32.0	6088
-Iconic	6089	21.0	6089
-Iconic	6090	30.0	6090
-Iconic	6091	43.0	6091
-Iconic	6092	60.0	6092
-Iconic	6093	23.0	6093
-Iconic	6094	28.0	6094
-Iconic	6095	34.0	6095
-Iconic	6096	25.0	6096
-Iconic	6097	23.0	6097
-Iconic	6098	44.0	6098
-Iconic	6099	38.0	6099
-Iconic	6100	30.0	6100
-Iconic	6101	21.0	6101
-Iconic	6102	43.0	6102
-Iconic	6103	19.0	6103
-Iconic	6104	37.0	6104
-Iconic	6105	29.0	6105
-Iconic	6106	12.0	6106
-Iconic	6107	20.0	6107
-Iconic	6108	13.0	6108
-Iconic	6109	17.0	6109
-Iconic	6110	42.0	6110
-Iconic	6111	65.0	6111
-Iconic	6112	46.0	6112
-Iconic	6113	46.0	6113
-Iconic	6114	25.0	6114
-Iconic	6115	36.0	6115
-Iconic	6116	22.0	6116
-Iconic	6117	40.0	6117
-Iconic	6118	43.0	6118
-Iconic	6119	24.0	6119
-Iconic	6120	18.0	6120
-Iconic	6121	21.0	6121
-Iconic	6122	33.0	6122
-Iconic	6123	27.0	6123
-Iconic	6124	10.0	6124
-Iconic	6125	27.0	6125
-Iconic	6126	22.0	6126
-Iconic	6127	51.0	6127
-Iconic	6128	56.0	6128
-Iconic	6129	32.0	6129
-Iconic	6130	33.0	6130
-Iconic	6131	33.0	6131
-Iconic	6132	12.0	6132
-Iconic	6133	21.0	6133
-Iconic	6134	45.0	6134
-Iconic	6135	45.0	6135
-Iconic	6136	64.0	6136
-Iconic	6137	14.0	6137
-Iconic	6138	30.0	6138
-Iconic	6139	50.0	6139
-Iconic	6140	54.0	6140
-Iconic	6141	18.0	6141
+17.0
+34.0
+69.0
+19.0
+37.0
+42.0
+29.0
+58.0
+20.0
+34.0
+20.0
+24.0
+27.0
+25.0
+10.0
+14.0
+22.0
+24.0
+29.0
+44.0
+19.0
+27.0
+45.0
+26.0
+44.0
+17.0
+63.0
+27.0
+42.0
+47.0
+17.0
+27.0
+21.0
+58.0
+42.0
+19.0
+19.0
+9.0
+30.0
+27.0
+10.0
+10.0
+36.0
+12.0
+22.0
+15.0
+42.0
+56.0
+40.0
+24.0
+35.0
+44.0
+20.0
+28.0
+18.0
+30.0
+36.0
+18.0
+18.0
+14.0
+48.0
+30.0
+18.0
+26.0
+11.0
+19.0
+50.0
+36.0
+30.0
+13.0
+16.0
+20.0
+8.0
+23.0
+70.0
+19.0
+12.0
+47.0
+54.0
+17.0
+31.0
+24.0
+31.0
+10.0
+24.0
+31.0
+23.0
+17.0
+27.0
+21.0
+37.0
+52.0
+30.0
+61.0
+35.0
+29.0
+25.0
+25.0
+46.0
+35.0
+20.0
+61.0
+42.0
+58.0
+27.0
+32.0
+28.0
+56.0
+47.0
+12.0
+59.0
+31.0
+26.0
+18.0
+45.0
+12.0
+38.0
+50.0
+12.0
+24.0
+24.0
+14.0
+45.0
+28.0
+27.0
+8.0
+66.0
+15.0
+19.0
+26.0
+57.0
+27.0
+57.0
+54.0
+20.0
+16.0
+15.0
+11.0
+28.0
+44.0
+28.0
+35.0
+50.0
+20.0
+15.0
+47.0
+19.0
+20.0
+18.0
+20.0
+48.0
+63.0
+28.0
+15.0
+21.0
+30.0
+51.0
+29.0
+15.0
+18.0
+34.0
+13.0
+12.0
+53.0
+28.0
+11.0
+25.0
+63.0
+72.0
+23.0
+40.0
+30.0
+15.0
+25.0
+4.0
+24.0
+17.0
+5.0
+10.0
+6.0
+3.0
+6.0
+3.0
+3.0
+12.0
+9.0
+8.0
+8.0
+17.0
+13.0
+12.0
+12.0
+4.0
+4.0
+8.0
+9.0
+12.0
+11.0
+12.0
+11.0
+19.0
+10.0
+8.0
+17.0
+5.0
+5.0
+6.0
+2.0
+12.0
+15.0
+10.0
+11.0
+8.0
+5.0
+13.0
+9.0
+7.0
+11.0
+11.0
+3.0
+8.0
+2.0
+14.0
+5.0
+9.0
+4.0
+3.0
+5.0
+5.0
+19.0
+5.0
+12.0
+5.0
+3.0
+9.0
+8.0
+10.0
+9.0
+8.0
+7.0
+3.0
+10.0
+2.0
+2.0
+2.0
+9.0
+6.0
+21.0
+11.0
+6.0
+10.0
+14.0
+4.0
+7.0
+7.0
+11.0
+11.0
+7.0
+8.0
+6.0
+8.0
+12.0
+3.0
+15.0
+4.0
+4.0
+5.0
+7.0
+8.0
+15.0
+6.0
+9.0
+55.0
+38.0
+70.0
+41.0
+11.0
+21.0
+69.0
+13.0
+55.0
+45.0
+16.0
+13.0
+8.0
+16.0
+29.0
+42.0
+28.0
+14.0
+43.0
+34.0
+15.0
+14.0
+22.0
+8.0
+64.0
+78.0
+62.0
+51.0
+25.0
+64.0
+44.0
+14.0
+67.0
+26.0
+19.0
+43.0
+34.0
+64.0
+40.0
+38.0
+53.0
+16.0
+58.0
+9.0
+41.0
+14.0
+39.0
+19.0
+44.0
+18.0
+58.0
+62.0
+37.0
+20.0
+31.0
+23.0
+33.0
+28.0
+16.0
+34.0
+62.0
+19.0
+68.0
+23.0
+20.0
+21.0
+22.0
+23.0
+22.0
+23.0
+38.0
+50.0
+48.0
+29.0
+12.0
+45.0
+21.0
+34.0
+46.0
+20.0
+48.0
+16.0
+24.0
+26.0
+46.0
+29.0
+15.0
+17.0
+24.0
+22.0
+26.0
+18.0
+16.0
+33.0
+30.0
+26.0
+57.0
+41.0
+34.0
+21.0
+51.0
+50.0
+13.0
+42.0
+53.0
+69.0
+30.0
+40.0
+43.0
+58.0
+12.0
+28.0
+33.0
+12.0
+24.0
+39.0
+56.0
+34.0
+24.0
+33.0
+52.0
+71.0
+17.0
+28.0
+53.0
+35.0
+42.0
+20.0
+39.0
+12.0
+44.0
+16.0
+54.0
+18.0
+21.0
+6.0
+12.0
+11.0
+5.0
+6.0
+6.0
+3.0
+3.0
+14.0
+11.0
+11.0
+3.0
+7.0
+4.0
+10.0
+9.0
+3.0
+11.0
+6.0
+5.0
+2.0
+5.0
+5.0
+10.0
+5.0
+15.0
+9.0
+2.0
+6.0
+13.0
+12.0
+15.0
+9.0
+6.0
+4.0
+8.0
+14.0
+13.0
+3.0
+4.0
+4.0
+7.0
+3.0
+8.0
+5.0
+8.0
+6.0
+6.0
+10.0
+9.0
+9.0
+4.0
+14.0
+8.0
+15.0
+11.0
+11.0
+13.0
+6.0
+13.0
+8.0
+7.0
+15.0
+6.0
+4.0
+4.0
+13.0
+3.0
+12.0
+13.0
+7.0
+13.0
+6.0
+15.0
+7.0
+6.0
+7.0
+3.0
+8.0
+10.0
+5.0
+2.0
+9.0
+6.0
+11.0
+11.0
+7.0
+13.0
+3.0
+6.0
+74.0
+43.0
+38.0
+51.0
+30.0
+23.0
+28.0
+33.0
+32.0
+32.0
+11.0
+43.0
+33.0
+14.0
+22.0
+23.0
+48.0
+39.0
+69.0
+34.0
+60.0
+49.0
+53.0
+66.0
+57.0
+67.0
+14.0
+47.0
+18.0
+37.0
+16.0
+20.0
+56.0
+32.0
+36.0
+24.0
+31.0
+23.0
+17.0
+23.0
+43.0
+38.0
+45.0
+52.0
+17.0
+24.0
+26.0
+31.0
+55.0
+11.0
+16.0
+29.0
+35.0
+42.0
+34.0
+13.0
+44.0
+54.0
+40.0
+24.0
+37.0
+32.0
+23.0
+40.0
+72.0
+18.0
+51.0
+31.0
+16.0
+37.0
+18.0
+66.0
+19.0
+48.0
+18.0
+10.0
+20.0
+35.0
+61.0
+78.0
+67.0
+46.0
+20.0
+39.0
+50.0
+71.0
+19.0
+33.0
+20.0
+73.0
+13.0
+26.0
+53.0
+65.0
+32.0
+71.0
+24.0
+43.0
+35.0
+40.0
+46.0
+39.0
+43.0
+16.0
+35.0
+26.0
+37.0
+59.0
+57.0
+34.0
+33.0
+25.0
+64.0
+55.0
+12.0
+12.0
+19.0
+15.0
+53.0
+62.0
+19.0
+43.0
+24.0
+28.0
+32.0
+15.0
+33.0
+32.0
+43.0
+17.0
+49.0
+40.0
+33.0
+28.0
+50.0
+67.0
+23.0
+20.0
+39.0
+29.0
+50.0
+57.0
+34.0
+19.0
+18.0
+21.0
+34.0
+61.0
+60.0
+15.0
+20.0
+48.0
+73.0
+15.0
+17.0
+10.0
+37.0
+60.0
+69.0
+58.0
+10.0
+61.0
+49.0
+29.0
+29.0
+27.0
+52.0
+38.0
+56.0
+61.0
+24.0
+15.0
+30.0
+38.0
+12.0
+36.0
+28.0
+35.0
+27.0
+42.0
+40.0
+8.0
+7.0
+7.0
+9.0
+8.0
+7.0
+8.0
+4.0
+8.0
+26.0
+16.0
+14.0
+12.0
+9.0
+12.0
+3.0
+10.0
+7.0
+13.0
+12.0
+19.0
+16.0
+12.0
+21.0
+13.0
+13.0
+8.0
+9.0
+15.0
+8.0
+11.0
+12.0
+8.0
+11.0
+2.0
+9.0
+12.0
+10.0
+13.0
+18.0
+12.0
+17.0
+5.0
+10.0
+11.0
+5.0
+9.0
+10.0
+10.0
+8.0
+6.0
+5.0
+9.0
+18.0
+9.0
+10.0
+36.0
+8.0
+8.0
+15.0
+15.0
+2.0
+7.0
+7.0
+4.0
+14.0
+11.0
+9.0
+10.0
+10.0
+12.0
+2.0
+9.0
+20.0
+6.0
+5.0
+16.0
+18.0
+12.0
+16.0
+14.0
+5.0
+5.0
+9.0
+13.0
+13.0
+8.0
+12.0
+8.0
+8.0
+12.0
+5.0
+10.0
+12.0
+5.0
+12.0
+6.0
+11.0
+11.0
+9.0
+5.0
+7.0
+9.0
+5.0
+11.0
+44.0
+55.0
+43.0
+36.0
+13.0
+21.0
+49.0
+17.0
+20.0
+55.0
+39.0
+5.0
+11.0
+5.0
+11.0
+12.0
+14.0
+7.0
+13.0
+13.0
+25.0
+29.0
+59.0
+39.0
+40.0
+42.0
+52.0
+43.0
+48.0
+21.0
+3.0
+6.0
+12.0
+2.0
+4.0
+14.0
+6.0
+22.0
+5.0
+7.0
+6.0
+10.0
+4.0
+10.0
+2.0
+6.0
+6.0
+12.0
+2.0
+11.0
+7.0
+26.0
+18.0
+39.0
+41.0
+39.0
+45.0
+50.0
+65.0
+25.0
+23.0
+30.0
+55.0
+25.0
+13.0
+19.0
+48.0
+35.0
+43.0
+30.0
+67.0
+34.0
+42.0
+22.0
+56.0
+12.0
+62.0
+39.0
+18.0
+20.0
+26.0
+13.0
+18.0
+26.0
+59.0
+23.0
+76.0
+39.0
+26.0
+51.0
+24.0
+29.0
+30.0
+46.0
+36.0
+68.0
+38.0
+62.0
+30.0
+17.0
+52.0
+44.0
+58.0
+31.0
+37.0
+12.0
+27.0
+50.0
+35.0
+55.0
+43.0
+75.0
+25.0
+20.0
+22.0
+19.0
+20.0
+7.0
+4.0
+7.0
+5.0
+2.0
+8.0
+8.0
+4.0
+3.0
+7.0
+8.0
+5.0
+7.0
+7.0
+5.0
+5.0
+9.0
+9.0
+2.0
+6.0
+11.0
+7.0
+12.0
+8.0
+12.0
+6.0
+7.0
+6.0
+3.0
+2.0
+8.0
+4.0
+12.0
+6.0
+9.0
+6.0
+15.0
+11.0
+8.0
+5.0
+4.0
+11.0
+10.0
+8.0
+9.0
+11.0
+4.0
+3.0
+7.0
+5.0
+7.0
+3.0
+9.0
+11.0
+5.0
+9.0
+8.0
+6.0
+13.0
+5.0
+4.0
+3.0
+8.0
+3.0
+31.0
+42.0
+22.0
+48.0
+48.0
+28.0
+51.0
+64.0
+57.0
+13.0
+69.0
+18.0
+53.0
+29.0
+20.0
+43.0
+31.0
+43.0
+49.0
+49.0
+55.0
+32.0
+10.0
+61.0
+13.0
+58.0
+30.0
+47.0
+17.0
+36.0
+51.0
+22.0
+24.0
+79.0
+25.0
+10.0
+9.0
+12.0
+44.0
+52.0
+53.0
+26.0
+46.0
+42.0
+40.0
+11.0
+37.0
+48.0
+26.0
+73.0
+70.0
+24.0
+19.0
+27.0
+78.0
+75.0
+8.0
+58.0
+23.0
+35.0
+20.0
+44.0
+70.0
+67.0
+11.0
+12.0
+30.0
+40.0
+45.0
+43.0
+29.0
+18.0
+27.0
+22.0
+12.0
+57.0
+13.0
+10.0
+69.0
+77.0
+54.0
+16.0
+60.0
+58.0
+12.0
+26.0
+52.0
+12.0
+55.0
+70.0
+66.0
+63.0
+61.0
+48.0
+29.0
+39.0
+15.0
+41.0
+72.0
+35.0
+39.0
+31.0
+52.0
+79.0
+38.0
+20.0
+51.0
+63.0
+29.0
+53.0
+66.0
+59.0
+14.0
+24.0
+35.0
+30.0
+60.0
+32.0
+28.0
+15.0
+16.0
+66.0
+38.0
+58.0
+66.0
+45.0
+25.0
+77.0
+37.0
+54.0
+47.0
+50.0
+23.0
+31.0
+72.0
+21.0
+17.0
+44.0
+14.0
+52.0
+65.0
+31.0
+63.0
+12.0
+49.0
+76.0
+27.0
+46.0
+45.0
+43.0
+19.0
+63.0
+53.0
+14.0
+35.0
+46.0
+49.0
+33.0
+51.0
+22.0
+53.0
+16.0
+13.0
+33.0
+26.0
+45.0
+72.0
+28.0
+22.0
+52.0
+44.0
+26.0
+51.0
+38.0
+18.0
+20.0
+16.0
+43.0
+62.0
+47.0
+18.0
+74.0
+15.0
+27.0
+60.0
+46.0
+25.0
+51.0
+42.0
+27.0
+66.0
+45.0
+55.0
+23.0
+65.0
+55.0
+18.0
+31.0
+35.0
+27.0
+37.0
+65.0
+41.0
+39.0
+58.0
+51.0
+10.0
+54.0
+50.0
+20.0
+32.0
+18.0
+23.0
+13.0
+18.0
+44.0
+69.0
+59.0
+36.0
+13.0
+21.0
+49.0
+31.0
+27.0
+44.0
+78.0
+14.0
+57.0
+31.0
+32.0
+57.0
+17.0
+68.0
+51.0
+17.0
+16.0
+17.0
+16.0
+62.0
+32.0
+33.0
+41.0
+18.0
+25.0
+39.0
+26.0
+14.0
+78.0
+15.0
+78.0
+24.0
+8.0
+44.0
+48.0
+16.0
+15.0
+39.0
+18.0
+20.0
+20.0
+72.0
+15.0
+45.0
+16.0
+42.0
+15.0
+25.0
+45.0
+63.0
+33.0
+48.0
+34.0
+20.0
+12.0
+68.0
+31.0
+20.0
+20.0
+33.0
+52.0
+18.0
+45.0
+37.0
+38.0
+36.0
+38.0
+39.0
+45.0
+44.0
+13.0
+54.0
+65.0
+60.0
+19.0
+72.0
+40.0
+13.0
+28.0
+15.0
+37.0
+41.0
+14.0
+22.0
+28.0
+80.0
+77.0
+17.0
+32.0
+18.0
+37.0
+14.0
+17.0
+77.0
+50.0
+32.0
+23.0
+51.0
+11.0
+46.0
+19.0
+51.0
+41.0
+53.0
+59.0
+75.0
+17.0
+17.0
+79.0
+32.0
+23.0
+34.0
+21.0
+31.0
+26.0
+59.0
+48.0
+32.0
+11.0
+24.0
+71.0
+41.0
+17.0
+48.0
+62.0
+8.0
+48.0
+76.0
+19.0
+38.0
+9.0
+46.0
+65.0
+28.0
+26.0
+13.0
+22.0
+31.0
+28.0
+21.0
+78.0
+10.0
+38.0
+31.0
+66.0
+36.0
+46.0
+13.0
+11.0
+40.0
+15.0
+13.0
+14.0
+79.0
+12.0
+51.0
+80.0
+36.0
+46.0
+53.0
+18.0
+48.0
+48.0
+48.0
+7.0
+5.0
+10.0
+10.0
+6.0
+2.0
+10.0
+5.0
+13.0
+6.0
+8.0
+18.0
+6.0
+11.0
+12.0
+17.0
+11.0
+9.0
+8.0
+11.0
+11.0
+9.0
+5.0
+6.0
+8.0
+10.0
+5.0
+6.0
+6.0
+10.0
+12.0
+20.0
+8.0
+7.0
+13.0
+15.0
+4.0
+9.0
+9.0
+10.0
+7.0
+13.0
+10.0
+10.0
+10.0
+4.0
+7.0
+5.0
+4.0
+5.0
+5.0
+7.0
+6.0
+7.0
+7.0
+12.0
+5.0
+3.0
+6.0
+5.0
+9.0
+4.0
+6.0
+6.0
+13.0
+13.0
+10.0
+7.0
+7.0
+12.0
+4.0
+5.0
+6.0
+5.0
+13.0
+17.0
+11.0
+9.0
+7.0
+8.0
+10.0
+14.0
+6.0
+5.0
+10.0
+10.0
+11.0
+15.0
+7.0
+11.0
+11.0
+4.0
+13.0
+12.0
+9.0
+10.0
+7.0
+10.0
+14.0
+5.0
+14.0
+8.0
+12.0
+9.0
+10.0
+8.0
+12.0
+10.0
+9.0
+8.0
+12.0
+7.0
+12.0
+13.0
+5.0
+4.0
+12.0
+13.0
+8.0
+7.0
+7.0
+12.0
+12.0
+11.0
+13.0
+7.0
+6.0
+11.0
+4.0
+6.0
+6.0
+13.0
+12.0
+11.0
+12.0
+11.0
+10.0
+10.0
+3.0
+17.0
+16.0
+7.0
+9.0
+9.0
+7.0
+8.0
+9.0
+6.0
+12.0
+13.0
+7.0
+8.0
+16.0
+12.0
+9.0
+9.0
+5.0
+5.0
+5.0
+13.0
+7.0
+13.0
+9.0
+11.0
+5.0
+7.0
+8.0
+14.0
+7.0
+7.0
+7.0
+14.0
+7.0
+5.0
+4.0
+7.0
+6.0
+2.0
+10.0
+14.0
+9.0
+9.0
+12.0
+9.0
+12.0
+4.0
+4.0
+3.0
+12.0
+5.0
+5.0
+15.0
+5.0
+13.0
+6.0
+13.0
+11.0
+7.0
+11.0
+6.0
+6.0
+63.0
+27.0
+52.0
+67.0
+44.0
+31.0
+10.0
+32.0
+39.0
+18.0
+16.0
+64.0
+22.0
+28.0
+17.0
+24.0
+64.0
+60.0
+29.0
+30.0
+78.0
+11.0
+72.0
+12.0
+69.0
+13.0
+11.0
+20.0
+62.0
+14.0
+36.0
+32.0
+63.0
+61.0
+52.0
+61.0
+16.0
+7.0
+55.0
+36.0
+38.0
+13.0
+9.0
+15.0
+40.0
+77.0
+20.0
+23.0
+69.0
+50.0
+14.0
+22.0
+12.0
+19.0
+29.0
+56.0
+47.0
+23.0
+25.0
+15.0
+11.0
+67.0
+15.0
+35.0
+78.0
+67.0
+11.0
+14.0
+20.0
+42.0
+18.0
+26.0
+41.0
+14.0
+22.0
+26.0
+43.0
+72.0
+37.0
+43.0
+33.0
+21.0
+57.0
+24.0
+17.0
+9.0
+12.0
+41.0
+13.0
+14.0
+28.0
+44.0
+26.0
+27.0
+14.0
+21.0
+35.0
+14.0
+22.0
+66.0
+21.0
+16.0
+48.0
+74.0
+39.0
+28.0
+22.0
+71.0
+51.0
+46.0
+52.0
+41.0
+15.0
+14.0
+72.0
+17.0
+14.0
+26.0
+58.0
+14.0
+49.0
+18.0
+26.0
+27.0
+66.0
+25.0
+32.0
+19.0
+8.0
+32.0
+76.0
+35.0
+63.0
+78.0
+24.0
+50.0
+28.0
+42.0
+42.0
+45.0
+32.0
+20.0
+31.0
+40.0
+76.0
+24.0
+16.0
+14.0
+40.0
+22.0
+48.0
+17.0
+63.0
+29.0
+19.0
+39.0
+45.0
+21.0
+10.0
+17.0
+62.0
+12.0
+42.0
+12.0
+18.0
+17.0
+68.0
+23.0
+32.0
+14.0
+32.0
+28.0
+32.0
+45.0
+43.0
+74.0
+31.0
+25.0
+26.0
+32.0
+26.0
+24.0
+10.0
+44.0
+49.0
+15.0
+16.0
+11.0
+11.0
+16.0
+38.0
+39.0
+73.0
+22.0
+11.0
+59.0
+16.0
+56.0
+72.0
+55.0
+44.0
+27.0
+45.0
+54.0
+61.0
+11.0
+16.0
+76.0
+16.0
+12.0
+20.0
+21.0
+52.0
+67.0
+39.0
+17.0
+10.0
+52.0
+44.0
+24.0
+12.0
+30.0
+18.0
+32.0
+37.0
+38.0
+11.0
+39.0
+57.0
+22.0
+62.0
+66.0
+14.0
+23.0
+60.0
+33.0
+75.0
+21.0
+29.0
+30.0
+26.0
+39.0
+44.0
+22.0
+18.0
+12.0
+76.0
+32.0
+28.0
+35.0
+14.0
+68.0
+78.0
+36.0
+20.0
+39.0
+31.0
+37.0
+45.0
+34.0
+33.0
+70.0
+46.0
+45.0
+15.0
+29.0
+28.0
+16.0
+21.0
+39.0
+49.0
+9.0
+14.0
+70.0
+24.0
+15.0
+22.0
+13.0
+60.0
+10.0
+11.0
+12.0
+42.0
+47.0
+48.0
+43.0
+76.0
+13.0
+42.0
+56.0
+38.0
+36.0
+21.0
+12.0
+11.0
+41.0
+25.0
+22.0
+46.0
+25.0
+63.0
+16.0
+15.0
+51.0
+23.0
+31.0
+22.0
+33.0
+19.0
+11.0
+38.0
+62.0
+54.0
+53.0
+16.0
+16.0
+13.0
+41.0
+42.0
+24.0
+74.0
+58.0
+49.0
+5.0
+49.0
+13.0
+15.0
+69.0
+38.0
+57.0
+34.0
+41.0
+12.0
+41.0
+17.0
+69.0
+15.0
+21.0
+19.0
+60.0
+40.0
+28.0
+35.0
+68.0
+46.0
+80.0
+74.0
+31.0
+21.0
+21.0
+19.0
+27.0
+12.0
+60.0
+21.0
+25.0
+45.0
+78.0
+13.0
+41.0
+28.0
+39.0
+57.0
+16.0
+13.0
+64.0
+14.0
+24.0
+21.0
+52.0
+36.0
+22.0
+52.0
+14.0
+58.0
+55.0
+11.0
+50.0
+22.0
+24.0
+38.0
+14.0
+18.0
+20.0
+37.0
+30.0
+67.0
+56.0
+77.0
+25.0
+14.0
+15.0
+35.0
+72.0
+59.0
+12.0
+57.0
+42.0
+28.0
+68.0
+21.0
+21.0
+26.0
+73.0
+69.0
+29.0
+18.0
+33.0
+14.0
+13.0
+12.0
+53.0
+17.0
+65.0
+23.0
+39.0
+35.0
+27.0
+18.0
+52.0
+7.0
+73.0
+26.0
+8.0
+30.0
+14.0
+14.0
+50.0
+20.0
+32.0
+22.0
+23.0
+60.0
+70.0
+62.0
+19.0
+42.0
+70.0
+21.0
+33.0
+60.0
+21.0
+49.0
+14.0
+43.0
+61.0
+19.0
+25.0
+18.0
+17.0
+55.0
+12.0
+30.0
+20.0
+16.0
+52.0
+32.0
+12.0
+60.0
+25.0
+24.0
+16.0
+21.0
+63.0
+68.0
+35.0
+79.0
+32.0
+15.0
+44.0
+32.0
+25.0
+72.0
+35.0
+39.0
+16.0
+51.0
+60.0
+60.0
+69.0
+55.0
+20.0
+17.0
+12.0
+56.0
+45.0
+11.0
+40.0
+27.0
+14.0
+78.0
+18.0
+22.0
+18.0
+61.0
+54.0
+76.0
+15.0
+25.0
+11.0
+43.0
+12.0
+81.0
+19.0
+35.0
+15.0
+68.0
+9.0
+79.0
+63.0
+14.0
+23.0
+63.0
+30.0
+36.0
+13.0
+35.0
+14.0
+14.0
+25.0
+31.0
+55.0
+57.0
+11.0
+15.0
+36.0
+30.0
+47.0
+60.0
+74.0
+17.0
+25.0
+58.0
+55.0
+13.0
+44.0
+18.0
+23.0
+13.0
+48.0
+55.0
+23.0
+13.0
+16.0
+10.0
+70.0
+25.0
+49.0
+38.0
+17.0
+61.0
+45.0
+12.0
+77.0
+24.0
+27.0
+65.0
+64.0
+69.0
+12.0
+35.0
+41.0
+57.0
+60.0
+20.0
+45.0
+50.0
+22.0
+29.0
+23.0
+41.0
+19.0
+13.0
+17.0
+23.0
+20.0
+32.0
+23.0
+23.0
+14.0
+36.0
+26.0
+34.0
+45.0
+65.0
+17.0
+54.0
+20.0
+16.0
+18.0
+9.0
+17.0
+31.0
+24.0
+43.0
+61.0
+22.0
+33.0
+32.0
+79.0
+18.0
+8.0
+21.0
+55.0
+15.0
+39.0
+29.0
+14.0
+32.0
+38.0
+47.0
+13.0
+75.0
+25.0
+47.0
+13.0
+64.0
+38.0
+61.0
+13.0
+72.0
+17.0
+13.0
+52.0
+32.0
+56.0
+12.0
+22.0
+43.0
+23.0
+15.0
+53.0
+37.0
+46.0
+49.0
+34.0
+30.0
+72.0
+65.0
+43.0
+63.0
+29.0
+26.0
+50.0
+43.0
+31.0
+17.0
+58.0
+15.0
+41.0
+20.0
+28.0
+64.0
+67.0
+21.0
+19.0
+56.0
+13.0
+16.0
+14.0
+14.0
+14.0
+58.0
+59.0
+69.0
+11.0
+17.0
+18.0
+15.0
+44.0
+65.0
+15.0
+20.0
+20.0
+33.0
+56.0
+22.0
+50.0
+10.0
+29.0
+69.0
+11.0
+10.0
+37.0
+10.0
+20.0
+58.0
+57.0
+66.0
+73.0
+51.0
+41.0
+16.0
+43.0
+57.0
+20.0
+9.0
+14.0
+48.0
+57.0
+9.0
+63.0
+74.0
+25.0
+55.0
+36.0
+39.0
+12.0
+67.0
+30.0
+18.0
+11.0
+9.0
+10.0
+18.0
+71.0
+12.0
+55.0
+12.0
+57.0
+62.0
+34.0
+60.0
+26.0
+61.0
+62.0
+19.0
+45.0
+10.0
+42.0
+23.0
+11.0
+28.0
+23.0
+31.0
+68.0
+11.0
+55.0
+11.0
+9.0
+72.0
+43.0
+62.0
+38.0
+67.0
+15.0
+12.0
+11.0
+37.0
+11.0
+28.0
+25.0
+64.0
+44.0
+30.0
+11.0
+43.0
+44.0
+19.0
+15.0
+49.0
+50.0
+50.0
+23.0
+12.0
+29.0
+9.0
+35.0
+47.0
+28.0
+26.0
+29.0
+31.0
+28.0
+11.0
+76.0
+66.0
+70.0
+76.0
+15.0
+41.0
+21.0
+34.0
+26.0
+52.0
+14.0
+9.0
+23.0
+18.0
+64.0
+19.0
+75.0
+71.0
+11.0
+38.0
+41.0
+40.0
+36.0
+18.0
+13.0
+10.0
+17.0
+21.0
+44.0
+43.0
+76.0
+26.0
+17.0
+36.0
+14.0
+25.0
+56.0
+21.0
+15.0
+50.0
+33.0
+25.0
+65.0
+28.0
+41.0
+40.0
+47.0
+22.0
+13.0
+24.0
+15.0
+76.0
+10.0
+11.0
+10.0
+19.0
+12.0
+17.0
+18.0
+54.0
+13.0
+13.0
+17.0
+13.0
+20.0
+52.0
+70.0
+35.0
+35.0
+73.0
+41.0
+51.0
+21.0
+8.0
+24.0
+77.0
+39.0
+54.0
+13.0
+43.0
+75.0
+35.0
+11.0
+10.0
+40.0
+18.0
+66.0
+12.0
+36.0
+71.0
+20.0
+31.0
+59.0
+39.0
+8.0
+16.0
+58.0
+7.0
+33.0
+74.0
+39.0
+21.0
+20.0
+64.0
+14.0
+30.0
+8.0
+79.0
+47.0
+59.0
+67.0
+70.0
+54.0
+12.0
+16.0
+56.0
+32.0
+15.0
+50.0
+77.0
+44.0
+29.0
+18.0
+41.0
+43.0
+38.0
+17.0
+44.0
+21.0
+71.0
+19.0
+67.0
+18.0
+20.0
+16.0
+42.0
+11.0
+35.0
+60.0
+18.0
+75.0
+9.0
+17.0
+12.0
+10.0
+72.0
+9.0
+12.0
+23.0
+33.0
+47.0
+75.0
+16.0
+26.0
+10.0
+67.0
+18.0
+63.0
+25.0
+19.0
+24.0
+50.0
+59.0
+17.0
+24.0
+60.0
+31.0
+37.0
+57.0
+44.0
+21.0
+11.0
+17.0
+44.0
+63.0
+11.0
+22.0
+13.0
+22.0
+50.0
+52.0
+75.0
+22.0
+54.0
+20.0
+54.0
+67.0
+33.0
+80.0
+50.0
+29.0
+38.0
+38.0
+12.0
+45.0
+15.0
+16.0
+7.0
+76.0
+18.0
+14.0
+67.0
+18.0
+51.0
+13.0
+63.0
+37.0
+49.0
+25.0
+28.0
+20.0
+70.0
+49.0
+28.0
+51.0
+36.0
+33.0
+64.0
+35.0
+72.0
+14.0
+50.0
+45.0
+77.0
+54.0
+39.0
+57.0
+62.0
+19.0
+16.0
+13.0
+59.0
+18.0
+9.0
+27.0
+67.0
+15.0
+38.0
+45.0
+15.0
+29.0
+59.0
+23.0
+37.0
+13.0
+27.0
+75.0
+25.0
+13.0
+48.0
+71.0
+21.0
+13.0
+24.0
+15.0
+36.0
+77.0
+13.0
+37.0
+26.0
+11.0
+22.0
+53.0
+37.0
+64.0
+28.0
+10.0
+17.0
+16.0
+66.0
+13.0
+31.0
+12.0
+51.0
+39.0
+62.0
+13.0
+42.0
+35.0
+23.0
+56.0
+32.0
+33.0
+8.0
+26.0
+19.0
+31.0
+28.0
+10.0
+38.0
+39.0
+25.0
+62.0
+12.0
+35.0
+7.0
+14.0
+73.0
+75.0
+17.0
+50.0
+40.0
+20.0
+23.0
+7.0
+9.0
+27.0
+21.0
+56.0
+31.0
+15.0
+20.0
+45.0
+56.0
+73.0
+18.0
+12.0
+44.0
+62.0
+12.0
+44.0
+10.0
+40.0
+16.0
+12.0
+15.0
+70.0
+49.0
+11.0
+64.0
+24.0
+17.0
+12.0
+14.0
+49.0
+9.0
+27.0
+80.0
+18.0
+55.0
+59.0
+66.0
+22.0
+35.0
+47.0
+43.0
+42.0
+62.0
+65.0
+48.0
+18.0
+22.0
+61.0
+50.0
+12.0
+16.0
+51.0
+14.0
+41.0
+50.0
+14.0
+66.0
+9.0
+17.0
+17.0
+41.0
+20.0
+65.0
+36.0
+12.0
+11.0
+65.0
+39.0
+78.0
+15.0
+36.0
+41.0
+39.0
+49.0
+26.0
+54.0
+70.0
+22.0
+44.0
+18.0
+14.0
+16.0
+35.0
+78.0
+15.0
+57.0
+15.0
+26.0
+24.0
+32.0
+15.0
+45.0
+47.0
+69.0
+23.0
+30.0
+37.0
+22.0
+59.0
+29.0
+23.0
+55.0
+9.0
+24.0
+47.0
+21.0
+63.0
+10.0
+20.0
+11.0
+28.0
+61.0
+17.0
+38.0
+63.0
+8.0
+26.0
+59.0
+70.0
+68.0
+29.0
+76.0
+26.0
+49.0
+47.0
+67.0
+48.0
+23.0
+17.0
+19.0
+74.0
+38.0
+70.0
+33.0
+20.0
+22.0
+63.0
+9.0
+22.0
+70.0
+50.0
+32.0
+78.0
+11.0
+31.0
+44.0
+62.0
+30.0
+39.0
+42.0
+55.0
+14.0
+33.0
+31.0
+33.0
+23.0
+28.0
+32.0
+60.0
+33.0
+37.0
+15.0
+19.0
+50.0
+11.0
+12.0
+29.0
+23.0
+17.0
+16.0
+34.0
+31.0
+23.0
+33.0
+36.0
+13.0
+11.0
+39.0
+59.0
+68.0
+44.0
+18.0
+51.0
+30.0
+11.0
+69.0
+7.0
+60.0
+15.0
+66.0
+22.0
+13.0
+66.0
+80.0
+26.0
+78.0
+56.0
+38.0
+19.0
+28.0
+62.0
+62.0
+20.0
+16.0
+25.0
+51.0
+19.0
+32.0
+25.0
+38.0
+12.0
+32.0
+43.0
+78.0
+24.0
+26.0
+28.0
+53.0
+34.0
+33.0
+19.0
+29.0
+15.0
+79.0
+68.0
+16.0
+61.0
+10.0
+37.0
+29.0
+58.0
+53.0
+22.0
+24.0
+38.0
+8.0
+79.0
+32.0
+26.0
+14.0
+25.0
+25.0
+21.0
+35.0
+20.0
+17.0
+12.0
+35.0
+9.0
+41.0
+45.0
+58.0
+59.0
+70.0
+12.0
+39.0
+14.0
+22.0
+73.0
+74.0
+24.0
+55.0
+66.0
+58.0
+17.0
+71.0
+16.0
+19.0
+29.0
+50.0
+8.0
+32.0
+18.0
+40.0
+54.0
+11.0
+33.0
+36.0
+40.0
+61.0
+12.0
+34.0
+51.0
+63.0
+50.0
+7.0
+17.0
+48.0
+72.0
+9.0
+14.0
+34.0
+57.0
+74.0
+19.0
+55.0
+10.0
+45.0
+16.0
+59.0
+18.0
+65.0
+14.0
+41.0
+56.0
+45.0
+40.0
+29.0
+66.0
+15.0
+60.0
+32.0
+40.0
+37.0
+17.0
+62.0
+64.0
+32.0
+46.0
+26.0
+25.0
+69.0
+10.0
+11.0
+30.0
+17.0
+23.0
+29.0
+67.0
+23.0
+65.0
+23.0
+16.0
+69.0
+14.0
+17.0
+18.0
+25.0
+36.0
+46.0
+17.0
+20.0
+12.0
+15.0
+23.0
+19.0
+15.0
+33.0
+32.0
+17.0
+10.0
+25.0
+27.0
+47.0
+24.0
+36.0
+18.0
+51.0
+50.0
+24.0
+11.0
+12.0
+50.0
+60.0
+20.0
+57.0
+7.0
+15.0
+24.0
+78.0
+57.0
+37.0
+10.0
+41.0
+40.0
+11.0
+58.0
+21.0
+40.0
+26.0
+26.0
+25.0
+15.0
+9.0
+49.0
+29.0
+31.0
+28.0
+48.0
+36.0
+74.0
+18.0
+18.0
+42.0
+11.0
+34.0
+60.0
+18.0
+42.0
+76.0
+9.0
+35.0
+78.0
+14.0
+52.0
+8.0
+25.0
+58.0
+58.0
+13.0
+28.0
+32.0
+38.0
+18.0
+10.0
+30.0
+46.0
+50.0
+64.0
+65.0
+47.0
+28.0
+39.0
+45.0
+50.0
+59.0
+18.0
+51.0
+26.0
+11.0
+67.0
+25.0
+13.0
+35.0
+37.0
+58.0
+62.0
+11.0
+47.0
+47.0
+78.0
+28.0
+48.0
+10.0
+15.0
+12.0
+15.0
+12.0
+38.0
+33.0
+39.0
+31.0
+13.0
+48.0
+65.0
+8.0
+14.0
+50.0
+50.0
+41.0
+15.0
+32.0
+12.0
+16.0
+29.0
+62.0
+74.0
+26.0
+25.0
+39.0
+25.0
+77.0
+22.0
+77.0
+32.0
+17.0
+20.0
+54.0
+47.0
+25.0
+36.0
+14.0
+69.0
+46.0
+46.0
+24.0
+32.0
+60.0
+57.0
+43.0
+29.0
+52.0
+47.0
+44.0
+72.0
+16.0
+26.0
+55.0
+76.0
+69.0
+60.0
+34.0
+68.0
+25.0
+47.0
+22.0
+71.0
+62.0
+61.0
+49.0
+79.0
+45.0
+23.0
+80.0
+31.0
+19.0
+61.0
+7.0
+54.0
+22.0
+7.0
+18.0
+74.0
+23.0
+46.0
+67.0
+65.0
+56.0
+61.0
+15.0
+54.0
+15.0
+48.0
+21.0
+17.0
+21.0
+19.0
+49.0
+53.0
+28.0
+27.0
+54.0
+18.0
+32.0
+32.0
+36.0
+17.0
+60.0
+37.0
+59.0
+68.0
+52.0
+32.0
+47.0
+17.0
+43.0
+22.0
+16.0
+10.0
+17.0
+11.0
+28.0
+16.0
+58.0
+61.0
+12.0
+51.0
+31.0
+79.0
+26.0
+63.0
+61.0
+16.0
+13.0
+18.0
+29.0
+37.0
+19.0
+42.0
+15.0
+27.0
+24.0
+45.0
+67.0
+45.0
+10.0
+31.0
+46.0
+8.0
+64.0
+15.0
+43.0
+17.0
+16.0
+14.0
+34.0
+75.0
+16.0
+41.0
+7.0
+61.0
+26.0
+61.0
+65.0
+62.0
+18.0
+12.0
+23.0
+16.0
+46.0
+17.0
+19.0
+31.0
+74.0
+52.0
+16.0
+49.0
+61.0
+60.0
+12.0
+24.0
+65.0
+30.0
+21.0
+17.0
+12.0
+23.0
+60.0
+64.0
+46.0
+36.0
+29.0
+34.0
+7.0
+21.0
+21.0
+55.0
+39.0
+44.0
+11.0
+53.0
+22.0
+23.0
+58.0
+38.0
+15.0
+15.0
+16.0
+24.0
+29.0
+53.0
+42.0
+24.0
+12.0
+15.0
+11.0
+10.0
+15.0
+60.0
+49.0
+67.0
+12.0
+13.0
+18.0
+27.0
+38.0
+66.0
+71.0
+23.0
+55.0
+70.0
+26.0
+15.0
+49.0
+47.0
+18.0
+38.0
+48.0
+23.0
+50.0
+21.0
+24.0
+14.0
+10.0
+52.0
+44.0
+74.0
+12.0
+26.0
+73.0
+9.0
+52.0
+11.0
+26.0
+38.0
+55.0
+72.0
+7.0
+13.0
+77.0
+47.0
+45.0
+18.0
+12.0
+12.0
+24.0
+25.0
+9.0
+49.0
+15.0
+21.0
+73.0
+29.0
+80.0
+18.0
+22.0
+79.0
+66.0
+21.0
+62.0
+33.0
+45.0
+13.0
+65.0
+25.0
+24.0
+60.0
+24.0
+22.0
+44.0
+59.0
+53.0
+12.0
+15.0
+18.0
+35.0
+43.0
+18.0
+80.0
+64.0
+13.0
+27.0
+18.0
+58.0
+44.0
+38.0
+47.0
+33.0
+42.0
+75.0
+18.0
+65.0
+25.0
+10.0
+22.0
+77.0
+34.0
+67.0
+44.0
+9.0
+14.0
+18.0
+13.0
+46.0
+14.0
+31.0
+37.0
+43.0
+32.0
+62.0
+19.0
+19.0
+50.0
+38.0
+43.0
+40.0
+30.0
+55.0
+32.0
+9.0
+33.0
+22.0
+13.0
+41.0
+21.0
+36.0
+70.0
+32.0
+49.0
+28.0
+51.0
+56.0
+42.0
+22.0
+21.0
+17.0
+23.0
+22.0
+39.0
+59.0
+16.0
+17.0
+13.0
+34.0
+57.0
+11.0
+17.0
+20.0
+58.0
+14.0
+40.0
+23.0
+33.0
+29.0
+74.0
+32.0
+21.0
+21.0
+38.0
+19.0
+54.0
+54.0
+16.0
+56.0
+26.0
+11.0
+63.0
+52.0
+13.0
+79.0
+31.0
+54.0
+24.0
+20.0
+26.0
+60.0
+57.0
+14.0
+16.0
+12.0
+36.0
+11.0
+62.0
+26.0
+13.0
+8.0
+20.0
+35.0
+31.0
+18.0
+30.0
+20.0
+21.0
+23.0
+48.0
+75.0
+11.0
+39.0
+35.0
+25.0
+21.0
+14.0
+14.0
+9.0
+78.0
+26.0
+48.0
+47.0
+41.0
+30.0
+18.0
+31.0
+19.0
+23.0
+12.0
+19.0
+11.0
+60.0
+66.0
+31.0
+21.0
+44.0
+18.0
+14.0
+11.0
+65.0
+32.0
+44.0
+24.0
+28.0
+10.0
+8.0
+22.0
+70.0
+67.0
+42.0
+34.0
+37.0
+15.0
+14.0
+20.0
+31.0
+51.0
+10.0
+41.0
+12.0
+56.0
+11.0
+17.0
+16.0
+43.0
+18.0
+45.0
+16.0
+43.0
+15.0
+29.0
+21.0
+37.0
+75.0
+53.0
+11.0
+14.0
+33.0
+78.0
+52.0
+22.0
+13.0
+26.0
+61.0
+34.0
+61.0
+26.0
+62.0
+54.0
+48.0
+14.0
+50.0
+32.0
+37.0
+73.0
+66.0
+16.0
+18.0
+21.0
+40.0
+15.0
+70.0
+10.0
+14.0
+37.0
+8.0
+14.0
+45.0
+50.0
+50.0
+10.0
+76.0
+11.0
+10.0
+53.0
+17.0
+11.0
+20.0
+39.0
+23.0
+71.0
+73.0
+52.0
+26.0
+14.0
+57.0
+54.0
+22.0
+26.0
+66.0
+24.0
+9.0
+14.0
+64.0
+25.0
+23.0
+33.0
+10.0
+60.0
+41.0
+60.0
+24.0
+19.0
+59.0
+44.0
+22.0
+36.0
+40.0
+29.0
+21.0
+14.0
+12.0
+26.0
+16.0
+18.0
+77.0
+20.0
+63.0
+10.0
+52.0
+69.0
+29.0
+41.0
+18.0
+19.0
+15.0
+43.0
+27.0
+30.0
+30.0
+20.0
+34.0
+44.0
+58.0
+77.0
+21.0
+18.0
+25.0
+21.0
+18.0
+38.0
+23.0
+18.0
+68.0
+44.0
+34.0
+23.0
+50.0
+15.0
+74.0
+10.0
+19.0
+23.0
+51.0
+47.0
+15.0
+35.0
+54.0
+15.0
+6.0
+14.0
+71.0
+10.0
+31.0
+64.0
+27.0
+54.0
+11.0
+15.0
+80.0
+15.0
+19.0
+13.0
+17.0
+69.0
+8.0
+70.0
+49.0
+8.0
+36.0
+7.0
+25.0
+18.0
+44.0
+31.0
+20.0
+21.0
+21.0
+62.0
+55.0
+61.0
+47.0
+54.0
+12.0
+33.0
+53.0
+20.0
+10.0
+37.0
+24.0
+15.0
+44.0
+16.0
+51.0
+21.0
+25.0
+56.0
+23.0
+38.0
+29.0
+10.0
+49.0
+36.0
+68.0
+27.0
+61.0
+24.0
+32.0
+34.0
+69.0
+60.0
+47.0
+67.0
+41.0
+54.0
+22.0
+22.0
+40.0
+12.0
+7.0
+43.0
+20.0
+15.0
+38.0
+48.0
+16.0
+18.0
+12.0
+65.0
+15.0
+12.0
+74.0
+17.0
+18.0
+44.0
+51.0
+59.0
+29.0
+25.0
+14.0
+30.0
+23.0
+17.0
+17.0
+12.0
+14.0
+23.0
+38.0
+12.0
+29.0
+41.0
+20.0
+54.0
+20.0
+30.0
+13.0
+53.0
+77.0
+64.0
+27.0
+12.0
+26.0
+16.0
+51.0
+22.0
+14.0
+35.0
+63.0
+14.0
+52.0
+13.0
+49.0
+46.0
+33.0
+42.0
+20.0
+16.0
+69.0
+25.0
+34.0
+60.0
+11.0
+39.0
+38.0
+70.0
+43.0
+23.0
+12.0
+14.0
+9.0
+34.0
+12.0
+26.0
+66.0
+74.0
+69.0
+20.0
+19.0
+72.0
+22.0
+16.0
+20.0
+29.0
+16.0
+22.0
+62.0
+51.0
+57.0
+17.0
+17.0
+66.0
+61.0
+15.0
+24.0
+18.0
+35.0
+24.0
+16.0
+22.0
+27.0
+56.0
+60.0
+24.0
+70.0
+31.0
+63.0
+10.0
+58.0
+15.0
+49.0
+63.0
+15.0
+17.0
+32.0
+62.0
+24.0
+28.0
+21.0
+16.0
+53.0
+46.0
+12.0
+74.0
+8.0
+12.0
+60.0
+13.0
+76.0
+16.0
+19.0
+18.0
+27.0
+28.0
+39.0
+13.0
+40.0
+57.0
+11.0
+15.0
+23.0
+30.0
+42.0
+37.0
+46.0
+65.0
+11.0
+75.0
+80.0
+18.0
+24.0
+43.0
+16.0
+32.0
+22.0
+7.0
+57.0
+14.0
+55.0
+12.0
+17.0
+59.0
+25.0
+70.0
+23.0
+39.0
+29.0
+14.0
+13.0
+64.0
+20.0
+29.0
+27.0
+60.0
+20.0
+39.0
+53.0
+63.0
+43.0
+44.0
+24.0
+15.0
+43.0
+9.0
+63.0
+16.0
+22.0
+12.0
+12.0
+46.0
+11.0
+30.0
+29.0
+21.0
+18.0
+17.0
+33.0
+42.0
+22.0
+23.0
+14.0
+80.0
+29.0
+25.0
+63.0
+10.0
+42.0
+55.0
+10.0
+15.0
+15.0
+28.0
+17.0
+15.0
+11.0
+59.0
+12.0
+28.0
+19.0
+67.0
+10.0
+11.0
+22.0
+21.0
+42.0
+10.0
+45.0
+36.0
+41.0
+20.0
+65.0
+34.0
+10.0
+34.0
+28.0
+32.0
+19.0
+62.0
+18.0
+22.0
+57.0
+12.0
+68.0
+15.0
+14.0
+47.0
+33.0
+43.0
+38.0
+46.0
+15.0
+54.0
+26.0
+71.0
+64.0
+16.0
+75.0
+44.0
+13.0
+16.0
+38.0
+47.0
+18.0
+74.0
+54.0
+17.0
+23.0
+8.0
+15.0
+22.0
+22.0
+14.0
+59.0
+64.0
+23.0
+30.0
+28.0
+13.0
+16.0
+8.0
+42.0
+69.0
+41.0
+8.0
+59.0
+67.0
+16.0
+26.0
+12.0
+44.0
+65.0
+12.0
+73.0
+13.0
+10.0
+37.0
+26.0
+8.0
+26.0
+29.0
+69.0
+32.0
+11.0
+53.0
+15.0
+41.0
+22.0
+14.0
+54.0
+30.0
+52.0
+17.0
+17.0
+33.0
+64.0
+41.0
+17.0
+21.0
+12.0
+32.0
+69.0
+42.0
+24.0
+22.0
+13.0
+10.0
+58.0
+70.0
+20.0
+20.0
+30.0
+63.0
+73.0
+16.0
+36.0
+20.0
+9.0
+26.0
+16.0
+34.0
+49.0
+11.0
+46.0
+69.0
+31.0
+20.0
+72.0
+12.0
+30.0
+61.0
+14.0
+26.0
+69.0
+59.0
+12.0
+20.0
+33.0
+71.0
+15.0
+32.0
+34.0
+45.0
+17.0
+13.0
+55.0
+9.0
+28.0
+39.0
+39.0
+42.0
+39.0
+19.0
+44.0
+21.0
+50.0
+29.0
+30.0
+24.0
+8.0
+16.0
+15.0
+30.0
+11.0
+22.0
+69.0
+68.0
+66.0
+19.0
+12.0
+76.0
+11.0
+16.0
+10.0
+12.0
+48.0
+11.0
+20.0
+21.0
+48.0
+14.0
+26.0
+13.0
+12.0
+21.0
+31.0
+27.0
+8.0
+16.0
+32.0
+40.0
+56.0
+9.0
+19.0
+17.0
+21.0
+11.0
+68.0
+18.0
+22.0
+31.0
+22.0
+51.0
+68.0
+11.0
+12.0
+17.0
+7.0
+47.0
+49.0
+20.0
+15.0
+24.0
+29.0
+16.0
+23.0
+24.0
+26.0
+14.0
+63.0
+16.0
+26.0
+25.0
+13.0
+62.0
+68.0
+33.0
+40.0
+68.0
+14.0
+37.0
+32.0
+31.0
+68.0
+46.0
+47.0
+12.0
+23.0
+45.0
+25.0
+25.0
+56.0
+16.0
+13.0
+18.0
+28.0
+18.0
+8.0
+9.0
+39.0
+29.0
+8.0
+27.0
+27.0
+16.0
+11.0
+35.0
+18.0
+38.0
+25.0
+12.0
+40.0
+21.0
+42.0
+34.0
+61.0
+6.0
+48.0
+42.0
+22.0
+64.0
+61.0
+9.0
+10.0
+63.0
+17.0
+23.0
+55.0
+30.0
+53.0
+67.0
+11.0
+12.0
+68.0
+11.0
+19.0
+71.0
+24.0
+16.0
+17.0
+34.0
+72.0
+18.0
+26.0
+45.0
+21.0
+15.0
+63.0
+51.0
+50.0
+15.0
+11.0
+65.0
+12.0
+15.0
+33.0
+22.0
+20.0
+13.0
+12.0
+13.0
+14.0
+32.0
+16.0
+14.0
+28.0
+60.0
+62.0
+36.0
+17.0
+12.0
+35.0
+16.0
+21.0
+10.0
+32.0
+36.0
+16.0
+36.0
+54.0
+49.0
+25.0
+56.0
+12.0
+24.0
+24.0
+20.0
+17.0
+16.0
+18.0
+39.0
+15.0
+15.0
+15.0
+13.0
+26.0
+35.0
+30.0
+39.0
+19.0
+13.0
+61.0
+20.0
+27.0
+32.0
+37.0
+44.0
+10.0
+40.0
+15.0
+66.0
+50.0
+13.0
+7.0
+15.0
+67.0
+12.0
+18.0
+25.0
+29.0
+38.0
+56.0
+38.0
+37.0
+21.0
+12.0
+16.0
+21.0
+64.0
+43.0
+78.0
+68.0
+16.0
+30.0
+12.0
+32.0
+59.0
+26.0
+58.0
+45.0
+42.0
+45.0
+22.0
+34.0
+63.0
+12.0
+13.0
+13.0
+5.0
+11.0
+12.0
+10.0
+13.0
+7.0
+9.0
+7.0
+10.0
+7.0
+5.0
+5.0
+12.0
+13.0
+7.0
+6.0
+7.0
+13.0
+9.0
+12.0
+11.0
+8.0
+12.0
+10.0
+7.0
+12.0
+9.0
+8.0
+15.0
+13.0
+5.0
+7.0
+8.0
+7.0
+7.0
+10.0
+8.0
+6.0
+11.0
+8.0
+7.0
+12.0
+7.0
+5.0
+9.0
+10.0
+21.0
+11.0
+7.0
+14.0
+15.0
+8.0
+7.0
+8.0
+6.0
+9.0
+11.0
+14.0
+7.0
+4.0
+14.0
+7.0
+10.0
+5.0
+5.0
+9.0
+11.0
+7.0
+7.0
+7.0
+6.0
+14.0
+11.0
+11.0
+9.0
+12.0
+7.0
+9.0
+7.0
+12.0
+10.0
+15.0
+12.0
+9.0
+12.0
+8.0
+2.0
+10.0
+8.0
+10.0
+14.0
+12.0
+6.0
+5.0
+14.0
+17.0
+7.0
+7.0
+9.0
+10.0
+12.0
+10.0
+10.0
+7.0
+15.0
+13.0
+6.0
+9.0
+7.0
+2.0
+12.0
+9.0
+11.0
+10.0
+13.0
+10.0
+7.0
+9.0
+6.0
+10.0
+19.0
+4.0
+8.0
+10.0
+2.0
+16.0
+7.0
+11.0
+13.0
+13.0
+12.0
+9.0
+11.0
+9.0
+9.0
+11.0
+10.0
+9.0
+10.0
+8.0
+10.0
+16.0
+9.0
+10.0
+9.0
+8.0
+11.0
+9.0
+11.0
+13.0
+10.0
+10.0
+5.0
+6.0
+8.0
+8.0
+3.0
+7.0
+8.0
+5.0
+9.0
+9.0
+13.0
+5.0
+7.0
+6.0
+6.0
+5.0
+14.0
+15.0
+12.0
+10.0
+5.0
+7.0
+8.0
+9.0
+7.0
+4.0
+11.0
+9.0
+6.0
+11.0
+11.0
+6.0
+14.0
+14.0
+14.0
+11.0
+14.0
+8.0
+7.0
+11.0
+5.0
+7.0
+13.0
+6.0
+9.0
+9.0
+16.0
+9.0
+11.0
+12.0
+16.0
+7.0
+8.0
+3.0
+13.0
+15.0
+6.0
+12.0
+16.0
+14.0
+5.0
+10.0
+6.0
+11.0
+4.0
+10.0
+6.0
+10.0
+11.0
+15.0
+10.0
+7.0
+12.0
+16.0
+8.0
+12.0
+11.0
+11.0
+12.0
+8.0
+4.0
+8.0
+11.0
+10.0
+7.0
+5.0
+15.0
+9.0
+6.0
+12.0
+27.0
+16.0
+11.0
+11.0
+2.0
+12.0
+6.0
+10.0
+12.0
+9.0
+14.0
+12.0
+7.0
+14.0
+11.0
+10.0
+10.0
+6.0
+12.0
+10.0
+13.0
+5.0
+5.0
+6.0
+8.0
+15.0
+9.0
+5.0
+11.0
+16.0
+7.0
+7.0
+12.0
+23.0
+8.0
+2.0
+7.0
+9.0
+7.0
+6.0
+7.0
+15.0
+12.0
+7.0
+18.0
+8.0
+5.0
+7.0
+10.0
+9.0
+9.0
+12.0
+8.0
+14.0
+6.0
+15.0
+19.0
+8.0
+12.0
+9.0
+11.0
+7.0
+10.0
+11.0
+6.0
+6.0
+11.0
+9.0
+2.0
+12.0
+20.0
+8.0
+11.0
+11.0
+12.0
+7.0
+10.0
+7.0
+5.0
+8.0
+18.0
+7.0
+12.0
+6.0
+12.0
+6.0
+17.0
+12.0
+10.0
+13.0
+9.0
+6.0
+6.0
+9.0
+11.0
+7.0
+6.0
+12.0
+8.0
+19.0
+13.0
+14.0
+3.0
+9.0
+5.0
+13.0
+15.0
+5.0
+10.0
+6.0
+12.0
+8.0
+12.0
+15.0
+11.0
+11.0
+10.0
+8.0
+7.0
+9.0
+14.0
+7.0
+10.0
+10.0
+15.0
+9.0
+10.0
+14.0
+11.0
+8.0
+8.0
+8.0
+4.0
+8.0
+6.0
+9.0
+6.0
+6.0
+9.0
+10.0
+13.0
+10.0
+7.0
+11.0
+5.0
+10.0
+8.0
+7.0
+10.0
+6.0
+15.0
+6.0
+12.0
+3.0
+7.0
+6.0
+13.0
+7.0
+7.0
+7.0
+13.0
+5.0
+9.0
+11.0
+12.0
+17.0
+7.0
+11.0
+13.0
+11.0
+7.0
+11.0
+9.0
+9.0
+16.0
+8.0
+12.0
+8.0
+10.0
+15.0
+10.0
+14.0
+6.0
+8.0
+15.0
+5.0
+6.0
+11.0
+10.0
+7.0
+3.0
+9.0
+10.0
+10.0
+16.0
+13.0
+12.0
+13.0
+8.0
+9.0
+6.0
+14.0
+8.0
+7.0
+8.0
+7.0
+11.0
+7.0
+9.0
+5.0
+12.0
+9.0
+13.0
+6.0
+8.0
+14.0
+8.0
+14.0
+9.0
+11.0
+5.0
+9.0
+12.0
+9.0
+8.0
+8.0
+11.0
+10.0
+3.0
+11.0
+8.0
+8.0
+7.0
+12.0
+12.0
+8.0
+7.0
+7.0
+5.0
+11.0
+7.0
+7.0
+12.0
+15.0
+9.0
+10.0
+13.0
+7.0
+13.0
+10.0
+13.0
+13.0
+4.0
+7.0
+9.0
+9.0
+10.0
+8.0
+11.0
+9.0
+16.0
+8.0
+13.0
+8.0
+18.0
+8.0
+11.0
+7.0
+12.0
+7.0
+11.0
+6.0
+7.0
+15.0
+8.0
+7.0
+8.0
+6.0
+6.0
+8.0
+9.0
+10.0
+6.0
+11.0
+10.0
+18.0
+11.0
+10.0
+8.0
+14.0
+14.0
+13.0
+11.0
+9.0
+8.0
+7.0
+6.0
+9.0
+9.0
+4.0
+11.0
+5.0
+8.0
+5.0
+5.0
+6.0
+7.0
+8.0
+7.0
+13.0
+14.0
+11.0
+2.0
+13.0
+6.0
+9.0
+2.0
+11.0
+8.0
+13.0
+12.0
+15.0
+15.0
+6.0
+15.0
+9.0
+6.0
+6.0
+9.0
+9.0
+11.0
+6.0
+17.0
+8.0
+9.0
+8.0
+7.0
+10.0
+4.0
+8.0
+11.0
+3.0
+8.0
+12.0
+6.0
+7.0
+14.0
+16.0
+15.0
+10.0
+8.0
+10.0
+5.0
+13.0
+12.0
+10.0
+5.0
+7.0
+8.0
+6.0
+3.0
+6.0
+8.0
+5.0
+8.0
+6.0
+13.0
+5.0
+12.0
+8.0
+10.0
+18.0
+7.0
+10.0
+10.0
+11.0
+12.0
+5.0
+13.0
+9.0
+13.0
+9.0
+14.0
+10.0
+18.0
+7.0
+10.0
+14.0
+6.0
+7.0
+11.0
+11.0
+16.0
+13.0
+6.0
+11.0
+11.0
+3.0
+5.0
+7.0
+6.0
+10.0
+8.0
+11.0
+3.0
+5.0
+5.0
+11.0
+5.0
+13.0
+13.0
+12.0
+7.0
+8.0
+13.0
+5.0
+12.0
+5.0
+8.0
+34.0
+23.0
+35.0
+12.0
+10.0
+27.0
+27.0
+5.0
+39.0
+39.0
+10.0
+44.0
+22.0
+8.0
+19.0
+37.0
+41.0
+53.0
+21.0
+13.0
+26.0
+8.0
+17.0
+30.0
+28.0
+23.0
+26.0
+14.0
+13.0
+24.0
+12.0
+41.0
+23.0
+29.0
+23.0
+47.0
+32.0
+27.0
+75.0
+14.0
+33.0
+37.0
+37.0
+63.0
+45.0
+33.0
+21.0
+22.0
+52.0
+22.0
+33.0
+56.0
+50.0
+18.0
+25.0
+73.0
+56.0
+33.0
+20.0
+49.0
+39.0
+23.0
+25.0
+47.0
+39.0
+36.0
+24.0
+51.0
+28.0
+44.0
+27.0
+31.0
+42.0
+78.0
+16.0
+29.0
+20.0
+37.0
+33.0
+40.0
+26.0
+31.0
+47.0
+13.0
+29.0
+28.0
+17.0
+16.0
+26.0
+29.0
+25.0
+43.0
+19.0
+20.0
+34.0
+20.0
+44.0
+25.0
+19.0
+44.0
+34.0
+48.0
+60.0
+35.0
+63.0
+27.0
+23.0
+39.0
+54.0
+24.0
+38.0
+53.0
+25.0
+21.0
+16.0
+52.0
+15.0
+10.0
+22.0
+20.0
+50.0
+32.0
+18.0
+35.0
+37.0
+27.0
+23.0
+50.0
+35.0
+29.0
+28.0
+18.0
+25.0
+39.0
+11.0
+11.0
+29.0
+44.0
+20.0
+28.0
+17.0
+60.0
+40.0
+32.0
+41.0
+55.0
+77.0
+21.0
+32.0
+55.0
+63.0
+23.0
+52.0
+8.0
+52.0
+12.0
+24.0
+20.0
+47.0
+67.0
+41.0
+24.0
+14.0
+29.0
+20.0
+10.0
+41.0
+17.0
+18.0
+22.0
+13.0
+23.0
+43.0
+19.0
+10.0
+28.0
+47.0
+7.0
+32.0
+20.0
+19.0
+42.0
+10.0
+57.0
+38.0
+59.0
+14.0
+39.0
+21.0
+40.0
+29.0
+17.0
+12.0
+11.0
+25.0
+38.0
+70.0
+6.0
+22.0
+59.0
+39.0
+51.0
+32.0
+35.0
+38.0
+12.0
+38.0
+20.0
+34.0
+24.0
+54.0
+6.0
+12.0
+18.0
+22.0
+18.0
+21.0
+63.0
+21.0
+31.0
+51.0
+20.0
+23.0
+31.0
+16.0
+71.0
+27.0
+36.0
+18.0
+24.0
+75.0
+16.0
+17.0
+38.0
+23.0
+14.0
+33.0
+28.0
+26.0
+60.0
+34.0
+22.0
+45.0
+11.0
+15.0
+48.0
+28.0
+21.0
+18.0
+63.0
+17.0
+4.0
+23.0
+32.0
+29.0
+20.0
+22.0
+47.0
+38.0
+45.0
+42.0
+39.0
+60.0
+21.0
+69.0
+56.0
+44.0
+48.0
+50.0
+15.0
+20.0
+44.0
+32.0
+77.0
+23.0
+6.0
+46.0
+73.0
+52.0
+28.0
+8.0
+46.0
+9.0
+19.0
+28.0
+21.0
+23.0
+59.0
+44.0
+26.0
+13.0
+70.0
+46.0
+38.0
+23.0
+58.0
+19.0
+22.0
+8.0
+17.0
+27.0
+8.0
+61.0
+35.0
+7.0
+23.0
+70.0
+15.0
+27.0
+22.0
+18.0
+56.0
+14.0
+23.0
+38.0
+23.0
+30.0
+11.0
+41.0
+31.0
+24.0
+20.0
+24.0
+28.0
+42.0
+34.0
+33.0
+77.0
+23.0
+40.0
+22.0
+20.0
+28.0
+53.0
+35.0
+34.0
+37.0
+41.0
+25.0
+39.0
+32.0
+26.0
+19.0
+69.0
+62.0
+15.0
+29.0
+29.0
+25.0
+29.0
+19.0
+26.0
+23.0
+30.0
+66.0
+31.0
+20.0
+20.0
+13.0
+77.0
+29.0
+13.0
+27.0
+34.0
+32.0
+27.0
+27.0
+12.0
+25.0
+14.0
+9.0
+41.0
+21.0
+25.0
+30.0
+48.0
+30.0
+22.0
+19.0
+16.0
+17.0
+25.0
+8.0
+48.0
+17.0
+21.0
+6.0
+11.0
+17.0
+40.0
+15.0
+30.0
+50.0
+63.0
+66.0
+40.0
+14.0
+16.0
+36.0
+45.0
+21.0
+24.0
+21.0
+12.0
+20.0
+27.0
+55.0
+32.0
+22.0
+42.0
+25.0
+45.0
+46.0
+16.0
+30.0
+14.0
+77.0
+32.0
+19.0
+49.0
+20.0
+38.0
+17.0
+44.0
+38.0
+29.0
+25.0
+58.0
+29.0
+30.0
+30.0
+32.0
+67.0
+18.0
+9.0
+46.0
+32.0
+12.0
+31.0
+15.0
+60.0
+30.0
+37.0
+45.0
+33.0
+35.0
+31.0
+26.0
+8.0
+25.0
+42.0
+29.0
+14.0
+19.0
+26.0
+46.0
+23.0
+59.0
+14.0
+58.0
+30.0
+77.0
+41.0
+4.0
+25.0
+34.0
+32.0
+49.0
+30.0
+37.0
+23.0
+48.0
+27.0
+12.0
+43.0
+14.0
+46.0
+52.0
+24.0
+33.0
+22.0
+38.0
+46.0
+14.0
+17.0
+26.0
+35.0
+32.0
+47.0
+36.0
+39.0
+19.0
+55.0
+28.0
+38.0
+22.0
+29.0
+22.0
+45.0
+15.0
+62.0
+25.0
+37.0
+42.0
+68.0
+44.0
+15.0
+20.0
+22.0
+32.0
+71.0
+68.0
+54.0
+37.0
+22.0
+30.0
+42.0
+34.0
+28.0
+26.0
+34.0
+101.0
+23.0
+29.0
+18.0
+42.0
+21.0
+69.0
+33.0
+20.0
+22.0
+28.0
+28.0
+50.0
+14.0
+33.0
+15.0
+17.0
+34.0
+45.0
+37.0
+26.0
+15.0
+74.0
+17.0
+31.0
+14.0
+13.0
+28.0
+58.0
+33.0
+14.0
+20.0
+32.0
+42.0
+62.0
+36.0
+32.0
+55.0
+34.0
+25.0
+22.0
+66.0
+26.0
+14.0
+65.0
+24.0
+5.0
+33.0
+34.0
+45.0
+32.0
+14.0
+28.0
+33.0
+46.0
+21.0
+13.0
+5.0
+50.0
+59.0
+41.0
+42.0
+15.0
+79.0
+77.0
+33.0
+28.0
+24.0
+57.0
+19.0
+19.0
+25.0
+43.0
+37.0
+21.0
+35.0
+35.0
+51.0
+13.0
+15.0
+64.0
+22.0
+60.0
+36.0
+58.0
+52.0
+22.0
+16.0
+35.0
+18.0
+27.0
+59.0
+18.0
+33.0
+11.0
+24.0
+28.0
+5.0
+17.0
+43.0
+28.0
+23.0
+46.0
+56.0
+49.0
+15.0
+21.0
+31.0
+50.0
+50.0
+51.0
+24.0
+23.0
+24.0
+23.0
+31.0
+20.0
+15.0
+48.0
+31.0
+6.0
+47.0
+14.0
+46.0
+40.0
+31.0
+18.0
+25.0
+41.0
+33.0
+22.0
+49.0
+29.0
+22.0
+28.0
+61.0
+33.0
+56.0
+28.0
+19.0
+41.0
+59.0
+28.0
+73.0
+44.0
+28.0
+15.0
+31.0
+45.0
+27.0
+26.0
+13.0
+12.0
+22.0
+11.0
+14.0
+22.0
+28.0
+26.0
+13.0
+36.0
+26.0
+20.0
+28.0
+27.0
+56.0
+18.0
+49.0
+40.0
+26.0
+44.0
+29.0
+68.0
+46.0
+5.0
+22.0
+21.0
+26.0
+62.0
+32.0
+31.0
+67.0
+25.0
+67.0
+22.0
+18.0
+11.0
+38.0
+20.0
+42.0
+52.0
+16.0
+29.0
+40.0
+36.0
+17.0
+41.0
+21.0
+26.0
+22.0
+50.0
+36.0
+31.0
+70.0
+37.0
+43.0
+4.0
+16.0
+16.0
+26.0
+16.0
+24.0
+39.0
+19.0
+21.0
+16.0
+38.0
+18.0
+35.0
+11.0
+14.0
+52.0
+46.0
+31.0
+18.0
+34.0
+36.0
+19.0
+25.0
+13.0
+26.0
+43.0
+32.0
+24.0
+11.0
+29.0
+23.0
+39.0
+42.0
+23.0
+40.0
+32.0
+43.0
+25.0
+12.0
+13.0
+28.0
+37.0
+19.0
+57.0
+22.0
+63.0
+37.0
+28.0
+57.0
+63.0
+23.0
+26.0
+22.0
+33.0
+25.0
+37.0
+69.0
+15.0
+17.0
+23.0
+28.0
+42.0
+47.0
+33.0
+22.0
+8.0
+11.0
+27.0
+29.0
+6.0
+31.0
+15.0
+25.0
+17.0
+24.0
+30.0
+25.0
+38.0
+40.0
+26.0
+41.0
+17.0
+47.0
+14.0
+18.0
+14.0
+54.0
+18.0
+35.0
+44.0
+35.0
+35.0
+46.0
+55.0
+49.0
+14.0
+44.0
+28.0
+43.0
+44.0
+45.0
+23.0
+20.0
+18.0
+13.0
+24.0
+15.0
+43.0
+12.0
+21.0
+15.0
+55.0
+23.0
+21.0
+27.0
+32.0
+66.0
+27.0
+20.0
+31.0
+22.0
+15.0
+38.0
+47.0
+39.0
+26.0
+69.0
+19.0
+42.0
+34.0
+23.0
+33.0
+31.0
+12.0
+26.0
+30.0
+22.0
+36.0
+31.0
+30.0
+24.0
+42.0
+23.0
+14.0
+22.0
+41.0
+30.0
+30.0
+47.0
+59.0
+25.0
+32.0
+37.0
+33.0
+47.0
+14.0
+46.0
+82.0
+40.0
+19.0
+19.0
+28.0
+30.0
+18.0
+34.0
+25.0
+28.0
+46.0
+21.0
+47.0
+58.0
+37.0
+19.0
+11.0
+38.0
+67.0
+36.0
+24.0
+21.0
+27.0
+72.0
+79.0
+45.0
+23.0
+27.0
+53.0
+15.0
+22.0
+32.0
+16.0
+49.0
+18.0
+37.0
+37.0
+23.0
+49.0
+29.0
+41.0
+28.0
+20.0
+58.0
+77.0
+27.0
+31.0
+18.0
+21.0
+15.0
+13.0
+48.0
+26.0
+19.0
+33.0
+15.0
+42.0
+30.0
+20.0
+56.0
+17.0
+13.0
+33.0
+30.0
+17.0
+31.0
+28.0
+40.0
+16.0
+24.0
+21.0
+55.0
+47.0
+37.0
+33.0
+15.0
+19.0
+28.0
+35.0
+52.0
+29.0
+23.0
+45.0
+29.0
+43.0
+58.0
+37.0
+38.0
+36.0
+19.0
+29.0
+34.0
+40.0
+50.0
+29.0
+34.0
+48.0
+28.0
+16.0
+34.0
+37.0
+27.0
+26.0
+33.0
+20.0
+37.0
+46.0
+77.0
+43.0
+25.0
+34.0
+23.0
+23.0
+24.0
+40.0
+45.0
+36.0
+78.0
+16.0
+50.0
+33.0
+25.0
+15.0
+62.0
+35.0
+26.0
+11.0
+81.0
+30.0
+8.0
+8.0
+24.0
+33.0
+11.0
+35.0
+45.0
+8.0
+23.0
+20.0
+20.0
+41.0
+32.0
+70.0
+24.0
+17.0
+13.0
+35.0
+45.0
+34.0
+40.0
+59.0
+45.0
+23.0
+51.0
+15.0
+27.0
+18.0
+25.0
+54.0
+18.0
+54.0
+28.0
+23.0
+48.0
+27.0
+18.0
+57.0
+30.0
+19.0
+53.0
+24.0
+23.0
+9.0
+61.0
+41.0
+25.0
+42.0
+19.0
+20.0
+33.0
+46.0
+37.0
+21.0
+32.0
+21.0
+30.0
+43.0
+60.0
+23.0
+28.0
+34.0
+25.0
+23.0
+44.0
+38.0
+30.0
+21.0
+43.0
+19.0
+37.0
+29.0
+12.0
+20.0
+13.0
+17.0
+42.0
+65.0
+46.0
+46.0
+25.0
+36.0
+22.0
+40.0
+43.0
+24.0
+18.0
+21.0
+33.0
+27.0
+10.0
+27.0
+22.0
+51.0
+56.0
+32.0
+33.0
+33.0
+12.0
+21.0
+45.0
+45.0
+64.0
+14.0
+30.0
+50.0
+54.0
+18.0

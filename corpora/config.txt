@@ -11,7 +11,7 @@ targetLang.default 						= english
 
 output								= temp/output/ch-en
 input 								= temp/input/ch-en
-resourcesPath 							= /export/data/ghpaetzold/questplusplus/export/data/ghpaetzold/questplusplus/lang_resources
+resourcesPath 							= ./lang_resources
 ! featureConfig.bb 						= /export/data/ghpaetzold/questplusplus/config/features/features_blackbox_79.xml
 featureConfig.bb						= /export/data/ghpaetzold/iconicinternship/corpora/features.xml
 featureConfig.gb 						= /export/data/ghpaetzold/questplusplus/config/features/features_glassbox.xml
@@ -30,8 +30,8 @@ chinese.ngram.outputFolder 					= chinese
 chinese.ngram.outputFileExt 					= ngram
 chinese.poslm 							= /export/data/ghpaetzold/questplusplus/lang_resources/chinese/pos_lm.ch
 chinese.LMPosPerplexity.outputFileExt 				= pos.ppl
-chinese.corpus							= /export/data/ghpaetzold/questplusplus/lang_resources/chinese/sample_corpus.ch
-chinese.lm							= /export/data/ghpaetzold/questplusplus/lang_resources/chinese/chinese_lm.lm
+chinese.corpus							= /export/data/ghpaetzold/iconicinternship/corpora/large/train.zh
+!chinese.lm							= /export/data/ghpaetzold/questplusplus/lang_resources/chinese/chinese_lm.lm
 chinese.tokenizer 						= /export/data/ghpaetzold/questplusplus/lang_resources/tokenizer/tokenizer.perl
 chinese.lowercase 						= /export/data/ghpaetzold/questplusplus/lang_resources/tokenizer/lowercase.perl
 chinese.truecase 						= /export/data/ghpaetzold/questplusplus/lang_resources/tokenizer/truecase.perl
@@ -40,15 +40,15 @@ chinese.preprocess						= 0
 target.wordgraph 						= /export/data/ghpaetzold/questplusplus/lang_resources/chinese/wordgraph.es
 target.stopwordlist						= /export/data/ghpaetzold/questplusplus/lang_resources/chinese/chinese.stopwords.txt
 target.ngramValueList						= /export/data/ghpaetzold/questplusplus/lang_resources/chinese/ngram-target
-chinese.ngram                                                   = /export/data/ghpaetzold/questplusplus/lang_resources/chinese/chinese_ngram.ngram.clean
+!chinese.ngram                                                   = /export/data/ghpaetzold/questplusplus/lang_resources/chinese/chinese_ngram.ngram.clean
 
 ! Resources for english:
 
-english.ngram                                                   = /export/data/ghpaetzold/questplusplus/lang_resources/english/english_ngram.ngram.clean
+!english.ngram                                                   = /export/data/ghpaetzold/questplusplus/lang_resources/english/english_ngram.ngram.clean
 english.tokenizer                                               = /export/data/ghpaetzold/questplusplus/lang_resources/tokenizer/tokenizer.perl
 english.lowercase                                               = /export/data/ghpaetzold/questplusplus/lang_resources/tokenizer/lowercase.perl
-english.corpus                                                  = /export/data/ghpaetzold/questplusplus/lang_resources/english/sample_corpus.en
-english.lm							= /export/data/ghpaetzold/questplusplus/lang_resources/english/english_lm.lm
+english.corpus                                                  = /export/data/ghpaetzold/iconicinternship/corpora/large/train.en
+!english.lm							= /export/data/ghpaetzold/questplusplus/lang_resources/english/english_lm.lm
 english.truecase                                                = /export/data/ghpaetzold/questplusplus/lang_resources/tokenizer/truecase.perl
 english.truecase.model                                  	= /export/data/ghpaetzold/questplusplus/lang_resources/english/truecase-model.en
 english.postagger 						= shef.mt.tools.PosTreeTagger

@@ -13,7 +13,7 @@ def writeLabels(labels, file):
 	c = -1
 	for l in labels:
 		c += 1
-		file.write('Iconic\t' + str(c) + '\t' + str(l) + '\t' + str(c) + '\n')
+		file.write(str(l) + '\n')
 	file.close()
 
 C = float(sys.argv[1])
