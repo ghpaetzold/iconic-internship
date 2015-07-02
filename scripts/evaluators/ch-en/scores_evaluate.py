@@ -20,6 +20,7 @@ for dataset in datasets:
 	for mlfolder in mlfolders:
 		minmse = 999999999
 		minmae = 999999999
+		minfile = ''
 		files = []
 		try:
 			files = os.listdir(mainfolder + mlfolder + '/' + dataset + '/')
@@ -33,4 +34,5 @@ for dataset in datasets:
 				if mse<minmse:
 					minmse = mse
 					minmae = mae
-		print('\tFor ' + mlfolder + ': ' + str(minmse) + '/' + str(minmae))
+					minfile = file
+		print('\tFor ' + mlfolder + ': ' + str(minmse) + '/' + str(minmae) + ': ' + minfile)
