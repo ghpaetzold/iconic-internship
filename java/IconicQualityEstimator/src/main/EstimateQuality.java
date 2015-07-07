@@ -50,14 +50,23 @@ public class EstimateQuality {
         String outputFile = cl.getOptionValue("output");
 
         //Create QuestProcessor instance:
+        long time = System.currentTimeMillis();
         QuestProcessor quest = new QuestProcessor(tempFolder, featuresFile, gizaFile,
                 ngramFile, corpusSrc, corpusTrg, lmSrc, lmTrg, srilmPath, modelFile, sourceLang, targetLang);
+        time = (System.currentTimeMillis()-time)/1000;
+        System.out.println("Models loaded! Seconds taken: " + time);
 
         //Calculate features:
+        time = System.currentTimeMillis();
         ArrayList<ArrayList<Double>> features = quest.calculateFeatures(sourceFile, targetFile);
+        time = (System.currentTimeMillis()-time)/1000;
+        System.out.println("Features calculated! Seconds taken: " + time);
         
         //Calculate scores:
+        time = System.currentTimeMillis();
         ArrayList<Integer> scores = quest.estimateQuality(features);
+        time = (System.currentTimeMillis()-time)/1000;
+        System.out.println("Scores produced! Seconds taken: " + time);
         
         //Save scores:
         saveScores(scores, outputFile);

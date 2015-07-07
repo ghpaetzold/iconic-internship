@@ -50,6 +50,7 @@ public class GetQualityModel {
         //Get model file and kernel:
         String modelFile = cl.getOptionValue("model");
         String kernel = cl.getOptionValue("kernel");
+        Integer samples = Integer.parseInt(cl.getOptionValue("samples"));
 
         //Get output file:
         String outputFile = cl.getOptionValue("output");
@@ -66,7 +67,7 @@ public class GetQualityModel {
         SVMModelBuilderProcessor svm = new SVMModelBuilderProcessor();
         
         //Train and save model:
-        svm_model model = svm.buildModelFile(features, scores, modelFile, tempFolder, kernel, 3);
+        svm_model model = svm.buildModelFile(features, scores, modelFile, tempFolder, kernel, samples);
     }
 
     private static CommandLine parseArguments(String[] args) {
@@ -88,6 +89,7 @@ public class GetQualityModel {
         options.addOption("scores", true, "Scores file.");
         options.addOption("model", true, "Path to save trained QE model.");
         options.addOption("kernel", true, "Kernel to be used.");
+        options.addOption("samples", true, "Number of samples for cross-validation.");
 
         //Get required options:
         HashSet<String> requiredOpts = new HashSet<>();
