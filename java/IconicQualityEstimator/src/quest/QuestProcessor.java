@@ -477,14 +477,15 @@ public class QuestProcessor {
         String pplTargetPath = resourceManager.getString("input")
                 + File.separator + targetFileName + resourceManager.getString("tools.ngram.output.ext");
 
+        long time = System.currentTimeMillis();
         runNGramPPL();
 
         PPLProcessor pplProcSource = new PPLProcessor(pplSourcePath,
                 new String[]{"logprob", "ppl", "ppl1"});
         PPLProcessor pplProcTarget = new PPLProcessor(pplTargetPath,
                 new String[]{"logprob", "ppl", "ppl1"});
-
-        FileModelOriginal fm = new FileModelOriginal(resourceManager.getString(sourceLang + ".corpus"));
+        time = (System.currentTimeMillis()-time)/1000;
+        System.out.println("Perplexities calculated! Seconds taken: " + time);
 
         BufferedReader brSource = null;
         BufferedReader brTarget = null;
