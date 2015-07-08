@@ -10,3 +10,633 @@
   f = msb / msw
 /usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
   f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+Traceback (most recent call last):
+  File "SGD.py", line 39, in <module>
+    classifier.fit(Xtr, Ytr)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 483, in fit
+    sample_weight=sample_weight)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 387, in _fit
+    classes, sample_weight, coef_init, intercept_init)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 348, in _partial_fit
+    sample_weight=sample_weight, n_iter=n_iter)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 417, in _fit_multiclass
+    for i in range(len(self.classes_)))
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 653, in __call__
+    self.dispatch(function, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 400, in dispatch
+    job = ImmediateApply(func, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 138, in __init__
+    self.results = func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 276, in fit_binary
+    est.power_t, est.t_, intercept_decay)
+  File "sgd_fast.pyx", line 522, in sklearn.linear_model.sgd_fast.plain_sgd (sklearn/linear_model/sgd_fast.c:5842)
+ValueError: Floating-point under-/overflow occurred at epoch #1. Scaling input data with StandardScaler or MinMaxScaler might help.
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+Traceback (most recent call last):
+  File "SGD.py", line 39, in <module>
+    classifier.fit(Xtr, Ytr)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 483, in fit
+    sample_weight=sample_weight)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 387, in _fit
+    classes, sample_weight, coef_init, intercept_init)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 348, in _partial_fit
+    sample_weight=sample_weight, n_iter=n_iter)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 417, in _fit_multiclass
+    for i in range(len(self.classes_)))
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 653, in __call__
+    self.dispatch(function, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 400, in dispatch
+    job = ImmediateApply(func, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 138, in __init__
+    self.results = func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 276, in fit_binary
+    est.power_t, est.t_, intercept_decay)
+  File "sgd_fast.pyx", line 522, in sklearn.linear_model.sgd_fast.plain_sgd (sklearn/linear_model/sgd_fast.c:5842)
+ValueError: Floating-point under-/overflow occurred at epoch #1. Scaling input data with StandardScaler or MinMaxScaler might help.
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+Traceback (most recent call last):
+  File "SGD.py", line 39, in <module>
+    classifier.fit(Xtr, Ytr)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 483, in fit
+    sample_weight=sample_weight)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 387, in _fit
+    classes, sample_weight, coef_init, intercept_init)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 348, in _partial_fit
+    sample_weight=sample_weight, n_iter=n_iter)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 417, in _fit_multiclass
+    for i in range(len(self.classes_)))
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 653, in __call__
+    self.dispatch(function, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 400, in dispatch
+    job = ImmediateApply(func, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 138, in __init__
+    self.results = func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 276, in fit_binary
+    est.power_t, est.t_, intercept_decay)
+  File "sgd_fast.pyx", line 522, in sklearn.linear_model.sgd_fast.plain_sgd (sklearn/linear_model/sgd_fast.c:5842)
+ValueError: Floating-point under-/overflow occurred at epoch #1. Scaling input data with StandardScaler or MinMaxScaler might help.
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+Traceback (most recent call last):
+  File "SGD.py", line 39, in <module>
+    classifier.fit(Xtr, Ytr)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 483, in fit
+    sample_weight=sample_weight)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 387, in _fit
+    classes, sample_weight, coef_init, intercept_init)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 348, in _partial_fit
+    sample_weight=sample_weight, n_iter=n_iter)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 417, in _fit_multiclass
+    for i in range(len(self.classes_)))
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 653, in __call__
+    self.dispatch(function, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 400, in dispatch
+    job = ImmediateApply(func, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 138, in __init__
+    self.results = func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 276, in fit_binary
+    est.power_t, est.t_, intercept_decay)
+  File "sgd_fast.pyx", line 522, in sklearn.linear_model.sgd_fast.plain_sgd (sklearn/linear_model/sgd_fast.c:5842)
+ValueError: Floating-point under-/overflow occurred at epoch #1. Scaling input data with StandardScaler or MinMaxScaler might help.
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+Traceback (most recent call last):
+  File "SGD.py", line 39, in <module>
+    classifier.fit(Xtr, Ytr)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 483, in fit
+    sample_weight=sample_weight)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 387, in _fit
+    classes, sample_weight, coef_init, intercept_init)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 348, in _partial_fit
+    sample_weight=sample_weight, n_iter=n_iter)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 417, in _fit_multiclass
+    for i in range(len(self.classes_)))
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 653, in __call__
+    self.dispatch(function, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 400, in dispatch
+    job = ImmediateApply(func, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 138, in __init__
+    self.results = func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 276, in fit_binary
+    est.power_t, est.t_, intercept_decay)
+  File "sgd_fast.pyx", line 522, in sklearn.linear_model.sgd_fast.plain_sgd (sklearn/linear_model/sgd_fast.c:5842)
+ValueError: Floating-point under-/overflow occurred at epoch #1. Scaling input data with StandardScaler or MinMaxScaler might help.
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+Traceback (most recent call last):
+  File "SGD.py", line 39, in <module>
+    classifier.fit(Xtr, Ytr)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 483, in fit
+    sample_weight=sample_weight)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 387, in _fit
+    classes, sample_weight, coef_init, intercept_init)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 348, in _partial_fit
+    sample_weight=sample_weight, n_iter=n_iter)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 417, in _fit_multiclass
+    for i in range(len(self.classes_)))
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 653, in __call__
+    self.dispatch(function, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 400, in dispatch
+    job = ImmediateApply(func, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 138, in __init__
+    self.results = func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 276, in fit_binary
+    est.power_t, est.t_, intercept_decay)
+  File "sgd_fast.pyx", line 522, in sklearn.linear_model.sgd_fast.plain_sgd (sklearn/linear_model/sgd_fast.c:5842)
+ValueError: Floating-point under-/overflow occurred at epoch #1. Scaling input data with StandardScaler or MinMaxScaler might help.
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+Traceback (most recent call last):
+  File "SGD.py", line 39, in <module>
+    classifier.fit(Xtr, Ytr)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 483, in fit
+    sample_weight=sample_weight)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 387, in _fit
+    classes, sample_weight, coef_init, intercept_init)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 348, in _partial_fit
+    sample_weight=sample_weight, n_iter=n_iter)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 417, in _fit_multiclass
+    for i in range(len(self.classes_)))
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 653, in __call__
+    self.dispatch(function, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 400, in dispatch
+    job = ImmediateApply(func, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 138, in __init__
+    self.results = func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 276, in fit_binary
+    est.power_t, est.t_, intercept_decay)
+  File "sgd_fast.pyx", line 522, in sklearn.linear_model.sgd_fast.plain_sgd (sklearn/linear_model/sgd_fast.c:5842)
+ValueError: Floating-point under-/overflow occurred at epoch #1. Scaling input data with StandardScaler or MinMaxScaler might help.
+Traceback (most recent call last):
+  File "SGD.py", line 39, in <module>
+    classifier.fit(Xtr, Ytr)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 483, in fit
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+    sample_weight=sample_weight)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 387, in _fit
+    classes, sample_weight, coef_init, intercept_init)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 348, in _partial_fit
+    sample_weight=sample_weight, n_iter=n_iter)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 417, in _fit_multiclass
+    for i in range(len(self.classes_)))
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 653, in __call__
+    self.dispatch(function, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 400, in dispatch
+    job = ImmediateApply(func, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 138, in __init__
+    self.results = func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 276, in fit_binary
+    est.power_t, est.t_, intercept_decay)
+  File "sgd_fast.pyx", line 522, in sklearn.linear_model.sgd_fast.plain_sgd (sklearn/linear_model/sgd_fast.c:5842)
+ValueError: Floating-point under-/overflow occurred at epoch #1. Scaling input data with StandardScaler or MinMaxScaler might help.
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+Traceback (most recent call last):
+  File "SGD.py", line 39, in <module>
+    classifier.fit(Xtr, Ytr)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 483, in fit
+    sample_weight=sample_weight)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 387, in _fit
+    classes, sample_weight, coef_init, intercept_init)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 348, in _partial_fit
+    sample_weight=sample_weight, n_iter=n_iter)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 417, in _fit_multiclass
+    for i in range(len(self.classes_)))
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 653, in __call__
+    self.dispatch(function, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 400, in dispatch
+    job = ImmediateApply(func, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 138, in __init__
+    self.results = func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 276, in fit_binary
+    est.power_t, est.t_, intercept_decay)
+  File "sgd_fast.pyx", line 522, in sklearn.linear_model.sgd_fast.plain_sgd (sklearn/linear_model/sgd_fast.c:5842)
+ValueError: Floating-point under-/overflow occurred at epoch #1. Scaling input data with StandardScaler or MinMaxScaler might help.
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+Traceback (most recent call last):
+  File "SGD.py", line 39, in <module>
+    classifier.fit(Xtr, Ytr)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 483, in fit
+    sample_weight=sample_weight)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 387, in _fit
+    classes, sample_weight, coef_init, intercept_init)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 348, in _partial_fit
+    sample_weight=sample_weight, n_iter=n_iter)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 417, in _fit_multiclass
+    for i in range(len(self.classes_)))
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 653, in __call__
+    self.dispatch(function, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 400, in dispatch
+    job = ImmediateApply(func, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 138, in __init__
+    self.results = func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 276, in fit_binary
+    est.power_t, est.t_, intercept_decay)
+  File "sgd_fast.pyx", line 522, in sklearn.linear_model.sgd_fast.plain_sgd (sklearn/linear_model/sgd_fast.c:5842)
+ValueError: Floating-point under-/overflow occurred at epoch #1. Scaling input data with StandardScaler or MinMaxScaler might help.
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+Traceback (most recent call last):
+  File "SGD.py", line 39, in <module>
+    classifier.fit(Xtr, Ytr)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 483, in fit
+    sample_weight=sample_weight)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 387, in _fit
+    classes, sample_weight, coef_init, intercept_init)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 348, in _partial_fit
+    sample_weight=sample_weight, n_iter=n_iter)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 417, in _fit_multiclass
+    for i in range(len(self.classes_)))
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 653, in __call__
+    self.dispatch(function, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 400, in dispatch
+    job = ImmediateApply(func, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 138, in __init__
+    self.results = func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 276, in fit_binary
+    est.power_t, est.t_, intercept_decay)
+  File "sgd_fast.pyx", line 522, in sklearn.linear_model.sgd_fast.plain_sgd (sklearn/linear_model/sgd_fast.c:5842)
+ValueError: Floating-point under-/overflow occurred at epoch #1. Scaling input data with StandardScaler or MinMaxScaler might help.
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+Traceback (most recent call last):
+  File "SGD.py", line 39, in <module>
+    classifier.fit(Xtr, Ytr)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 483, in fit
+    sample_weight=sample_weight)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 387, in _fit
+    classes, sample_weight, coef_init, intercept_init)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 348, in _partial_fit
+    sample_weight=sample_weight, n_iter=n_iter)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 417, in _fit_multiclass
+    for i in range(len(self.classes_)))
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 653, in __call__
+    self.dispatch(function, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 400, in dispatch
+    job = ImmediateApply(func, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 138, in __init__
+    self.results = func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 276, in fit_binary
+    est.power_t, est.t_, intercept_decay)
+  File "sgd_fast.pyx", line 522, in sklearn.linear_model.sgd_fast.plain_sgd (sklearn/linear_model/sgd_fast.c:5842)
+ValueError: Floating-point under-/overflow occurred at epoch #1. Scaling input data with StandardScaler or MinMaxScaler might help.
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+Traceback (most recent call last):
+  File "SGD.py", line 39, in <module>
+    classifier.fit(Xtr, Ytr)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 483, in fit
+    sample_weight=sample_weight)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 387, in _fit
+    classes, sample_weight, coef_init, intercept_init)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 348, in _partial_fit
+    sample_weight=sample_weight, n_iter=n_iter)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 417, in _fit_multiclass
+    for i in range(len(self.classes_)))
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 653, in __call__
+    self.dispatch(function, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 400, in dispatch
+    job = ImmediateApply(func, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 138, in __init__
+    self.results = func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 276, in fit_binary
+    est.power_t, est.t_, intercept_decay)
+  File "sgd_fast.pyx", line 522, in sklearn.linear_model.sgd_fast.plain_sgd (sklearn/linear_model/sgd_fast.c:5842)
+ValueError: Floating-point under-/overflow occurred at epoch #1. Scaling input data with StandardScaler or MinMaxScaler might help.
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+Traceback (most recent call last):
+  File "SGD.py", line 39, in <module>
+    classifier.fit(Xtr, Ytr)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 483, in fit
+    sample_weight=sample_weight)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 387, in _fit
+    classes, sample_weight, coef_init, intercept_init)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 348, in _partial_fit
+    sample_weight=sample_weight, n_iter=n_iter)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 417, in _fit_multiclass
+    for i in range(len(self.classes_)))
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 653, in __call__
+    self.dispatch(function, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 400, in dispatch
+    job = ImmediateApply(func, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 138, in __init__
+    self.results = func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 276, in fit_binary
+    est.power_t, est.t_, intercept_decay)
+  File "sgd_fast.pyx", line 522, in sklearn.linear_model.sgd_fast.plain_sgd (sklearn/linear_model/sgd_fast.c:5842)
+ValueError: Floating-point under-/overflow occurred at epoch #1. Scaling input data with StandardScaler or MinMaxScaler might help.
+Traceback (most recent call last):
+  File "SGD.py", line 39, in <module>
+    classifier.fit(Xtr, Ytr)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 483, in fit
+    sample_weight=sample_weight)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 387, in _fit
+    classes, sample_weight, coef_init, intercept_init)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 348, in _partial_fit
+    sample_weight=sample_weight, n_iter=n_iter)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 417, in _fit_multiclass
+    for i in range(len(self.classes_)))
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 653, in __call__
+    self.dispatch(function, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 400, in dispatch
+    job = ImmediateApply(func, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 138, in __init__
+    self.results = func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 276, in fit_binary
+    est.power_t, est.t_, intercept_decay)
+  File "sgd_fast.pyx", line 522, in sklearn.linear_model.sgd_fast.plain_sgd (sklearn/linear_model/sgd_fast.c:5842)
+ValueError: Floating-point under-/overflow occurred at epoch #1. Scaling input data with StandardScaler or MinMaxScaler might help.
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+Traceback (most recent call last):
+  File "SGD.py", line 39, in <module>
+    classifier.fit(Xtr, Ytr)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 483, in fit
+    sample_weight=sample_weight)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 387, in _fit
+    classes, sample_weight, coef_init, intercept_init)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 348, in _partial_fit
+    sample_weight=sample_weight, n_iter=n_iter)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 417, in _fit_multiclass
+    for i in range(len(self.classes_)))
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 653, in __call__
+    self.dispatch(function, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 400, in dispatch
+    job = ImmediateApply(func, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 138, in __init__
+    self.results = func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 276, in fit_binary
+    est.power_t, est.t_, intercept_decay)
+  File "sgd_fast.pyx", line 522, in sklearn.linear_model.sgd_fast.plain_sgd (sklearn/linear_model/sgd_fast.c:5842)
+ValueError: Floating-point under-/overflow occurred at epoch #1. Scaling input data with StandardScaler or MinMaxScaler might help.
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+Traceback (most recent call last):
+  File "SGD.py", line 39, in <module>
+    classifier.fit(Xtr, Ytr)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 483, in fit
+    sample_weight=sample_weight)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 387, in _fit
+    classes, sample_weight, coef_init, intercept_init)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 348, in _partial_fit
+    sample_weight=sample_weight, n_iter=n_iter)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 417, in _fit_multiclass
+    for i in range(len(self.classes_)))
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 653, in __call__
+    self.dispatch(function, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 400, in dispatch
+    job = ImmediateApply(func, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 138, in __init__
+    self.results = func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 276, in fit_binary
+    est.power_t, est.t_, intercept_decay)
+  File "sgd_fast.pyx", line 522, in sklearn.linear_model.sgd_fast.plain_sgd (sklearn/linear_model/sgd_fast.c:5842)
+ValueError: Floating-point under-/overflow occurred at epoch #1. Scaling input data with StandardScaler or MinMaxScaler might help.
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+Traceback (most recent call last):
+  File "SGD.py", line 39, in <module>
+    classifier.fit(Xtr, Ytr)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 483, in fit
+    sample_weight=sample_weight)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 387, in _fit
+    classes, sample_weight, coef_init, intercept_init)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 348, in _partial_fit
+    sample_weight=sample_weight, n_iter=n_iter)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 417, in _fit_multiclass
+    for i in range(len(self.classes_)))
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 653, in __call__
+    self.dispatch(function, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 400, in dispatch
+    job = ImmediateApply(func, args, kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/externals/joblib/parallel.py", line 138, in __init__
+    self.results = func(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/sklearn/linear_model/stochastic_gradient.py", line 276, in fit_binary
+    est.power_t, est.t_, intercept_decay)
+  File "sgd_fast.pyx", line 522, in sklearn.linear_model.sgd_fast.plain_sgd (sklearn/linear_model/sgd_fast.c:5842)
+ValueError: Floating-point under-/overflow occurred at epoch #1. Scaling input data with StandardScaler or MinMaxScaler might help.
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/usr/local/lib/python2.7/dist-packages/sklearn/feature_selection/univariate_selection.py:106: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw

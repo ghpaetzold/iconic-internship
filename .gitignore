@@ -2,3 +2,5 @@
 /scores/*
 /classes/*
 /java/IconicQualityEstimator/dist/
+/temp/*
+*nohup.out

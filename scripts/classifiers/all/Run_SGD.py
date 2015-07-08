@@ -1,7 +1,7 @@
 import os
 
 #Set language pair:
-lang_pair = 'ch-en'
+lang_pair = 'en-es'
 
 #Parameters:
 losses = ['epsilon_insensitive', 'squared_loss', 'huber', 'squared_epsilon_insensitive']
