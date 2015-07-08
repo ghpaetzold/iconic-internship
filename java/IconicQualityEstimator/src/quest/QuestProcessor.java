@@ -330,26 +330,12 @@ public class QuestProcessor {
      * @return an svm_node vector equivalent to the feature values of the input
      * string.
      */
-    private static svm_node[] buildSvm_Node(String s) {
-        String[] features = s.trim().split(" ");
-        int size = features.length;
-        if (!features[0].contains(":")) {
-            String[] aux = new String[size - 1];
-            for (int i = 0; i < size - 1; i++) {
-                aux[i] = features[i + 1];
-            }
-            features = aux;
-            size = size - 1;
-        }
-        svm_node[] result = new svm_node[size];
-        for (int i = 0; i < size; i++) {
-            String feature = features[i];
-            String[] data = feature.split(":");
-            String index = data[0];
-            String value = data[1];
+    private static svm_node[] buildSvm_Node(ArrayList<Double> values) {
+        svm_node[] result = new svm_node[values.size()];
+        for (int i = 0; i < values.size(); i++) {
             svm_node aux = new svm_node();
-            aux.index = Integer.valueOf(index);
-            aux.value = Double.valueOf(value);
+            aux.index = i+1;
+            aux.value = values.get(i);
             result[i] = aux;
         }
         return result;
@@ -603,8 +589,7 @@ public class QuestProcessor {
         for (int i = 0; i < features.size(); i++) {
             ArrayList<Double> values = features.get(i);
 
-            String formattedFeatureValues = formatFeatureValues(values);
-            svm_node[] finalFeatureValues = buildSvm_Node(formattedFeatureValues);
+            svm_node[] finalFeatureValues = buildSvm_Node(values);
             double score = svm.svm_predict(predictionModel, finalFeatureValues);
             scores.add(Math.toIntExact(Math.round(score)));
         }
