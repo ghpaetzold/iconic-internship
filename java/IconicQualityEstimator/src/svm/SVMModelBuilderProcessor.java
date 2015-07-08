@@ -34,7 +34,7 @@ public class SVMModelBuilderProcessor {
      * @param modelPath path for output text file containing the final model.
      * @param n number of samples for cross-validation.
      */
-    public svm_model buildModelFile(ArrayList<ArrayList<Double>> features, ArrayList<Integer> scores, String modelPath, String temp, String kernel, int n) {
+    public svm_model buildModelFile(ArrayList<ArrayList<Double>> features, ArrayList<Integer> scores, String modelPath, String temp, String kernel, int n, double C, double gamma, double epsilon) {
         svm_parameter param = new svm_parameter();
         param.shrinking = 1;
         param.svm_type = svm_parameter.C_SVC;
@@ -55,7 +55,6 @@ public class SVMModelBuilderProcessor {
                 param.kernel_type = svm_parameter.LINEAR;
                 break;
         }
-        
         param.cache_size = 64;
         param.degree = 2;
         param.gamma = 0;
@@ -70,11 +69,16 @@ public class SVMModelBuilderProcessor {
         param.nr_weight = 0;
         param.weight_label = new int[0];
         param.weight = new double[0];
-        svm_model predictionModel = buildTrainingModel(features, scores, temp, param, n);
+        svm_model predictionModel = null;
+        if (n <= 0) {
+            predictionModel = buildTrainingModel(features, scores, temp, param, n, C, gamma, epsilon);
+        } else {
+            predictionModel = buildTrainingModelCV(features, scores, temp, param, n);
+        }
         try {
             svm.svm_save_model(modelPath, predictionModel);
         } catch (IOException e) {
-            e.printStackTrace();
+            System.out.println("Error: " + e.getMessage());
         }
         return predictionModel;
     }
@@ -89,7 +93,7 @@ public class SVMModelBuilderProcessor {
      * @return an svm_model object trained with the best combination of
      * parameters.
      */
-    private svm_model buildTrainingModel(ArrayList<ArrayList<Double>> features, ArrayList<Integer> scores, String temp,
+    private svm_model buildTrainingModelCV(ArrayList<ArrayList<Double>> features, ArrayList<Integer> scores, String temp,
             svm_parameter param, int n) {
         double threshold = 0.2;
         Random r = new Random();
@@ -101,9 +105,9 @@ public class SVMModelBuilderProcessor {
             ArrayList<Double> values = features.get(i);
             Integer score = scores.get(i);
             String line = score + " ";
-            for (int j=0; j<values.size(); j++) {
+            for (int j = 0; j < values.size(); j++) {
                 Double d = values.get(j);
-                line += (j+1) + ":" + d + " ";
+                line += (j + 1) + ":" + d + " ";
             }
             featuresString.add(line.trim());
         }
@@ -211,7 +215,45 @@ public class SVMModelBuilderProcessor {
 
         //Return an SVM object.
         return svm.svm_train(final_problem, param);
+    }
 
+    /**
+     * Builds an svm_model object based on training data.
+     *
+     * @param modelPath text file containing training data.
+     * @param inputPath folder to save temporary cross-validation samples.
+     * @param param parameters object for the SVM.
+     * @param n number of samples of the cross-validation
+     * @return an svm_model object trained with the best combination of
+     * parameters.
+     */
+    private svm_model buildTrainingModel(ArrayList<ArrayList<Double>> features, ArrayList<Integer> scores, String temp,
+            svm_parameter param, int n, double C, double gamma, double epsilon) {
+        double threshold = 0.2;
+        Random r = new Random();
+        HashMap<Integer, ArrayList<String>> valuesMap = new HashMap<>();
+
+        //Create string representation of features and scores:
+        ArrayList<String> featuresString = new ArrayList<>();
+        for (int i = 0; i < features.size(); i++) {
+            ArrayList<Double> values = features.get(i);
+            Integer score = scores.get(i);
+            String line = score + " ";
+            for (int j = 0; j < values.size(); j++) {
+                Double d = values.get(j);
+                line += (j + 1) + ":" + d + " ";
+            }
+            featuresString.add(line.trim());
+        }
+
+        //Modify parameters object with best values for parameters.
+        param.gamma = gamma;
+        param.C = C;
+        param.eps = epsilon;
+        svm_problem final_problem = buildProblem(featuresString);
+
+        //Return an SVM object.
+        return svm.svm_train(final_problem, param);
     }
 
     /**

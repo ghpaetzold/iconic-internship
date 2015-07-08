@@ -47,10 +47,18 @@ public class GetQualityModel {
         //Get features file:
         String featuresFile = cl.getOptionValue("features");
 
-        //Get model file and kernel:
+        //Get model file:
         String modelFile = cl.getOptionValue("model");
+        
+        //Get model parameters:
         String kernel = cl.getOptionValue("kernel");
         Integer samples = Integer.parseInt(cl.getOptionValue("samples"));
+        Double C = null, gamma = null, epsilon = null;
+        if (samples==0){
+            C = Double.parseDouble(cl.getOptionValue("C"));
+            gamma = Double.parseDouble(cl.getOptionValue("gamma"));
+            epsilon = Double.parseDouble(cl.getOptionValue("epsilon"));
+        }
 
         //Get output file:
         String outputFile = cl.getOptionValue("output");
@@ -62,12 +70,12 @@ public class GetQualityModel {
         //Calculate features and get scores:
         ArrayList<ArrayList<Double>> features = quest.calculateFeatures(sourceFile, targetFile);
         ArrayList<Integer> scores = readScores(scoresFile);
-        
+
         //Create model trainer:
         SVMModelBuilderProcessor svm = new SVMModelBuilderProcessor();
-        
+
         //Train and save model:
-        svm_model model = svm.buildModelFile(features, scores, modelFile, tempFolder, kernel, samples);
+        svm_model model = svm.buildModelFile(features, scores, modelFile, tempFolder, kernel, samples, C, gamma, epsilon);
     }
 
     private static CommandLine parseArguments(String[] args) {
@@ -99,6 +107,10 @@ public class GetQualityModel {
             requiredOpts.add(o.getOpt());
         }
 
+        options.addOption("C", true, "Value for the C hyperparameter.");
+        options.addOption("gamma", true, "Value for the gamma hyperparameter.");
+        options.addOption("epsilon", true, "Value for the epsilon hyperparameter.");
+
         //Create command line arguments:
         CommandLineParser parser = new BasicParser();
         try {
@@ -112,6 +124,19 @@ public class GetQualityModel {
                     return null;
                 }
             }
+            Integer samples = Integer.parseInt(cmd.getOptionValue("samples"));
+            if (samples == 0) {
+                String[] requiredParams = {"C", "gamma", "epsilon"};
+                for (String opt : requiredParams) {
+                    if (!cmd.hasOption(opt)) {
+                        System.out.println("Missing hyperparameter: " + opt);
+                        return null;
+                    } else if (cmd.getOptionValue(opt) == null) {
+                        System.out.println("Null hyperparameter value: " + opt);
+                        return null;
+                    }
+                }
+            }
             return cmd;
         } catch (ParseException ex) {
             Logger.getLogger(EstimateQuality.class.getName()).log(Level.SEVERE, null, ex);
@@ -123,7 +148,7 @@ public class GetQualityModel {
         ArrayList<Integer> scores = new ArrayList<>();
         try {
             BufferedReader br = new BufferedReader(new FileReader(scoresFile));
-            while(br.ready()){
+            while (br.ready()) {
                 Integer score = Integer.parseInt(br.readLine().trim());
                 scores.add(score);
             }
