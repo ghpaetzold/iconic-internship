@@ -457,20 +457,20 @@ public class QuestProcessor {
         f = new File(targetFile);
         String targetFileName = f.getName();
 
-        String pplSourcePath = resourceManager.getString("input")
-                + File.separator + sourceFileName + resourceManager.getString("tools.ngram.output.ext");
-        String pplTargetPath = resourceManager.getString("input")
-                + File.separator + targetFileName + resourceManager.getString("tools.ngram.output.ext");
-
-        long time = System.currentTimeMillis();
-        runNGramPPL();
-
-        PPLProcessor pplProcSource = new PPLProcessor(pplSourcePath,
-                new String[]{"logprob", "ppl", "ppl1"});
-        PPLProcessor pplProcTarget = new PPLProcessor(pplTargetPath,
-                new String[]{"logprob", "ppl", "ppl1"});
-        time = (System.currentTimeMillis()-time)/1000;
-        System.out.println("Perplexities calculated! Seconds taken: " + time);
+//        String pplSourcePath = resourceManager.getString("input")
+//                + File.separator + sourceFileName + resourceManager.getString("tools.ngram.output.ext");
+//        String pplTargetPath = resourceManager.getString("input")
+//                + File.separator + targetFileName + resourceManager.getString("tools.ngram.output.ext");
+//
+//        long time = System.currentTimeMillis();
+//        runNGramPPL();
+//
+//        PPLProcessor pplProcSource = new PPLProcessor(pplSourcePath,
+//                new String[]{"logprob", "ppl", "ppl1"});
+//        PPLProcessor pplProcTarget = new PPLProcessor(pplTargetPath,
+//                new String[]{"logprob", "ppl", "ppl1"});
+//        time = (System.currentTimeMillis()-time)/1000;
+//        System.out.println("Perplexities calculated! Seconds taken: " + time);
 
         BufferedReader brSource = null;
         BufferedReader brTarget = null;
@@ -503,8 +503,8 @@ public class QuestProcessor {
 
                 sourceSent.computeNGrams(3);
                 targetSent.computeNGrams(3);
-                pplProcSource.processNextSentence(sourceSent);
-                pplProcTarget.processNextSentence(targetSent);
+//                pplProcSource.processNextSentence(sourceSent);
+//                pplProcTarget.processNextSentence(targetSent);
 
                 ++sentCount;
                 String featureValues = featureManager.runFeatures(sourceSent,
