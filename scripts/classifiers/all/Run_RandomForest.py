@@ -1,7 +1,7 @@
 import os
 
 #Set language pair:
-lang_pair = 'en-ch'
+lang_pair = 'en-es'
 
 #Parameters:
 n_estimators = ['50', '75']

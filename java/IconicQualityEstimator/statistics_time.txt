@@ -1,0 +1,19 @@
+features:{1022={}, 1066={}, 1065={}, 1020={}, 1064={}, 1063={}, 1062={}, 1061={}, 1060={}, 1018={}, 1016={}, 1015={}, 1059={}, 1014={}, 1058={}, 1013={}, 1057={}, 1012={}, 1056={}, 1077={}, 1032={}, 1076={}, 1075={}, 1030={}, 1074={}, 1073={}, 1072={}, 1071={}, 1070={}, 1028={}, 1026={}, 1069={}, 1024={}, 1068={}, 1067={}, 1080={}, 1044={}, 1042={}, 1040={}, 1082={}, 1081={}, 1038={}, 1036={}, 1079={}, 1034={}, 1078={}, 1011={}, 1055={}, 1010={}, 1054={}, 1053={}, 1052={}, 1051={}, 1050={}, 1006={}, 1005={}, 1049={}, 1004={}, 1048={}, 1003={}, 1047={}, 1002={}, 1046={}, 1001={}, 1009={}}
+looking in /export/data/ghpaetzold/iconicinternship/java/IconicQualityEstimator/config.properties
+looking in /export/data/ghpaetzold/iconicinternship/java/IconicQualityEstimator/config.properties
+Can't find default config file
+Building the input file model
+Input file model built!
+Loading Giza...
+Giza loaded in 12.265 sec
+Loading language model...
+Language model loaded in 21.126 sec
+Models loaded! Seconds taken: 38
+runNgramPPL
+Executing ngramperplex on /export/data/ghpaetzold/iconicinternship/corpora/ch-en/datasets/dataset1_test.zh with lm=/export/data/ghpaetzold/iconicinternship/corpora/ch-en/resources/chinese_large_lm.lm into /export/data/ghpaetzold/iconicinternship/temp//dataset1_test.zh.ppl
+/export/data/ghpaetzold/iconicinternship/corpora/ch-en/resources/english_large_lm.lm
+Executing ngramperplex on /export/data/ghpaetzold/iconicinternship/corpora/ch-en/datasets/dataset1_test.en with lm=/export/data/ghpaetzold/iconicinternship/corpora/ch-en/resources/english_large_lm.lm into /export/data/ghpaetzold/iconicinternship/temp//dataset1_test.en.ppl
+Perplexities calculated! Seconds taken: 65
+[ppl1, logprob, Giza, Freq, ngramcount, ppl]
+Features calculated! Seconds taken: 73
+Scores produced! Seconds taken: 182
