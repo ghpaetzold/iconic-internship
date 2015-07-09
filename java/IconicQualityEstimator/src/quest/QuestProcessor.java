@@ -43,7 +43,6 @@ import org.xml.sax.SAXException;
 import routines.svm_scale;
 import shef.mt.features.util.FeatureManager;
 import shef.mt.features.util.Sentence;
-import shef.mt.tools.FileModel;
 import shef.mt.tools.FileModelOriginal;
 import shef.mt.tools.Giza;
 import shef.mt.tools.LanguageModel;
