@@ -1,7 +1,7 @@
 import os
 
 #Set language pair:
-lang_pair = 'en-es'
+lang_pair = 'es-en'
 
 #Parameters:
 Cs = ['1.0', '10.0']
@@ -9,14 +9,14 @@ kernels = ['rbf', 'sigmoid', 'linear']
 kernels = ['rbf', 'sigmoid']
 degrees = ['2']
 gammas = ['0.0', '1.0', '10.0']
-gammas = ['1.0', '10.0']
 coef0s = ['0.0', '1.0']
-ks = ['50', '60', '65']
+ks = ['40', 'all']
 
 #Files:
 trainDataset = 'dataset1'
 testDatasets = ['dataset1', 'dataset2']
-trainX = '../../../corpora/'+lang_pair+'/features/'+trainDataset+'_train.features'
+testDatasets = ['dataset1']
+trainX = '../../../corpora/'+lang_pair+'/features/'+trainDataset+'_train.features_noppl'
 trainY = '../../../corpora/'+lang_pair+'/datasets/'+trainDataset+'_train.classes'
 
 #Folder name:
@@ -29,7 +29,7 @@ for td in testDatasets:
 	
 	tdfolder = '../../../classes/'+lang_pair+'/'+folder+'/'+td
 
-	testX = '../../../corpora/'+lang_pair+'/features/'+td+'_test.features'
+	testX = '../../../corpora/'+lang_pair+'/features/'+td+'_test.features_noppl'
 	testY = '../../../corpora/'+lang_pair+'/datasets/'+td+'_test.classes'
 
 	if 'rbf' in kernels:

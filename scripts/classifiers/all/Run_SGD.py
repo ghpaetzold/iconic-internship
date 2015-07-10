@@ -1,7 +1,7 @@
 import os
 
 #Set language pair:
-lang_pair = 'en-es'
+lang_pair = 'es-en'
 
 #Parameters:
 losses = ['epsilon_insensitive', 'squared_loss', 'huber', 'squared_epsilon_insensitive']
@@ -9,12 +9,12 @@ losses = ['hinge', 'modified_huber', 'squared_hinge']
 penalties = ['elasticnet']
 alphas = ['0.0001', '0.001']
 l1_ratios = ['0.0', '0.5', '1.0']
-ks = ['60', '65', 'all']
+ks = ['30', '40', 'all']
 
 #Files:
 trainDataset = 'dataset1'
 testDatasets = ['dataset1', 'dataset2']
-trainX = '../../../corpora/'+lang_pair+'/features/'+trainDataset+'_train.features'
+trainX = '../../../corpora/'+lang_pair+'/features/'+trainDataset+'_train.features_noppl'
 trainY = '../../../corpora/'+lang_pair+'/datasets/'+trainDataset+'_train.classes'
 
 #Folder name:
@@ -27,7 +27,7 @@ for td in testDatasets:
 
         tdfolder = '../../../classes/'+lang_pair+'/'+folder+'/'+td
 
-        testX = '../../../corpora/'+lang_pair+'/features/'+td+'_test.features'
+        testX = '../../../corpora/'+lang_pair+'/features/'+td+'_test.features_noppl'
         testY = '../../../corpora/'+lang_pair+'/datasets/'+td+'_test.classes'
 
 	for loss in losses:

@@ -1,7 +1,7 @@
 import os
 
 #Set language pair:
-lang_pair = 'en-es'
+lang_pair = 'es-en'
 
 #Parameters:
 criterions = ['gini', 'entropy']
@@ -12,7 +12,7 @@ max_depths = ['3', '5', 'None']
 #Files:
 trainDataset = 'dataset1'
 testDatasets = ['dataset1', 'dataset2']
-trainX = '../../../corpora/'+lang_pair+'/features/'+trainDataset+'_train.features'
+trainX = '../../../corpora/'+lang_pair+'/features/'+trainDataset+'_train.features_noppl'
 trainY = '../../../corpora/'+lang_pair+'/datasets/'+trainDataset+'_train.classes'
 
 #Folder name:
@@ -25,7 +25,7 @@ for td in testDatasets:
 
         tdfolder = '../../../classes/'+lang_pair+'/'+folder+'/'+td
 
-        testX = '../../../corpora/'+lang_pair+'/features/'+td+'_test.features'
+        testX = '../../../corpora/'+lang_pair+'/features/'+td+'_test.features_noppl'
         testY = '../../../corpora/'+lang_pair+'/datasets/'+td+'_test.classes'
 
 	for criterion in criterions:

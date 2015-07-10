@@ -3,13 +3,16 @@ import sys, os, math, sys
 lang_pair = sys.argv[1]
 
 def getScores(hyp, ref, matrix):
-	gravities = [0, 0, 0, 0]
-	score = 0
-	for i in range(0, len(hyp)):
-		gravity = matrix[hyp[i]][ref[i]]
-		gravities[gravity] += 1
-		score += gravity
-	return gravities, score
+	try:
+		gravities = [0, 0, 0, 0]
+		score = 0
+		for i in range(0, len(hyp)):
+			gravity = matrix[hyp[i]][ref[i]]
+			gravities[gravity] += 1
+			score += gravity
+		return gravities, score
+	except Exception:
+		return [999999, 999999, 999999, 999999], 99999
 
 #Get evaluation matrix:
 matrix = []
