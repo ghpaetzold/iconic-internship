@@ -1,34 +1,34 @@
 import os
 
 #Set language pair:
-lang_pair = 'es-en'
+lang_pair = 'ch-en'
 
 #Parameters:
 clusters = ['6']
 iters = ['300', '500']
 inits = ['10', '15']
 precomputes = ['auto']
-ks = ['65', 'all']
-ks = ['40', '45', '50']
+ks = ['40', 'all']
+#ks = ['40', '45', '50']
 
 #Files:
 trainDataset = 'dataset1'
 testDatasets = ['dataset1', 'dataset2']
-trainX = '../../../corpora/'+lang_pair+'/features/'+trainDataset+'_train.features_noppl'
-trainY = '../../../corpora/'+lang_pair+'/datasets/'+trainDataset+'_train.classes'
+trainX = '../../corpora/'+lang_pair+'/features/'+trainDataset+'_train.features_noppl'
+trainY = '../../corpora/'+lang_pair+'/datasets/'+trainDataset+'_train.classes'
 
 #Folder name:
 folder = 'kmeans'
-os.system('mkdir ../../../classes/'+lang_pair+'/'+folder)
+os.system('mkdir ../../classes/'+lang_pair+'/'+folder)
 
 #Get models:
 for td in testDatasets:
-        os.system('mkdir ../../../classes/'+lang_pair+'/'+folder+'/'+td)
+        os.system('mkdir ../../classes/'+lang_pair+'/'+folder+'/'+td)
 
-        tdfolder = '../../../classes/'+lang_pair+'/'+folder+'/'+td
+        tdfolder = '../../classes/'+lang_pair+'/'+folder+'/'+td
 
-        testX = '../../../corpora/'+lang_pair+'/features/'+td+'_test.features_noppl'
-        testY = '../../../corpora/'+lang_pair+'/datasets/'+td+'_test.classes'
+        testX = '../../corpora/'+lang_pair+'/features/'+td+'_test.features_noppl'
+        testY = '../../corpora/'+lang_pair+'/datasets/'+td+'_test.classes'
 
 	for cluster in clusters:
 		for iter in iters:

@@ -11,21 +11,21 @@ algorithms = ['SAMME', 'SAMME.R']
 #Files:
 trainDataset = 'dataset1'
 testDatasets = ['dataset1', 'dataset2']
-trainX = '../../../corpora/'+lang_pair+'/features/'+trainDataset+'_train.features'
-trainY = '../../../corpora/'+lang_pair+'/datasets/'+trainDataset+'_train.classes'
+trainX = '../../corpora/'+lang_pair+'/features/'+trainDataset+'_train.features_noppl'
+trainY = '../../corpora/'+lang_pair+'/datasets/'+trainDataset+'_train.classes'
 
 #Folder name:
 folder = 'adaboost'
-os.system('mkdir ../../../classes/'+lang_pair+'/'+folder)
+os.system('mkdir ../../classes/'+lang_pair+'/'+folder)
 
 #Get models:
 for td in testDatasets:
-        os.system('mkdir ../../../classes/'+lang_pair+'/'+folder+'/'+td)
+        os.system('mkdir ../../classes/'+lang_pair+'/'+folder+'/'+td)
 
-        tdfolder = '../../../classes/'+lang_pair+'/'+folder+'/'+td
+        tdfolder = '../../classes/'+lang_pair+'/'+folder+'/'+td
 
-        testX = '../../../corpora/'+lang_pair+'/features/'+td+'_test.features'
-        testY = '../../../corpora/'+lang_pair+'/datasets/'+td+'_test.classes'
+        testX = '../../corpora/'+lang_pair+'/features/'+td+'_test.features_noppl'
+        testY = '../../corpora/'+lang_pair+'/datasets/'+td+'_test.classes'
 
 	for n_estimator in n_estimators:
 		for learning_rate in learning_rates:

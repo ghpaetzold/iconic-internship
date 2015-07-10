@@ -1,12 +1,11 @@
 import os
 
 #Set language pair:
-lang_pair = 'es-en'
+lang_pair = 'ch-en'
 
 #Parameters:
 Cs = ['1.0', '10.0']
 kernels = ['rbf', 'sigmoid', 'linear']
-kernels = ['rbf', 'sigmoid']
 degrees = ['2']
 gammas = ['0.0', '1.0', '10.0']
 coef0s = ['0.0', '1.0']
@@ -16,21 +15,21 @@ ks = ['40', 'all']
 trainDataset = 'dataset1'
 testDatasets = ['dataset1', 'dataset2']
 testDatasets = ['dataset1']
-trainX = '../../../corpora/'+lang_pair+'/features/'+trainDataset+'_train.features_noppl'
-trainY = '../../../corpora/'+lang_pair+'/datasets/'+trainDataset+'_train.classes'
+trainX = '../../corpora/'+lang_pair+'/features/'+trainDataset+'_train.features_noppl'
+trainY = '../../corpora/'+lang_pair+'/datasets/'+trainDataset+'_train.classes'
 
 #Folder name:
 folder = 'svm'
-os.system('mkdir ../../../classes/'+lang_pair+'/'+folder)
+os.system('mkdir ../../classes/'+lang_pair+'/'+folder)
 
 #Get models:
 for td in testDatasets:
-	os.system('mkdir ../../../classes/'+lang_pair+'/'+folder+'/'+td)
+	os.system('mkdir ../../classes/'+lang_pair+'/'+folder+'/'+td)
 	
-	tdfolder = '../../../classes/'+lang_pair+'/'+folder+'/'+td
+	tdfolder = '../../classes/'+lang_pair+'/'+folder+'/'+td
 
-	testX = '../../../corpora/'+lang_pair+'/features/'+td+'_test.features_noppl'
-	testY = '../../../corpora/'+lang_pair+'/datasets/'+td+'_test.classes'
+	testX = '../../corpora/'+lang_pair+'/features/'+td+'_test.features_noppl'
+	testY = '../../corpora/'+lang_pair+'/datasets/'+td+'_test.classes'
 
 	if 'rbf' in kernels:
 		for C in Cs:

@@ -1,8 +1,10 @@
-from sklearn import cluster
+from sklearn import linear_model
 import sys, numpy
 from sklearn.preprocessing import normalize
 from sklearn.feature_selection import SelectKBest
-from sklearn.feature_selection import f_classif
+from sklearn.feature_selection import f_regression
+from sklearn import tree
+from sklearn import ensemble
 
 def readXY(xf, yf):
 	X = []
@@ -19,22 +21,14 @@ def writeLabels(labels, file):
 		file.write(str(l) + '\n')
 	file.close()
 
-n_clusters = int(sys.argv[1])
-affinity = sys.argv[2]
-linkage = sys.argv[3]
+n_estimators = int(sys.argv[1])
+learning_rate = float(sys.argv[2])
+algorithm = sys.argv[3]
 Xtr, Ytr = readXY(sys.argv[4], sys.argv[5])
 Xte, Yte = readXY(sys.argv[6], sys.argv[7])
-k = sys.argv[8]
-if k!='all':
-	k = int(k)
-Xtr = normalize(Xtr, axis=0)
-Xte = normalize(Xte, axis=0)
-selector = SelectKBest(f_classif, k=k).fit(Xtr, Ytr)
-Xtr = selector.transform(Xtr)
-Xte = selector.transform(Xte)
-o = open(sys.argv[9], 'w')
+o = open(sys.argv[8], 'w')
 
-classifier = cluster.FeatureAgglomeration(n_clusters=n_clusters, affinity=affinity, linkage=linkage)
+classifier = ensemble.AdaBoostClassifier(n_estimators=n_estimators, learning_rate=learning_rate, algorithm=algorithm)
 classifier.fit(Xtr, Ytr)
 
 labels = classifier.predict(Xte)
