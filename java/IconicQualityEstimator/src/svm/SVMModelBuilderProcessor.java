@@ -28,13 +28,21 @@ import libsvm.svm_problem;
 public class SVMModelBuilderProcessor {
 
     /**
-     * Builds a text file model based on a given file of training data.
+     * Trains an SVM model based on a matrix of feature values and a vector of scores.
+     * The model is automatically saved in a specified text file.
      *
-     * @param inputPath path for text file containing training data.
-     * @param modelPath path for output text file containing the final model.
-     * @param n number of samples for cross-validation.
+     * @param features Matrix with feature values of sentences.
+     * @param scores Predicted quality scores for the sentences in the matrix.
+     * @param modelPath Path in which to save the trained model.
+     * @param temp Folder in which to save temporary files.
+     * @param kernel Kernel to be used (linear, rbf, poly, sigmoid).
+     * @param folds Number of folds for cross-validation.
+     * @param C C hyperparameter value.
+     * @param gamma Gamma hyperparameter value.
+     * @param epsilon Epsilon hyperparameter value.
+     * @return An svm_model object.
      */
-    public svm_model buildModelFile(ArrayList<ArrayList<Double>> features, ArrayList<Integer> scores, String modelPath, String temp, String kernel, int n, double C, double gamma, double epsilon) {
+    public svm_model buildModelFile(ArrayList<ArrayList<Double>> features, ArrayList<Integer> scores, String modelPath, String temp, String kernel, int folds, double C, double gamma, double epsilon) {
         svm_parameter param = new svm_parameter();
         param.shrinking = 1;
         param.svm_type = svm_parameter.C_SVC;
@@ -70,10 +78,10 @@ public class SVMModelBuilderProcessor {
         param.weight_label = new int[0];
         param.weight = new double[0];
         svm_model predictionModel = null;
-        if (n <= 0) {
-            predictionModel = buildTrainingModel(features, scores, temp, param, n, C, gamma, epsilon);
+        if (folds <= 0) {
+            predictionModel = buildTrainingModel(features, scores, temp, param, C, gamma, epsilon);
         } else {
-            predictionModel = buildTrainingModelCV(features, scores, temp, param, n);
+            predictionModel = buildTrainingModelCV(features, scores, temp, param, folds);
         }
         try {
             svm.svm_save_model(modelPath, predictionModel);
@@ -84,17 +92,18 @@ public class SVMModelBuilderProcessor {
     }
 
     /**
-     * Builds an svm_model object based on training data.
+     * Builds an svm_model object with cross-validation.
      *
-     * @param modelPath text file containing training data.
-     * @param inputPath folder to save temporary cross-validation samples.
-     * @param param parameters object for the SVM.
-     * @param n number of samples of the cross-validation
-     * @return an svm_model object trained with the best combination of
-     * parameters.
+     * @param features Matrix with feature values of sentences.
+     * @param scores Predicted quality scores for the sentences in the matrix.
+     * @param modelPath Path in which to save the trained model.
+     * @param temp Folder in which to save temporary files.
+     * @param params SVM model parameters object.
+     * @param folds Number of folds for cross-validation.
+     * @return an svm_model object trained with the best combination of parameters.
      */
     private svm_model buildTrainingModelCV(ArrayList<ArrayList<Double>> features, ArrayList<Integer> scores, String temp,
-            svm_parameter param, int n) {
+            svm_parameter params, int folds) {
         double threshold = 0.2;
         Random r = new Random();
         HashMap<Integer, ArrayList<String>> valuesMap = new HashMap<>();
@@ -113,7 +122,7 @@ public class SVMModelBuilderProcessor {
         }
 
         //Produce cross-validation temporary files.
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < folds; i++) {
             BufferedWriter mbTrain = null;
             BufferedWriter mbTest = null;
             try {
@@ -175,13 +184,13 @@ public class SVMModelBuilderProcessor {
             for (double C : Cs) {
                 for (double Epsilon : Epsilons) {
                     double totalRMSE = 0;
-                    param.gamma = Gamma;
-                    param.C = C;
-                    param.eps = Epsilon;
-                    for (int i = 0; i < n; i++) {
+                    params.gamma = Gamma;
+                    params.C = C;
+                    params.eps = Epsilon;
+                    for (int i = 0; i < folds; i++) {
                         svm_problem problem = this.buildProblem(temp
                                 + File.separator + "temp.train." + i + ".txt");
-                        svm_model tempModel = svm.svm_train(problem, param);
+                        svm_model tempModel = svm.svm_train(problem, params);
                         double partialRMSE = calculateRSME(temp
                                 + File.separator + "temp.test." + i + ".txt",
                                 valuesMap.get(i), tempModel);
@@ -198,13 +207,13 @@ public class SVMModelBuilderProcessor {
         }
 
         //Modify parameters object with best values for parameters.
-        param.gamma = bestGamma;
-        param.C = bestC;
-        param.eps = bestEpsilon;
+        params.gamma = bestGamma;
+        params.C = bestC;
+        params.eps = bestEpsilon;
         svm_problem final_problem = buildProblem(featuresString);
 
         //Delete temporary cross-validation input files.
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < folds; i++) {
             File train = new File(temp + File.separator + "temp.train."
                     + i + ".txt");
             File test = new File(temp + File.separator + "temp.test." + i
@@ -214,21 +223,25 @@ public class SVMModelBuilderProcessor {
         }
 
         //Return an SVM object.
-        return svm.svm_train(final_problem, param);
+        return svm.svm_train(final_problem, params);
     }
 
     /**
-     * Builds an svm_model object based on training data.
+     * Trains an SVM model based on a matrix of feature values and a vector of scores.
+     * The model is automatically saved in a specified text file.
      *
-     * @param modelPath text file containing training data.
-     * @param inputPath folder to save temporary cross-validation samples.
-     * @param param parameters object for the SVM.
-     * @param n number of samples of the cross-validation
-     * @return an svm_model object trained with the best combination of
-     * parameters.
+     * @param features Matrix with feature values of sentences.
+     * @param scores Predicted quality scores for the sentences in the matrix.
+     * @param modelPath Path in which to save the trained model.
+     * @param temp Folder in which to save temporary files.
+     * @param params SVM model parameters object.
+     * @param C C hyperparameter value.
+     * @param gamma Gamma hyperparameter value.
+     * @param epsilon Epsilon hyperparameter value.
+     * @return An svm_model object trained with the parameters specified.
      */
     private svm_model buildTrainingModel(ArrayList<ArrayList<Double>> features, ArrayList<Integer> scores, String temp,
-            svm_parameter param, int n, double C, double gamma, double epsilon) {
+            svm_parameter params, double C, double gamma, double epsilon) {
         double threshold = 0.2;
         Random r = new Random();
         HashMap<Integer, ArrayList<String>> valuesMap = new HashMap<>();
@@ -247,13 +260,13 @@ public class SVMModelBuilderProcessor {
         }
 
         //Modify parameters object with best values for parameters.
-        param.gamma = gamma;
-        param.C = C;
-        param.eps = epsilon;
+        params.gamma = gamma;
+        params.C = C;
+        params.eps = epsilon;
         svm_problem final_problem = buildProblem(featuresString);
 
         //Return an SVM object.
-        return svm.svm_train(final_problem, param);
+        return svm.svm_train(final_problem, params);
     }
 
     /**

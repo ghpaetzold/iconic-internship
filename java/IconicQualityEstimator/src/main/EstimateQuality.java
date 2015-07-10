@@ -11,6 +11,7 @@ import java.util.logging.Logger;
 import org.apache.commons.cli.BasicParser;
 import org.apache.commons.cli.CommandLine;
 import org.apache.commons.cli.CommandLineParser;
+import org.apache.commons.cli.HelpFormatter;
 import org.apache.commons.cli.Option;
 import org.apache.commons.cli.Options;
 import org.apache.commons.cli.ParseException;
@@ -21,6 +22,9 @@ public class EstimateQuality {
     public static void main(String[] args) {
         //Get options:
         CommandLine cl = parseArguments(args);
+        if(cl==null){
+            return;
+        }
 
         //Get source and target input files:
         String sourceFile = cl.getOptionValue("source");
@@ -50,24 +54,15 @@ public class EstimateQuality {
         String outputFile = cl.getOptionValue("output");
 
         //Create QuestProcessor instance:
-        long time = System.currentTimeMillis();
         QuestProcessor quest = new QuestProcessor(tempFolder, featuresFile, gizaFile,
                 ngramFile, corpusSrc, corpusTrg, lmSrc, lmTrg, srilmPath, modelFile, sourceLang, targetLang);
-        time = (System.currentTimeMillis()-time)/1000;
-        System.out.println("Models loaded! Seconds taken: " + time);
 
         //Calculate features:
-        time = System.currentTimeMillis();
         ArrayList<ArrayList<Double>> features = quest.calculateFeatures(sourceFile, targetFile);
-        time = (System.currentTimeMillis()-time)/1000;
-        System.out.println("Features calculated! Seconds taken: " + time);
-        
+
         //Calculate scores:
-        time = System.currentTimeMillis();
         ArrayList<Integer> scores = quest.estimateQuality(features);
-        time = (System.currentTimeMillis()-time)/1000;
-        System.out.println("Scores produced! Seconds taken: " + time);
-        
+
         //Save scores:
         saveScores(scores, outputFile);
     }
@@ -98,18 +93,31 @@ public class EstimateQuality {
             Option o = (Option) iopt.next();
             requiredOpts.add(o.getOpt());
         }
+        
+        //Add complementary options:
+        options.addOption("help", false, "Prints a help message.");
+
+        //Create help text:
+        String header = "Train a translation quality estimation model\n\n";
+        String footer = "\nThis software is a property of Iconic Translation Machines Ltd.";
+        HelpFormatter formatter = new HelpFormatter();
 
         //Create command line arguments:
         CommandLineParser parser = new BasicParser();
         try {
             CommandLine cmd = parser.parse(options, args);
-            for (String opt : requiredOpts) {
-                if (!cmd.hasOption(opt)) {
-                    System.out.println("Missing argument: " + opt);
-                    return null;
-                } else if (cmd.getOptionValue(opt) == null) {
-                    System.out.println("Null option value: " + opt);
-                    return null;
+            if (cmd.hasOption("help")) {
+                formatter.printHelp("GetQualityModel", header, options, footer, true);
+                return null;
+            } else {
+                for (String opt : requiredOpts) {
+                    if (!cmd.hasOption(opt)) {
+                        System.out.println("Missing argument: " + opt);
+                        return null;
+                    } else if (cmd.getOptionValue(opt) == null) {
+                        System.out.println("Null option value: " + opt);
+                        return null;
+                    }
                 }
             }
             return cmd;
@@ -119,10 +127,16 @@ public class EstimateQuality {
         }
     }
 
+    /**
+     * Saves estimated scores.
+     *
+     * @param scores Array of integers with predicted scores.
+     * @param output File in which to save the scores.
+     */
     private static void saveScores(ArrayList<Integer> scores, String output) {
         try {
             BufferedWriter bw = new BufferedWriter(new FileWriter(output));
-            for(Integer i: scores){
+            for (Integer i : scores) {
                 bw.write(i + "");
                 bw.newLine();
             }

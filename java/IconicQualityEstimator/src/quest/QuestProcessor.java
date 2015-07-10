@@ -48,7 +48,6 @@ import shef.mt.tools.Giza;
 import shef.mt.tools.LanguageModel;
 import shef.mt.tools.NGramExec;
 import shef.mt.tools.NGramProcessor;
-import shef.mt.tools.PPLProcessor;
 import shef.mt.tools.ResourceManager;
 import shef.mt.util.PropertiesManager;
 
@@ -68,20 +67,36 @@ public class QuestProcessor {
     private double minScore;
     private double maxScore;
 
-    public QuestProcessor(String inputFolder, String featuresFile, String gizaFile,
+    /**
+     * Creates a QuEstProcessor instance.
+     *
+     * @param tempFolder Folder in which to save temporary files.
+     * @param featuresFile XML file with the features to be calculated.
+     * @param gizaFile Translation probabilities file.
+     * @param sourceNGram N-gram counts file.
+     * @param sourceCorpus Source language corpus.
+     * @param targetCorpus Target language corpus.
+     * @param sourceLM Source language model.
+     * @param targetLM Target language model.
+     * @param srilmPath Path to the binaries folder of SRILM.
+     * @param modelPath Path in which to save the trained model.
+     * @param sourceLanguage Source language.
+     * @param targetLanguage Target language.
+     */
+    public QuestProcessor(String tempFolder, String featuresFile, String gizaFile,
             String sourceNGram, String sourceCorpus, String targetCorpus,
             String sourceLM, String targetLM, String srilmPath,
-            String modelPath, String srcLoc, String trgtLoc) {
+            String modelPath, String sourceLanguage, String targetLanguage) {
 
-        sourceLang = srcLoc;
-        targetLang = trgtLoc;
+        sourceLang = sourceLanguage;
+        targetLang = targetLanguage;
 
         // Make sure the temporary input folder exists.
-        File tmpDir = new File(inputFolder);
+        File tmpDir = new File(tempFolder);
         tmpDir.mkdirs();
 
         //Read parameters adequatly.
-        parseArguments(inputFolder, featuresFile,
+        parseArguments(tempFolder, featuresFile,
                 gizaFile, sourceNGram, sourceCorpus, targetCorpus, sourceLM,
                 targetLM, srilmPath, modelPath);
         input = resourceManager.getString("input");
@@ -112,20 +127,18 @@ public class QuestProcessor {
     /**
      * Adds all parameters values to the featureManager class attribute.
      *
-     * @param inputFolder
-     * @param outputFolder
-     * @param featuresFile
-     * @param lowercase
-     * @param gizaFile
-     * @param sourceNgram
-     * @param sourceCorpus
-     * @param targetCorpus
-     * @param sourceLM
-     * @param targetLM
-     * @param srilmPath
-     * @param modelPath
+     * @param tempFolder Folder in which to save temporary files.
+     * @param featuresFile XML file with the features to be calculated.
+     * @param gizaFile Translation probabilities file.
+     * @param sourceNGram N-gram counts file.
+     * @param sourceCorpus Source language corpus.
+     * @param targetCorpus Target language corpus.
+     * @param sourceLM Source language model.
+     * @param targetLM Target language model.
+     * @param srilmPath Path to the binaries folder of SRILM.
+     * @param modelPath Path in which to save the trained model.
      */
-    private void parseArguments(String inputFolder,
+    private void parseArguments(String tempFolder,
             String featuresFile, String gizaFile,
             String sourceNgram, String sourceCorpus, String targetCorpus,
             String sourceLM, String targetLM, String srilmPath, String modelPath) {
@@ -135,7 +148,7 @@ public class QuestProcessor {
         resourceManager.setProperty("logger.on", "false");
         resourceManager.setProperty("shef.mt.copyright",
                 "(c) University of Sheffield, 2012");
-        resourceManager.setProperty("input", inputFolder);
+        resourceManager.setProperty("input", tempFolder);
         resourceManager.setProperty(targetLang + ".lm", targetLM);
         resourceManager.setProperty(sourceLang + ".lm", sourceLM);
         resourceManager.setProperty(sourceLang + ".corpus", sourceCorpus);
@@ -293,36 +306,6 @@ public class QuestProcessor {
     }
 
     /**
-     * Re-scales quality predictions into a 0.0~1.0 interval.
-     *
-     * @param low minimum prediction score possible.
-     * @param high maximum prediction score possible.
-     * @param value predicted score.
-     * @return rescaled score between 0.0 and 1.0.
-     */
-    public double rescaleScore(double low, double high, double value) {
-        double auxLow, auxHigh;
-        if (low > high) {
-            auxLow = high;
-            auxHigh = low;
-        } else {
-            auxLow = low;
-            auxHigh = high;
-        }
-        if (value > auxHigh) {
-            value = auxHigh; // Safety
-        }
-        double m = 0.0; // low value of map to range
-        double n = 1.0; // high value of map to range
-        double result = (m + ((value - auxLow) / (auxHigh - auxLow) * (n - m)));
-        if (low > high) {
-            return n - result;
-        } else {
-            return result;
-        }
-    }
-
-    /**
      * Creates an svm_node vector for a given string of feature values.
      *
      * @param s string containing all feature values of a translation.
@@ -333,7 +316,7 @@ public class QuestProcessor {
         svm_node[] result = new svm_node[values.size()];
         for (int i = 0; i < values.size(); i++) {
             svm_node aux = new svm_node();
-            aux.index = i+1;
+            aux.index = i + 1;
             aux.value = values.get(i);
             result[i] = aux;
         }
@@ -343,7 +326,7 @@ public class QuestProcessor {
     /**
      * Adequate format of feature values.
      *
-     * @param values unformatted string of values
+     * @param values array list of feature values
      * @return formatted string of values
      */
     private String formatFeatureValues(ArrayList<Double> values) {
@@ -390,62 +373,17 @@ public class QuestProcessor {
         Giza giza = new Giza(gizaPath);
     }
 
-    /**
-     * Calculates perplexity measures for the input data.
-     */
-    private void runNGramPPL() {
-        NGramExec nge = new NGramExec(
-                resourceManager.getString("tools.ngram.path"));
-        System.out.println("runNgramPPL");
-        File f = new File(sourceFile);
-        String sourceOutput = input + File.separator + f.getName() + ".ppl";
-
-        f = new File(targetFile);
-        String targetOutput = input + File.separator + f.getName() + ".ppl";
-
-        nge.runNGramPerplex(sourceFile, sourceOutput,
-                resourceManager.getString(sourceLang + ".lm"));
-        System.out.println(resourceManager.getString(targetLang + ".lm"));
-        nge.runNGramPerplex(targetFile, targetOutput,
-                resourceManager.getString(targetLang + ".lm"));
-    }
-
-    /**
-     * Creates a copy of a given file.
-     *
-     * @param sourceFile file to be copied.
-     * @param destFile path of copied file.
-     * @throws IOException throws exception if file to be copied does not
-     * exists.
-     */
-    private void copyFile(File sourceFile, File destFile) throws IOException {
-        if (sourceFile.equals(destFile)) {
-            return;
-        }
-        if (!destFile.exists()) {
-            destFile.createNewFile();
-        }
-
-        java.nio.channels.FileChannel source = null;
-        java.nio.channels.FileChannel destination = null;
-        try {
-            source = new FileInputStream(sourceFile).getChannel();
-            destination = new FileOutputStream(destFile).getChannel();
-            destination.transferFrom(source, 0, source.size());
-        } finally {
-            if (source != null) {
-                source.close();
-            }
-            if (destination != null) {
-                destination.close();
-            }
-        }
-    }
-
     public PropertiesManager getResourceManager() {
         return resourceManager;
     }
 
+    /**
+     * Calculates feature values for all sentence pairs in a set of files.
+     *
+     * @param sourceFile Source language sentences file.
+     * @param targetFile Target language sentences file.
+     * @return A matrix with the feature values of all sentence pairs.
+     */
     public ArrayList<ArrayList<Double>> calculateFeatures(String sourceFile, String targetFile) {
         this.sourceFile = sourceFile;
         this.targetFile = targetFile;
@@ -456,21 +394,6 @@ public class QuestProcessor {
         String sourceFileName = f.getName();
         f = new File(targetFile);
         String targetFileName = f.getName();
-
-//        String pplSourcePath = resourceManager.getString("input")
-//                + File.separator + sourceFileName + resourceManager.getString("tools.ngram.output.ext");
-//        String pplTargetPath = resourceManager.getString("input")
-//                + File.separator + targetFileName + resourceManager.getString("tools.ngram.output.ext");
-//
-//        long time = System.currentTimeMillis();
-//        runNGramPPL();
-//
-//        PPLProcessor pplProcSource = new PPLProcessor(pplSourcePath,
-//                new String[]{"logprob", "ppl", "ppl1"});
-//        PPLProcessor pplProcTarget = new PPLProcessor(pplTargetPath,
-//                new String[]{"logprob", "ppl", "ppl1"});
-//        time = (System.currentTimeMillis()-time)/1000;
-//        System.out.println("Perplexities calculated! Seconds taken: " + time);
 
         BufferedReader brSource = null;
         BufferedReader brTarget = null;
@@ -503,8 +426,6 @@ public class QuestProcessor {
 
                 sourceSent.computeNGrams(3);
                 targetSent.computeNGrams(3);
-//                pplProcSource.processNextSentence(sourceSent);
-//                pplProcTarget.processNextSentence(targetSent);
 
                 ++sentCount;
                 String featureValues = featureManager.runFeatures(sourceSent,
@@ -583,6 +504,103 @@ public class QuestProcessor {
         return result;
     }
 
+    /**
+     * Calculates feature values for an individual pair of sentences.
+     *
+     * @param sourceSentence Source language sentence.
+     * @param targetSentence Target language sentence.
+     * @return A matrix with the feature values of the sentence pair.
+     */
+    public ArrayList<ArrayList<Double>> calculateFeaturesForPair(String sourceSentence, String targetSentence) {
+        ArrayList<ArrayList<Double>> result = null;
+
+        BufferedWriter tempNorm = null;
+        try {
+            ResourceManager.printResources();
+            Sentence sourceSent;
+            Sentence targetSent;
+            int sentCount = 0;
+
+            String lineSource = sourceSentence;
+            String lineTarget = targetSentence;
+
+            // Lists to store source and target sentences in sequence
+            ArrayList<Sentence> sourceSentences = new ArrayList<>();
+            ArrayList<Sentence> targetSentences = new ArrayList<>();
+
+            // File to store temporarily non-normalized feature values
+            File nonNorm = new File(resourceManager.getString("input")
+                    + File.separator + "temp_non_normalized.txt");
+            tempNorm = new BufferedWriter(new FileWriter(nonNorm));
+
+            sourceSent = new Sentence(lineSource, sentCount);
+            targetSent = new Sentence(lineTarget, sentCount);
+
+            sourceSent.computeNGrams(3);
+            targetSent.computeNGrams(3);
+
+            ++sentCount;
+            String featureValues = featureManager.runFeatures(sourceSent,
+                    targetSent);
+
+            // Save source and target sentences in lists
+            sourceSentences.add(sourceSent);
+            targetSentences.add(targetSent);
+
+            // Write SVM formatted feature values onto temporary non-normalized features file
+            String formattedFeatureValues = formatFeatureValues(featureValues);
+            tempNorm.write("0.0 " + formattedFeatureValues);
+            tempNorm.newLine();
+            tempNorm.close();
+
+            // Normalize the non-normalized temporary file feature values
+            svm_scale scaler = new svm_scale();
+            String[] params_svm = new String[7];
+            params_svm[0] = "-o";
+            params_svm[1] = resourceManager.getString("input")
+                    + File.separator + "temp_normalized.txt";
+            params_svm[2] = "-l";
+            params_svm[3] = "-1";
+            params_svm[4] = "-u";
+            params_svm[5] = "1";
+            params_svm[6] = resourceManager.getString("input")
+                    + File.separator + "temp_non_normalized.txt";
+            scaler.run(params_svm);
+
+            // Read the normalized feature values
+            result = extractFeatureValuesFromSVMFile(resourceManager
+                    .getString("input")
+                    + File.separator
+                    + "temp_normalized.txt");
+
+            File deleter = new File(resourceManager.getString("input")
+                    + File.separator + "temp_non_normalized.txt");
+            deleter.delete();
+
+            deleter = new File(resourceManager.getString("input")
+                    + File.separator + "temp_normalized.txt");
+            deleter.delete();
+        } catch (IOException e) {
+            System.out.println("ERROR: " + e.getLocalizedMessage());
+        } finally {
+            if (tempNorm != null) {
+                try {
+                    tempNorm.close();
+                } catch (Exception e) {
+                    System.out.println("Failed to close buffered stream.");
+                }
+            }
+        }
+        return result;
+    }
+
+    
+    /**
+     * Estimates the quality of a translation.
+     *
+     * @param features Matrix with the features of the translations to be scored.
+     * @return An integer array with the scores predicted.
+     */
     public ArrayList<Integer> estimateQuality(ArrayList<ArrayList<Double>> features) {
         ArrayList<Integer> scores = new ArrayList<>();
         for (int i = 0; i < features.size(); i++) {

@@ -13,6 +13,7 @@ import libsvm.svm_model;
 import org.apache.commons.cli.BasicParser;
 import org.apache.commons.cli.CommandLine;
 import org.apache.commons.cli.CommandLineParser;
+import org.apache.commons.cli.HelpFormatter;
 import org.apache.commons.cli.Option;
 import org.apache.commons.cli.Options;
 import org.apache.commons.cli.ParseException;
@@ -24,6 +25,9 @@ public class GetQualityModel {
     public static void main(String[] args) {
         //Get options:
         CommandLine cl = parseArguments(args);
+        if(cl==null){
+            return;
+        }
 
         //Get source, target and scores input files:
         String sourceFile = cl.getOptionValue("source");
@@ -49,12 +53,12 @@ public class GetQualityModel {
 
         //Get model file:
         String modelFile = cl.getOptionValue("model");
-        
+
         //Get model parameters:
         String kernel = cl.getOptionValue("kernel");
         Integer samples = Integer.parseInt(cl.getOptionValue("samples"));
         Double C = null, gamma = null, epsilon = null;
-        if (samples==0){
+        if (samples == 0) {
             C = Double.parseDouble(cl.getOptionValue("C"));
             gamma = Double.parseDouble(cl.getOptionValue("gamma"));
             epsilon = Double.parseDouble(cl.getOptionValue("epsilon"));
@@ -107,23 +111,36 @@ public class GetQualityModel {
             requiredOpts.add(o.getOpt());
         }
 
+        //Add additional options:
         options.addOption("C", true, "Value for the C hyperparameter.");
         options.addOption("gamma", true, "Value for the gamma hyperparameter.");
         options.addOption("epsilon", true, "Value for the epsilon hyperparameter.");
+        options.addOption("help", false, "Prints a help message.");
+
+        //Create help text:
+        String header = "Train a translation quality estimation model\n\n";
+        String footer = "\nThis software is a property of Iconic Translation Machines Ltd.";
+        HelpFormatter formatter = new HelpFormatter();
 
         //Create command line arguments:
         CommandLineParser parser = new BasicParser();
         try {
             CommandLine cmd = parser.parse(options, args);
-            for (String opt : requiredOpts) {
-                if (!cmd.hasOption(opt)) {
-                    System.out.println("Missing argument: " + opt);
-                    return null;
-                } else if (cmd.getOptionValue(opt) == null) {
-                    System.out.println("Null option value: " + opt);
-                    return null;
+            if (cmd.hasOption("help")) {
+                formatter.printHelp("GetQualityModel", header, options, footer, true);
+                return null;
+            } else {
+                for (String opt : requiredOpts) {
+                    if (!cmd.hasOption(opt)) {
+                        System.out.println("Missing argument: " + opt);
+                        return null;
+                    } else if (cmd.getOptionValue(opt) == null) {
+                        System.out.println("Null option value: " + opt);
+                        return null;
+                    }
                 }
             }
+
             Integer samples = Integer.parseInt(cmd.getOptionValue("samples"));
             if (samples == 0) {
                 String[] requiredParams = {"C", "gamma", "epsilon"};
