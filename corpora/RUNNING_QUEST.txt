@@ -1,1 +1,0 @@
-java -cp ../../questplusplus/QuEst++.jar shef.mt.enes.FeatureExtractorSimple -lang chinese english -input source target -mode bb -config config -baseline

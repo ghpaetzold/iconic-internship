@@ -1,8 +1,9 @@
 from sklearn import svm
-import sys, numpy
+import sys, numpy, pickle
 from sklearn.preprocessing import normalize
 from sklearn.feature_selection import SelectKBest
 from sklearn.feature_selection import f_classif
+
 def readXY(xf, yf):
 	X = []
 	for line in open(xf):
@@ -17,6 +18,9 @@ def writeLabels(labels, file):
 		c += 1
 		file.write(str(l) + '\n')
 	file.close()
+
+def writeModel(classifier, model_file):
+        pickle.dump(classifier, open(model_file, "wb"))
 
 C = float(sys.argv[1])
 kernel = sys.argv[2]
@@ -34,6 +38,7 @@ selector = SelectKBest(f_classif, k=k).fit(Xtr, Ytr)
 Xtr = selector.transform(Xtr)
 Xte = selector.transform(Xte)
 o = open(sys.argv[11], 'w')
+model_file = sys.argv[12]
 
 classifier = svm.SVC(C=C, kernel=kernel, degree=degree, gamma=gamma, coef0=coef0)
 classifier.fit(Xtr, Ytr)
@@ -41,3 +46,4 @@ classifier.fit(Xtr, Ytr)
 labels = classifier.predict(Xte)
 
 writeLabels(labels, o)
+writeModel(classifier, model_file)

@@ -1,5 +1,5 @@
 from sklearn import linear_model
-import sys, numpy
+import sys, numpy, pickle
 from sklearn.preprocessing import normalize
 from sklearn.feature_selection import SelectKBest
 from sklearn.feature_selection import f_classif
@@ -19,6 +19,9 @@ def writeLabels(labels, file):
 		file.write(str(l) + '\n')
 	file.close()
 
+def writeModel(classifier, model_file):
+	pickle.dump(classifier, open(model_file, "wb"))
+
 loss = sys.argv[1]
 penalty = sys.argv[2]
 alpha = float(sys.argv[3])
@@ -34,6 +37,7 @@ selector = SelectKBest(f_classif, k=k).fit(Xtr, Ytr)
 Xtr = selector.transform(Xtr)
 Xte = selector.transform(Xte)
 o = open(sys.argv[10], 'w')
+model_file = sys.argv[11]
 
 classifier = linear_model.SGDClassifier(loss=loss, penalty=penalty, alpha=alpha, l1_ratio=l1_ratio)
 classifier.fit(Xtr, Ytr)
@@ -41,3 +45,4 @@ classifier.fit(Xtr, Ytr)
 labels = classifier.predict(Xte)
 
 writeLabels(labels, o)
+writeModel(classifier, model_file)

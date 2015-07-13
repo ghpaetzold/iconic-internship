@@ -1,6 +1,6 @@
-/corpora/*
-/scores/*
-/classes/*
+/python/corpora/*
+/python/scores/*
+/python/classes/*
 /java/IconicQualityEstimator/dist/
 /temp/*
 *nohup.out
@@ -10,3 +10,5 @@
 /java/quest_iconic/dist/
 /java/libsvm_iconic/build/
 /java/libsvm_iconic/dist/
+/python/models/*
+/python/models/
