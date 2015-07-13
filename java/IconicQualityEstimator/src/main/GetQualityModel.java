@@ -25,7 +25,7 @@ public class GetQualityModel {
     public static void main(String[] args) {
         //Get options:
         CommandLine cl = parseArguments(args);
-        if(cl==null){
+        if (cl == null) {
             return;
         }
 
@@ -41,9 +41,6 @@ public class GetQualityModel {
         String ngramFile = cl.getOptionValue("ngramsrc");
         String corpusSrc = cl.getOptionValue("corpussrc");
         String corpusTrg = cl.getOptionValue("corpustrg");
-        String lmSrc = cl.getOptionValue("lmsrc");
-        String lmTrg = cl.getOptionValue("lmtrg");
-        String srilmPath = cl.getOptionValue("srilm");
 
         //Get temporary folder:
         String tempFolder = cl.getOptionValue("temp");
@@ -56,7 +53,7 @@ public class GetQualityModel {
 
         //Get model parameters:
         String kernel = cl.getOptionValue("kernel");
-        Integer samples = Integer.parseInt(cl.getOptionValue("samples"));
+        Integer samples = Integer.parseInt(cl.getOptionValue("folds"));
         Double C = null, gamma = null, epsilon = null;
         if (samples == 0) {
             C = Double.parseDouble(cl.getOptionValue("C"));
@@ -69,7 +66,7 @@ public class GetQualityModel {
 
         //Create QuestProcessor instance:
         QuestProcessor quest = new QuestProcessor(tempFolder, featuresFile, gizaFile,
-                ngramFile, corpusSrc, corpusTrg, lmSrc, lmTrg, srilmPath, modelFile, sourceLang, targetLang);
+                ngramFile, corpusSrc, corpusTrg, modelFile, sourceLang, targetLang);
 
         //Calculate features and get scores:
         ArrayList<ArrayList<Double>> features = quest.calculateFeatures(sourceFile, targetFile);
@@ -91,9 +88,6 @@ public class GetQualityModel {
         options.addOption("ngramsrc", true, "Source n-gram counts file.");
         options.addOption("corpussrc", true, "Source corpus.");
         options.addOption("corpustrg", true, "Target corpus.");
-        options.addOption("lmsrc", true, "Source language model.");
-        options.addOption("lmtrg", true, "Target language model.");
-        options.addOption("srilm", true, "SRILM binaries path.");
         options.addOption("langsrc", true, "Source language.");
         options.addOption("langtrg", true, "Target language.");
         options.addOption("source", true, "Source input file.");
@@ -101,7 +95,7 @@ public class GetQualityModel {
         options.addOption("scores", true, "Scores file.");
         options.addOption("model", true, "Path to save trained QE model.");
         options.addOption("kernel", true, "Kernel to be used.");
-        options.addOption("samples", true, "Number of samples for cross-validation.");
+        options.addOption("folds", true, "Number of folds for cross-validation.");
 
         //Get required options:
         HashSet<String> requiredOpts = new HashSet<>();
@@ -118,7 +112,7 @@ public class GetQualityModel {
         options.addOption("help", false, "Prints a help message.");
 
         //Create help text:
-        String header = "Train a translation quality estimation model\n\n";
+        String header = "Trains a translation quality estimation model.\n\n";
         String footer = "\nThis software is a property of Iconic Translation Machines Ltd.";
         HelpFormatter formatter = new HelpFormatter();
 
@@ -141,7 +135,7 @@ public class GetQualityModel {
                 }
             }
 
-            Integer samples = Integer.parseInt(cmd.getOptionValue("samples"));
+            Integer samples = Integer.parseInt(cmd.getOptionValue("folds"));
             if (samples == 0) {
                 String[] requiredParams = {"C", "gamma", "epsilon"};
                 for (String opt : requiredParams) {

@@ -4,3 +4,9 @@
 /java/IconicQualityEstimator/dist/
 /temp/*
 *nohup.out
+/java/libsvm_iconic/nbproject/private/
+/java/quest_iconic/nbproject/private/
+/java/quest_iconic/build/
+/java/quest_iconic/dist/
+/java/libsvm_iconic/build/
+/java/libsvm_iconic/dist/

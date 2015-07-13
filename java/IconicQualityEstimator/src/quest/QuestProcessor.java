@@ -22,9 +22,7 @@ package quest;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -46,7 +44,6 @@ import shef.mt.features.util.Sentence;
 import shef.mt.tools.FileModelOriginal;
 import shef.mt.tools.Giza;
 import shef.mt.tools.LanguageModel;
-import shef.mt.tools.NGramExec;
 import shef.mt.tools.NGramProcessor;
 import shef.mt.tools.ResourceManager;
 import shef.mt.util.PropertiesManager;
@@ -76,17 +73,12 @@ public class QuestProcessor {
      * @param sourceNGram N-gram counts file.
      * @param sourceCorpus Source language corpus.
      * @param targetCorpus Target language corpus.
-     * @param sourceLM Source language model.
-     * @param targetLM Target language model.
-     * @param srilmPath Path to the binaries folder of SRILM.
      * @param modelPath Path in which to save the trained model.
      * @param sourceLanguage Source language.
      * @param targetLanguage Target language.
      */
     public QuestProcessor(String tempFolder, String featuresFile, String gizaFile,
-            String sourceNGram, String sourceCorpus, String targetCorpus,
-            String sourceLM, String targetLM, String srilmPath,
-            String modelPath, String sourceLanguage, String targetLanguage) {
+            String sourceNGram, String sourceCorpus, String targetCorpus, String modelPath, String sourceLanguage, String targetLanguage) {
 
         sourceLang = sourceLanguage;
         targetLang = targetLanguage;
@@ -96,9 +88,7 @@ public class QuestProcessor {
         tmpDir.mkdirs();
 
         //Read parameters adequatly.
-        parseArguments(tempFolder, featuresFile,
-                gizaFile, sourceNGram, sourceCorpus, targetCorpus, sourceLM,
-                targetLM, srilmPath, modelPath);
+        parseArguments(tempFolder, featuresFile, gizaFile, sourceNGram, sourceCorpus, targetCorpus, modelPath);
         input = resourceManager.getString("input");
 
         //Read features' XML file.
@@ -133,15 +123,12 @@ public class QuestProcessor {
      * @param sourceNGram N-gram counts file.
      * @param sourceCorpus Source language corpus.
      * @param targetCorpus Target language corpus.
-     * @param sourceLM Source language model.
-     * @param targetLM Target language model.
      * @param srilmPath Path to the binaries folder of SRILM.
      * @param modelPath Path in which to save the trained model.
      */
     private void parseArguments(String tempFolder,
             String featuresFile, String gizaFile,
-            String sourceNgram, String sourceCorpus, String targetCorpus,
-            String sourceLM, String targetLM, String srilmPath, String modelPath) {
+            String sourceNgram, String sourceCorpus, String targetCorpus, String modelPath) {
         featureManager = new FeatureManager(featuresFile);
         featureManager.setFeatureList("all");
         resourceManager = new PropertiesManager();
@@ -149,13 +136,10 @@ public class QuestProcessor {
         resourceManager.setProperty("shef.mt.copyright",
                 "(c) University of Sheffield, 2012");
         resourceManager.setProperty("input", tempFolder);
-        resourceManager.setProperty(targetLang + ".lm", targetLM);
-        resourceManager.setProperty(sourceLang + ".lm", sourceLM);
         resourceManager.setProperty(sourceLang + ".corpus", sourceCorpus);
         resourceManager.setProperty(targetLang + ".corpus", targetCorpus);
         resourceManager.setProperty(sourceLang + ".ngram", sourceNgram);
         resourceManager.setProperty("pair." + sourceLang + targetLang + ".giza.path", gizaFile);
-        resourceManager.setProperty("tools.ngram.path", srilmPath);
         resourceManager.setProperty("tools.ngram.output.ext", ".ppl");
         resourceManager.setProperty("ngramsize", "3");
     }

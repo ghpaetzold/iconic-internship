@@ -37,9 +37,6 @@ public class EstimateQuality {
         String ngramFile = cl.getOptionValue("ngramsrc");
         String corpusSrc = cl.getOptionValue("corpussrc");
         String corpusTrg = cl.getOptionValue("corpustrg");
-        String lmSrc = cl.getOptionValue("lmsrc");
-        String lmTrg = cl.getOptionValue("lmtrg");
-        String srilmPath = cl.getOptionValue("srilm");
 
         //Get temporary folder:
         String tempFolder = cl.getOptionValue("temp");
@@ -55,7 +52,7 @@ public class EstimateQuality {
 
         //Create QuestProcessor instance:
         QuestProcessor quest = new QuestProcessor(tempFolder, featuresFile, gizaFile,
-                ngramFile, corpusSrc, corpusTrg, lmSrc, lmTrg, srilmPath, modelFile, sourceLang, targetLang);
+                ngramFile, corpusSrc, corpusTrg, modelFile, sourceLang, targetLang);
 
         //Calculate features:
         ArrayList<ArrayList<Double>> features = quest.calculateFeatures(sourceFile, targetFile);
@@ -76,9 +73,6 @@ public class EstimateQuality {
         options.addOption("ngramsrc", true, "Source n-gram counts file.");
         options.addOption("corpussrc", true, "Source corpus.");
         options.addOption("corpustrg", true, "Target corpus.");
-        options.addOption("lmsrc", true, "Source language model.");
-        options.addOption("lmtrg", true, "Target language model.");
-        options.addOption("srilm", true, "SRILM binaries path.");
         options.addOption("model", true, "Path to QE model.");
         options.addOption("langsrc", true, "Source language.");
         options.addOption("langtrg", true, "Target language.");
@@ -98,7 +92,7 @@ public class EstimateQuality {
         options.addOption("help", false, "Prints a help message.");
 
         //Create help text:
-        String header = "Train a translation quality estimation model\n\n";
+        String header = "Produces quality estimates for translations.\n\n";
         String footer = "\nThis software is a property of Iconic Translation Machines Ltd.";
         HelpFormatter formatter = new HelpFormatter();
 
@@ -107,7 +101,7 @@ public class EstimateQuality {
         try {
             CommandLine cmd = parser.parse(options, args);
             if (cmd.hasOption("help")) {
-                formatter.printHelp("GetQualityModel", header, options, footer, true);
+                formatter.printHelp("EstimateQuality", header, options, footer, true);
                 return null;
             } else {
                 for (String opt : requiredOpts) {
