@@ -41,10 +41,10 @@ public class EvaluateQualityEstimates {
         double mean = (double) qualityData[1];
         double std = (double) qualityData[2];
         HashMap<Integer, Integer> gravityMap = (HashMap<Integer, Integer>) qualityData[3];
-        System.out.println("Error sum: " + sum);
-        System.out.println("Error mean: " + mean);
-        System.out.println("Error standard deviation: " + std);
-        System.out.println("Error gravity counts:");
+        System.out.println("Iconic QE Sum: " + sum);
+        System.out.println("Iconic QE Mean: " + mean);
+        System.out.println("Iconic QE Standard Deviation: " + std);
+        System.out.println("Iconic QE Gravity Counts:");
         for(int i=0; i<=3; i++){
             System.out.println("\t" + i + ": " + gravityMap.get(i));
         }
