@@ -115,6 +115,20 @@ public class QuestProcessor {
     }
 
     /**
+     * Creates a QuEstProcessor instance.
+     *
+     * @param modelPath Path in which to load the trained model.
+     */
+    public QuestProcessor(String modelPath) {
+        //Load model:
+        try {
+            predictionModel = svm.svm_load_model(modelPath);
+        } catch (IOException ex) {
+            System.out.println(ex.getMessage());
+        }
+    }
+
+    /**
      * Adds all parameters values to the featureManager class attribute.
      *
      * @param tempFolder Folder in which to save temporary files.
