@@ -50,9 +50,6 @@ public class GetQualityModel {
             epsilon = Double.parseDouble(cl.getOptionValue("epsilon"));
         }
 
-        //Get output file:
-        String outputFile = cl.getOptionValue("output");
-
         //Check for pre-calculated feature values:
         ArrayList<ArrayList<Double>> features = null;
         if (cl.hasOption("featurevalues")) {
