@@ -1,7 +1,7 @@
 import os
 
 #Set language pair:
-lang_pair = 'es-en'
+lang_pair = 'en-ch'
 
 #Parameters:
 Cs = ['1.0', '10.0']
@@ -13,7 +13,7 @@ ks = ['40', 'all']
 
 #Files:
 trainDataset = 'dataset1'
-testDatasets = ['dataset1', 'dataset2']
+#testDatasets = ['dataset1', 'dataset2']
 testDatasets = ['dataset1']
 trainX = '../../corpora/'+lang_pair+'/features/'+trainDataset+'_train.features_noppl'
 trainY = '../../corpora/'+lang_pair+'/datasets/'+trainDataset+'_train.classes'
