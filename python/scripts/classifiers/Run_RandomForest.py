@@ -1,7 +1,7 @@
 import os
 
 #Set language pair:
-lang_pair = 'es-en'
+lang_pair = 'en-ch'
 
 #Parameters:
 n_estimators = ['50', '75']
@@ -11,7 +11,8 @@ max_depths = ['3', '5', 'None']
 
 #Files:
 trainDataset = 'dataset1'
-testDatasets = ['dataset1', 'dataset2']
+#testDatasets = ['dataset1', 'dataset2']
+testDatasets = ['dataset1']
 trainX = '../../corpora/'+lang_pair+'/features/'+trainDataset+'_train.features_noppl'
 trainY = '../../corpora/'+lang_pair+'/datasets/'+trainDataset+'_train.classes'
 

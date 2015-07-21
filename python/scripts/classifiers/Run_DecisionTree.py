@@ -1,7 +1,7 @@
 import os
 
 #Set language pair:
-lang_pair = 'es-en'
+lang_pair = 'en-ch'
 
 #Parameters:
 criterions = ['gini', 'entropy']

@@ -34,6 +34,9 @@ mlfolders = os.listdir(mainfolder)
 #Get datasets:
 datasets = os.listdir(mainfolder+mlfolders[0])
 
+#Create total map:
+totalmap = {}
+
 for dataset in datasets:
 	print('For test set: ' + dataset)
 
@@ -57,8 +60,27 @@ for dataset in datasets:
 			if len(ref)==len(hyp):
 				sum, average, std, gravities = getScores(hyp, ref, matrix)
 				if sum<minvalues[0]:
-					minvalues = (sum, "%.3f" % average, "%.3f" % std, gravities)
+					minvalues = (sum, average, std, gravities)
 					minfile = file
-		table.append([mlfolder, minvalues[0], minvalues[1], minvalues[2], minvalues[3], minfile])
+		table.append([mlfolder, minvalues[0], "%.3f" % minvalues[1], "%.3f" % minvalues[2], minvalues[3], minfile])
 
+		if mlfolder not in totalmap.keys():
+			totalmap[mlfolder] = [minvalues[0], minvalues[1], minvalues[2], minvalues[3][0], minvalues[3][1], minvalues[3][2], minvalues[3][3]]
+		else:
+			totalmap[mlfolder][0] += minvalues[0]
+			totalmap[mlfolder][1] += minvalues[1]
+			totalmap[mlfolder][2] += minvalues[2]
+			totalmap[mlfolder][3] += minvalues[3][0]
+			totalmap[mlfolder][4] += minvalues[3][1]
+			totalmap[mlfolder][5] += minvalues[3][2]
+			totalmap[mlfolder][6] += minvalues[3][3]
 	print(tabulate(table, headers=headers) + '\n')
+
+folders = ['kmeans', 'decisiontree', 'randomforest', 'svm', 'sgd']
+for folder in folders:
+	data = totalmap[folder]
+	sum = str(data[0])
+	avg = str("%.3f" % data[1])
+	std = str("%.3f" % data[2])
+	scores = str([data[3], data[4], data[5], data[6]])
+	print(sum + '|||' + avg + '|||' + std + '|||' + scores)
