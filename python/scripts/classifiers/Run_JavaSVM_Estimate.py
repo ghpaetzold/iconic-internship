@@ -1,7 +1,7 @@
 import os, copy
 
 #Set language pair:
-lang_pair = 'es-en'
+lang_pair = 'en-ch'
 
 #Files:
 trainDataset = 'dataset3'
