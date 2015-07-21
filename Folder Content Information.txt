@@ -1,0 +1,55 @@
+iconicinternship: Root folder
+	python: Python scripts, resources and models.
+		corpora:
+			- Resources for various language pairs.
+			- Contains the "features_noppl.xml" file, with the features used to train all models in "./models/".
+			- Contains the "RUNNING_QUEST.txt" file, containing an example on how to run QuEst++ to produce feature values.
+			- The folder for each language pair contains the following sub-folders:
+				config:
+					- Contains the "config.txt" file required by QuEst++.
+				datasets:
+					- Contains dataset resources.
+					- Each file is named in the following format: <dataset_identifier>_(train/test).(scores,classes,source_language,target_language)
+					- Files with the "scores" extension contain TER scores for the translations in a dataset.
+					- Files with the "classes" extension contain Iconic QE scores for the translations in a dataset.
+					- Files with the "source_language" contain the original, tokenized source sentences.
+					- Files with the "target_language" contain the tokenized machine translation of source sentences.
+				features:
+					- Contains files with dataset feature values.
+					- Each file is named in the following format: <dataset_identifier>_(train/test).<features_identifier>
+				resources:
+					- Contains the resources required by QuEst++ in order for features to be calculated.
+					- Files with the "corpus" prefix are large tokenized corpora of text.
+					- Files with the "lm" prefix are language models.
+					- Files with the "ngrams" prefix are n-gram count files.
+		scripts:
+			- Scripts for classification, evaluation and formatting.
+			- The "classifiers" folder contains scripts to run various learning techniques.
+			- The "classifiers/Run_All_*" scripts runs various learning instances in parallel.
+			- The "evaluators" folder contains scripts for the evaluation of models.
+			- The "evaluators/evaluate_pair.py" compares a gold-standard and a predicted set of classes.
+			- The "evaluators/evaluate_batch.py" compares the performance of all learning techniques for a given language pair.
+			- The "formatters" folder contains utility scripts.
+			- The "formatters/fill_empty_lines.py" fixes empty lines in datasets.
+			- The "formatters/normalize_feature_files.py" normalizes the feature values in a file.
+			- The "formatters/produce_class_dataset.py" transforms a file with TER scores into a file with Iconic QE scores.
+		models:
+			- Python QE models for various language pairs.
+			- The path to each model respects the following format: <language_pair>/<learning_method_identifier>/<train_dataset_identifier>/<model_information>.bin
+			- Each model is a binary pickle file containing a trained classifier.
+			- The trained classifier has the "predict" function, described in http://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
+		classes:
+			- QE class labels predicted with QE models.
+			- The path to each model respects the following format: <language_pair>/<learning_method_identifier>/<test_dataset_identifier>/<model_information>.txt
+			- The models provided have been trained over the "dataset1_train" datasets for all language pairs.
+	java: Java projects, applications and models.
+		IconicQualityEstimator:
+			- NetBeans project and compiled version of the Iconic QE Java tool.
+		Manual:
+			- Manual for the Iconic Java tools and NetBeans projects.
+		libsvm_iconic:
+			- NetBeans project and compiled version of the Iconic LibSVM.
+		quest_iconic:
+			- NetBeans project and compiled version of the Iconic QuEst.
+		svm_models:
+			- SVM models for various language pairs.
